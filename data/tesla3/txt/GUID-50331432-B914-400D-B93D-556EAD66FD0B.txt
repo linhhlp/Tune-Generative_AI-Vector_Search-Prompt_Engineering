@@ -1,0 +1,533 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Traffic-Aware Cruise Control
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+_Depending on market region, vehicle configuration, options purchased, and
+software version, your vehicle may not be equipped with Traffic-Aware Cruise
+Control, or the feature may not operate exactly as described. If your vehicle
+is not equipped, refer to the owner's manual on your vehicle's touchscreen for
+instructions on how to use Cruise Control._
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Traffic-Aware Cruise Control is a BETA feature.
+
+Traffic-Aware Cruise Control determines when there is a vehicle in front of
+you in the same lane. If the area in front of Model 3 is clear, Traffic-Aware
+Cruise Control maintains a set driving speed. When a vehicle is detected,
+Traffic-Aware Cruise Control is designed to slow down Model 3 as needed to
+maintain a selected time-based distance from the vehicle in front, up to the
+set speed. Traffic-Aware Cruise Control does not eliminate the need to watch
+the road in front of you and to manually apply the brakes when needed.
+
+Traffic-Aware Cruise Control is primarily intended for driving on dry,
+straight roads, such as highways.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Ensure all cameras and sensors (if equipped) are clean before each drive.
+Dirty cameras and sensors, as well as environmental conditions such as rain
+and faded lane markings, can affect Autopilot performance.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Traffic-Aware Cruise Control is designed for your driving comfort and
+convenience and is not a collision warning or avoidance system. It is your
+responsibility to stay alert, drive safely, and be in control of the vehicle
+at all times. Never depend on Traffic-Aware Cruise Control to adequately slow
+down Model 3. Always watch the road in front of you and be prepared to take
+corrective action at all times. Failure to do so can result in serious injury
+or death.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Although Traffic-Aware Cruise Control is capable of detecting pedestrians and
+cyclists, never depend on Traffic-Aware Cruise Control to adequately slow
+Model 3 down for them. Always watch the road in front of you and be prepared
+to take corrective action at all times. Failure to do so can result in serious
+injury or death.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Do not use Traffic-Aware Cruise Control on winding roads with sharp curves, on
+icy or slippery road surfaces, or when weather conditions (such as heavy rain,
+snow, fog, etc.) make it inappropriate to drive at a consistent speed.
+Traffic-Aware Cruise Control does not adapt driving speed based on road and
+driving conditions.
+
+**Parent topic:** Autopilot
+
+## To Use Traffic-Aware Cruise Control
+
+To initiate Traffic-Aware Cruise Control when no vehicle is detected ahead of
+you, you must be driving at least 18 mph (30 km/h), unless certain vehicle and
+environmental conditions are met, in which case, you may be able to initiate
+it at lower speeds. If a vehicle is detected ahead of you, you can initiate
+Traffic-Aware Cruise Control at any speed, even when stationary, provided
+Model 3 is at least 5 feet (1.5 m) behind the detected vehicle and certain
+vehicle and environmental conditions are met.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+The maximum cruising speed is 90 mph (150 km/h). It is the driver's
+responsibility to cruise at a safe speed based on road conditions and speed
+limits.
+
+![Icon showing the set
+speed.](../../images/GUID-522B6EE6-3EB3-45F2-9281-2A786ED2B8E7-online-en-
+US.png)
+
+When Traffic-Aware Cruise Control is available but not engaged, the
+touchscreen displays the cruising speed in gray. The number shown represents
+the cruising speed that will be set when you engage Traffic-Aware Cruise
+Control.
+
+![Icon showing the set
+speed.](../../images/GUID-A288AFFE-4DA2-4819-A0FF-756255B63D6F-online-en-
+US.png)
+
+When Traffic-Aware Cruise Control is actively cruising at a set cruising
+speed, the cruising speed is highlighted with blue text.
+
+  1. You can choose whether Traffic-Aware Cruise Control engages at the currently detected speed limit or your current driving speed. Touch Controls > Autopilot > Set Speed and choose either Speed Limit or Current Speed. If you choose to engage Traffic-Aware Cruise Control at the currently detected speed limit, you can specify an offset. Touch Set Speed Offset. You can choose a Fixed offset, in which the cruising speed adjusts by a specific number of mph (km/h) on all roads, or a Percentage offset, in which the cruising speed is adjusted as a percentage of the road's detected speed limit.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+When cruising at the speed limit, there may be situations where the cruising
+speed may not change when the speed limit changes.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Do not rely on Traffic-Aware Cruise Control or Speed Assist to determine an
+accurate or appropriate cruising speed. It is the driver's responsibility to
+cruise at a safe speed based on road conditions and applicable speed limits.
+
+  2. To engage Traffic-Aware Cruise Control when it is available (the car status area of the touchscreen displays the gray cruising speed icon), move the drive stalk down once, then release the accelerator pedal to allow Traffic-Aware Cruise Control to maintain the cruising speed.![Image of the drive stalk with an arrow going down.](../../images/GUID-C7245E1B-0AC4-43F8-B185-B4AFD6D3778B-online-en-US.png)
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Moving the drive stalk down twice in quick succession engages Autosteer
+(assuming it has been enabled), which includes Traffic-Aware Cruise Control
+functionality, as described in Autosteer).
+
+  3. To change your speed while using Traffic-Aware Cruise Control, you can roll the right scroll wheel on the steering wheel up or down. You can also change the cruising speed to the current speed limit (including any offset you've specified), by either long pressing the drive stalk down, or touching the speed limit sign on the touchscreen. For more details, see Changing the Cruising Speed. 
+  4. To cancel Traffic-Aware Cruise Control, push the drive stalk up once or press the brake pedal. See Canceling and Resuming for more information. 
+
+## Set Traffic-Aware Cruise Control Chime
+
+If you want a chime to sound when you engage or cancel Traffic-Aware Cruise
+Control, touch Controls > Autopilot > Traffic-Aware Cruise Control Chime.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Model 3 must be in Park.
+
+## Changing the Cruising Speed
+
+Roll the right scroll wheel up to increase, or down to decrease, the set
+speed. Slowly rolling the scroll wheel changes the set speed in 1 mph (1 km/h)
+increments and quickly rolling the scroll wheel changes the set speed to the
+closest 5 mph (5 km/h) increment. For example, if you are traveling at 57 mph
+and quickly roll the scroll wheel, the speed increases to 60 mph.
+
+![Image showing a zoombox going to the right scroll wheel with arrows going up
+and down on the scroll
+wheel.](../../images/GUID-511658A4-76E5-404F-B63B-41535056E062-online-en-
+US.png)
+
+With Traffic-Aware Cruise Control engaged and cruising at a set speed, you can
+also change the cruising speed to the current speed limit (including any
+offset you've specified), by either pushing the drive stalk downward and
+briefly holding, or touching and briefly holding the speed limit sign on the
+touchscreen, until you see the cruising speed change.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+It may take a few seconds for Model 3 to reach the new cruising speed,
+assuming Model 3 is not cruising behind a vehicle that is driving slower than
+your set speed.
+
+## Cruising at the Set Speed
+
+Traffic-Aware Cruise Control maintains your set cruising speed whenever a
+vehicle is not detected in front of Model 3. When cruising behind a detected
+vehicle, Traffic-Aware Cruise Control accelerates and decelerates Model 3 as
+needed to maintain a chosen following distance (see Adjust the Following
+Distance), up to the set speed.
+
+Traffic-Aware Cruise Control also adjusts the cruising speed when entering and
+exiting curves.
+
+You can manually accelerate at any time when cruising at a set speed, but when
+you release the accelerator, Traffic-Aware Cruise Control resumes cruising at
+the set speed.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+When Traffic-Aware Cruise Control is actively slowing down Model 3 to maintain
+the selected distance from the vehicle ahead, brake lights turn on to alert
+other road users that you are slowing down. You may notice slight movement of
+the brake pedal. However, when Traffic-Aware Cruise Control is accelerating
+Model 3, the accelerator pedal does not move.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Traffic-Aware Cruise Control may occasionally cause Model 3 to brake when not
+required or when you are not expecting it. This can be caused by closely
+following a vehicle ahead, detecting vehicles or objects in adjacent lanes
+(especially on curves), etc.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Due to limitations inherent in the onboard GPS (Global Positioning System),
+you may experience situations in which Model 3 slows down, especially near
+exits or off-ramps where a curve is detected and/or you are navigating to a
+destination and not following the route.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Traffic-Aware Cruise Control may not detect all objects and, especially when
+cruising over 50 mph (80 km/h), may not brake/decelerate when a vehicle or
+object is only partially in the driving lane or when a vehicle you are
+following moves out of your driving path and a stationary or slow-moving
+vehicle or object is in front of you. Always pay attention to the road ahead
+and stay prepared to take immediate corrective action. Depending on Traffic-
+Aware Cruise Control to avoid a collision can result in serious injury or
+death. In addition, Traffic-Aware Cruise Control may react to vehicles or
+objects that either do not exist, or are not in your lane of travel, causing
+Model 3 to slow down unnecessarily or inappropriately.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Traffic-Aware Cruise Control may be unable to provide adequate speed control
+because of limited braking capability and hills. It can also misjudge the
+distance from a vehicle ahead. Driving downhill can increase driving speed,
+causing Model 3 to exceed your set speed (and potentially the road's speed
+limit). Never depend on Traffic-Aware Cruise Control to slow down Model 3
+enough to prevent a collision. Always keep your eyes on the road when driving
+and be prepared to take corrective action as needed. Depending on Traffic-
+Aware Cruise Control to reduce your driving speed enough to prevent a
+collision can result in serious injury or death.
+
+## HOLD State
+
+When following a vehicle, Traffic-Aware Cruise Control remains active at low
+speeds, even when Model 3 comes to a full stop. When the vehicle is moving
+again, Traffic-Aware Cruise Control resumes operating at the set speed.
+However, under the following circumstances, Traffic-Aware Cruise Control goes
+into a HOLD state, in which case, you need to briefly press the accelerator
+pedal to resume cruising. When the HOLD status is active, the touchscreen
+displays the HOLD icon and a message that indicates that you need to resume
+cruise control. The following circumstances can cause Traffic-Aware Cruise
+Control to go into the HOLD state:
+
+  * Model 3 has been at a standstill for 5 minutes.
+  * Model 3 detects a pedestrian (the HOLD state may clear when the pedestrian is no longer detected).
+  * Model 3 suddenly loses visibility of the vehicle in front of you.
+  * An obstacle is detected in front of Model 3.
+
+## Cruising Near or On Exits
+
+When cruising near an exit on a controlled-access highway and engaging the
+turn signal toward the off-ramp, Traffic-Aware Cruise Control assumes you are
+exiting and begins to slow down Model 3. If you do not drive onto the off-
+ramp, Traffic-Aware Cruise Control resumes cruising at the set speed. In a
+region with right hand traffic, this occurs only when you engage the right
+turn signal when driving in the right-most lane within 164 feet (50 meters) of
+an exit. Likewise in regions with left hand traffic; when engaging the left
+turn signal when driving in the left-most lane within 164 feet (50 meters) of
+an exit.
+
+When cruising onto an on-ramp to a controlled-access highway, Traffic-Aware
+Cruise Control automatically adjusts the set cruising speed to the speed limit
+of the highway, plus any offset you have specified.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+The on-board Global Positioning System (GPS) determines if you are driving in
+a region with right or left hand traffic. In situations where GPS data is
+unavailable (for example, if there is inadequate signal), engaging the turn
+signal near an exit does not cause Traffic-Aware Cruise Control to slow down
+Model 3.
+
+When enabled while on a highway interchange or off-ramp, Traffic-Aware Cruise
+Control may reduce your set speed in 5 mph (5 km/h) increments – to as slow as
+25 mph (40 km/h) – to better match the reported speeds of other Tesla vehicles
+that have driven at that specific location. To override this and continue
+cruising at your set speed, tap the accelerator pedal. The new set speed is
+maintained for the duration of the interchange or off-ramp (unless you
+override it or cancel Traffic-Aware Cruise Control). After the interchange or
+off-ramp, the set speed may revert or change as necessary based on the new
+location. For example, if you merged onto a different highway, the set
+cruising speed reverts to what it was before driving on the interchange.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+In some cases (such as having insufficient data), Traffic-Aware Cruise Control
+may not automatically reduce the set speed on the highway interchange or off-
+ramp. Do not rely on Traffic-Aware Cruise Control to determine an appropriate
+driving speed. Tesla recommends driving at a speed that is safe for road
+conditions and within posted speed limits.
+
+## Adjust the Following Distance
+
+To adjust the following distance you want to maintain between Model 3 and a
+vehicle traveling ahead of you, press the steering wheel's right scroll button
+to the left or right. Each setting corresponds to a time-based distance that
+represents how long it takes for Model 3, from its current location, to reach
+the location of the rear bumper of the vehicle ahead of you. Your setting is
+retained until you manually change it.
+
+The closest following distance is 2.
+
+![Image showing a zoombox going to the right scroll wheel with arrows going
+left and right on the scroll
+wheel.](../../images/GUID-119F6FC8-2296-4F01-93B1-FF04FDA0964C-online-en-
+US.png)
+
+As you adjust the following distance, the touchscreen displays the current
+setting.
+
+![Screenshot of two cars with a measurement between them and the number
+"3".](../../images/GUID-69D16596-E661-4004-8F5E-767AFF7DE223-online-en-US.png)
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+It is the driver's responsibility to determine and maintain a safe following
+distance at all times. Do not rely on Traffic-Aware Cruise Control to maintain
+an accurate or appropriate following distance.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Never depend on Traffic-Aware Cruise Control to adequately slow down Model 3
+to avoid a collision. Always watch the road in front of you and stay prepared
+to take immediate corrective action.
+
+## Overtake Acceleration
+
+When following a vehicle with Traffic-Aware Cruise Control active, engaging
+the turn signal (to indicate a move into the passing lane) accelerates Model 3
+towards the vehicle ahead. By momentarily holding the turn signal stalk up or
+down, you can quickly accelerate up to your set speed without having to press
+the accelerator pedal. The turn signal causes acceleration only when all of
+the following conditions are met:
+
+  * Traffic-Aware Cruise Control is operating and detects a vehicle in front of you.
+  * No obstacles or vehicles are detected in the target lane.
+  * Model 3 is traveling below the set speed, but over 45 mph (72 km/h).
+
+Overtake Acceleration is intended as an aid when passing a vehicle ahead of
+you. When the turn signal is engaged, Traffic-Aware Cruise Control continues
+to maintain distance from the vehicle ahead, but allows you to drive slightly
+closer than your selected distance.
+
+Acceleration cancels when one of the conditions happen:
+
+  * You reach your set cruising speed.
+  * Changing lanes takes too long.
+  * Model 3 gets too close to the vehicle ahead.
+
+OR
+
+  * You disengage the turn signal.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Overtake Acceleration occurs when you hold the turn signal in the momentary
+position (partially engaged). When you release the turn signal, Model 3 stops
+accelerating (in the same way as when you release the accelerator pedal) and
+resumes the set speed.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Overtake Acceleration can cancel for many unforeseen reasons in addition to
+those listed above (for example, lack of GPS data). Stay alert and never
+depend on Overtake Acceleration to increase your driving speed.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Overtake Acceleration increases your driving speed whenever the appropriate
+turn signal is engaged, and accelerates Model 3 closer to the vehicle ahead.
+Although Traffic-Aware Cruise Control continues to maintain distance from the
+vehicle ahead, it is important to be aware that your selected following
+distance is reduced when Overtake Acceleration is active, particularly in
+cases where it may not be your intention to overtake the vehicle you are
+following.
+
+## Canceling and Resuming
+
+To manually cancel Traffic-Aware Cruise Control, press the brake pedal or
+briefly move the drive stalk up once. The cruising speed icon on the
+touchscreen turns gray to indicate that Traffic-Aware Cruise Control is no
+longer active.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Do not hold the drive stalk up for more than one second. Doing so cancels
+Traffic-Aware Cruise Control and shifts Model 3 into Neutral.
+
+![Image of the drive stalk with an arrow going
+up.](../../images/GUID-60C73157-FA4E-4976-B8D7-4D54DDE2784A-online-en-US.png)
+
+To resume cruising, move the drive stalk fully down once then release.
+
+![Image of the drive stalk with an arrow going
+down.](../../images/GUID-C7245E1B-0AC4-43F8-B185-B4AFD6D3778B-online-en-
+US.png)
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+When Traffic-Aware Cruise Control cancels, Model 3 does not coast. Instead,
+regenerative braking slows down Model 3 in the same way as when you move your
+foot off the accelerator when driving without Traffic-Aware Cruise Control
+(see Regenerative Braking).
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Traffic-Aware Cruise Control cancels, or may not be available, in the
+following situations:
+
+  * You press the brake pedal.
+  * Your driving speed exceeds the maximum cruising speed of 90 mph (150 km/h).
+  * You shift Model 3.
+  * A door is opened.
+  * A camera or sensor (if equipped) is obstructed. This could be caused by dirt, mud, ice, snow, fog, etc.
+  * The traction control setting is manually disabled or is repeatedly engaging to prevent wheels from slipping.
+  * The wheels are spinning while at a standstill.
+  * The Traffic-Aware Cruise Control system is failing or requires service.
+
+When Traffic-Aware Cruise Control is unavailable or cancels, Model 3 no longer
+drives consistently at a set speed and no longer maintains a specified
+distance from the vehicle ahead.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Traffic-Aware Cruise Control can cancel unexpectedly at any time for
+unforeseen reasons. Always watch the road in front of you and stay prepared to
+take appropriate action. It is the driver's responsibility to be in control of
+Model 3 at all times.
+
+## Summary of Cruise Indicators
+
+![Icon showing the set
+speed.](../../images/GUID-522B6EE6-3EB3-45F2-9281-2A786ED2B8E7-online-en-
+US.png)
+
+Traffic-Aware Cruise Control is available but is not actively controlling your
+speed until you activate it. The number shown in gray is the cruising speed
+that will be set when you engage Traffic-Aware Cruise Control.
+
+![Icon showing the set
+speed.](../../images/GUID-A288AFFE-4DA2-4819-A0FF-756255B63D6F-online-en-
+US.png)
+
+Traffic-Aware Cruise Control is actively cruising and is either maintaining
+the set speed (no vehicle in front) or is maintaining a chosen following
+distance from a vehicle ahead (up to the set speed).
+
+![Icon of an "H" inside a circle with half circles on each side of the
+circle.](../../images/GUID-8EDE6D37-CB58-4055-B75E-C89C7F9728C4-online-en-
+US.png)
+
+Model 3 has fully stopped but is in a HOLD state. If safe, press the
+accelerator pedal to resume cruising at the set speed.
+
+## Limitations
+
+Traffic-Aware Cruise Control is particularly unlikely to operate as intended
+in the following types of situations:
+
+  * The road has sharp curves.
+  * Visibility is poor (due to heavy rain, snow, fog, etc.).
+  * Bright light (such as from oncoming headlights or direct sunlight) is interfering with the view of the camera(s).
+  * A camera or sensor (if equipped) is obstructed (fogged over, dirty, covered by a sticker, etc.).
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+The list above does not represent an exhaustive list of situations that may
+interfere with proper operation of Traffic-Aware Cruise Control.
+
+  

@@ -1,0 +1,34 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Pedestrian Warning System
+
+The Pedestrian Warning System (if equipped) causes Model 3 to emit sound when
+driving below approximately 19 mph (32 km/h) or while driving in reverse.
+Electric vehicles operate quietly and this sound helps to alert pedestrians of
+your oncoming vehicle. The sound, which activates whenever Model 3 is shifted
+out of Park, gets louder as speed increases.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+The Pedestrian Warning System may not be available in vehicles manufactured
+prior to approximately September 1, 2019.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+If sound cannot be heard, pedestrians may not be aware of your oncoming
+vehicle, which may increase the likelihood of a collision resulting in serious
+injury or death. If the Pedestrian Warning System is not operating,
+immediately contact Tesla.
+
+**Parent topic:** Driving
+
+  

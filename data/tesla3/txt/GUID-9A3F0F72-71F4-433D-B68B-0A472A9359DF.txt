@@ -1,0 +1,3324 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Troubleshooting Alerts
+
+**Parent topic:** Troubleshooting
+
+## APP_w048Autopilot features temporarily unavailableFeatures may be restored
+on next drive
+
+What this alert means:
+
+Autopilot features are currently unavailable on your vehicle. Depending on the
+configuration of your vehicle, Autopilot features that are disabled may
+include:
+
+  * Autosteer
+  * Traffic-Aware Cruise Control
+  * Automatic Emergency Braking
+  * Forward Collision Warning
+  * Lane Departure Warning 
+
+What to do:
+
+This alert can be set for several reasons. Check for additional alerts that
+indicate the cause of this condition.
+
+Typically, Autopilot features are restored on your next drive. If this alert
+persists across multiple drives, schedule service at your earliest
+convenience.
+
+For more information and the full list of Autopilot features, see About
+Autopilot.
+
+## APP_w207Autosteer temporarily unavailable
+
+What this alert means:
+
+Autosteer is temporarily unavailable. This could be a temporary condition
+caused by an external factor, such as:
+
+  * Missing or faded lane markers. 
+  * Narrow or winding roads. 
+  * Poor visibility due to rain, snow, fog, or other weather. 
+  * Extremely hot or cold temperatures.
+  * Bright light due to other vehicle headlights, direct sunlight, or other light sources. 
+
+This alert will also be present if you exceeded the maximum speed limit for
+Autosteer with Autosteer active. In this case, Autosteer will not be available
+for the rest of your current drive.
+
+What to do:
+
+Continue to your destination. If Autosteer is not available by the time you
+reach your destination, and remains unavailable during your next planned
+drive, check for the following:
+
+  * Damage or obstruction caused by mud, ice, snow, or other environmental factors
+  * Obstruction caused by an object mounted on the vehicle, like a bike rack
+  * Obstructions caused by adding paint or adhesive products like wraps, stickers, or rubber coatings to your vehicle
+  * A damaged or misaligned bumper
+
+If there are no obvious obstructions, or if you find damage to the vehicle,
+schedule service at your convenience. Your vehicle is OK to drive in the
+meantime.
+
+For more information, see Autosteer.
+
+## APP_w218Autosteer speed limit exceededTake control of steering wheel
+
+What this alert means:
+
+Autosteer is unavailable because your vehicle has exceeded the maximum speed
+limit for this driver assistance feature.
+
+What to do:
+
+Take immediate control of the steering wheel and maintain control until you
+reach your destination.
+
+In most cases, Autosteer will not be available for the rest of your current
+drive. To reset it, bring the vehicle to a complete stop and shift into Park.
+When you shift into Drive to travel to your next destination, Autosteer should
+be available again.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+If this alert becomes active while you are driving in Germany, Autosteer
+should be available again once your vehicle is traveling below the Autosteer
+speed limit.
+
+If Autosteer is not available during your next drive, and remains unavailable
+throughout subsequent drives, schedule service at your convenience. Your
+vehicle is OK to drive in the meantime.
+
+For more information, see Autosteer.
+
+## APP_w221Cruise control unavailableReduced front radar visibility
+
+What this alert means:
+
+Traffic-Aware Cruise Control and Autosteer are unavailable because the radar
+located in the front bumper area of your vehicle has no or low visibility.
+
+This could be a temporary obstruction caused by factors like snow, ice, dirt,
+or mud.
+
+What to do:
+
+Continue to your destination. Your vehicle is OK to drive. Traffic-Aware
+Cruise Control and Autosteer will remain unavailable as long as the radar
+lacks adequate visibility.
+
+If the alert persists throughout your drive, examine the front bumper before
+your next planned drive and attempt to clear any obstruction. See the About
+Autopilot sections “How It Works” and “Cleaning Cameras and Sensors” for more
+information on clearing dirt or debris from that area of the vehicle.
+
+If this alert persists throughout subsequent drives but no obstruction is
+visible on the front bumper where the radar is located, schedule service at
+your earliest convenience. Your vehicle is OK to drive in the meantime.
+
+## APP_w222Cruise control unavailableReduced front camera visibility
+
+What this alert means:
+
+Traffic-Aware Cruise Control and Autosteer are unavailable because one or more
+of the front cameras in your vehicle is blocked or blinded by external
+conditions.
+
+Traffic-Aware Cruise Control and Autosteer will remain unavailable while a
+front camera lacks adequate visibility. Cameras can be blocked or blinded by:
+
+  * Dirt or debris on the camera surface. 
+  * Environmental conditions like rain, fog, snow, or dew.
+  * Bright sunlight or glare from another light source.
+  * Condensation (water droplets or mist) on the camera surface.
+
+What to do:
+
+Continue to your destination. Your vehicle is OK to drive.
+
+This is often a temporary issue that clears up on its own. If the alert does
+not clear by the end of your drive:
+
+  * Inspect and clean the front camera area at the top center of the windshield before your next planned drive. 
+  * Check the camera surface for condensation, dirt, or other debris and attempt to clear any obstruction. 
+
+See the About Autopilot sections “How It Works” and “Cleaning Cameras and
+Sensors” for more information on clearing dirt or debris from that area of the
+vehicle.
+
+Although condensation on the inside of the front camera enclosure cannot be
+wiped clean, you can usually clear it quicker by following these steps:
+
+  1. Pre-condition the cabin with the temperature set to High and A/C turned ON.
+  2. Turn on the front windshield defroster.
+
+If this alert persists throughout subsequent drives but no front camera
+obstruction is visible, schedule service at your earliest convenience. Your
+vehicle is OK to drive in the meantime.
+
+## APP_w224Cruise control unavailableContinue driving to allow cameras to
+calibrate
+
+What this alert means:
+
+Traffic-Aware Cruise Control and Autosteer are unavailable because the cameras
+on your vehicle are not fully calibrated.
+
+Your vehicle must maneuver with great precision when features like Traffic-
+Aware Cruise Control and Autosteer are active. Before these features can be
+used for the first time, the cameras must complete an initial self-
+calibration. Occasionally, one or more cameras can become uncalibrated.
+
+What to do:
+
+Continue to your destination. Your vehicle is OK to drive.
+
+Traffic-Aware Cruise Control and Autosteer will remain unavailable until
+camera calibration is complete.
+
+When calibration is complete, Traffic-Aware Cruise Control and Autosteer
+should be available.
+
+For your convenience, a calibration progress indicator is displayed on the
+touchscreen. Calibration typically completes after your vehicle has driven
+20-25 miles (32-40 km), but the distance varies depending on road and
+environmental conditions. For example, driving on a straight road with highly
+visible lane markings helps the cameras calibrate quicker.
+
+If the alert persists and camera calibration has not completed after your
+vehicle has driven 100 miles (160 km) or more, or Traffic-Aware Cruise Control
+and Autosteer remain unavailable despite successful camera calibration,
+schedule service at your earliest convenience. Your vehicle is OK to drive in
+the meantime.
+
+## APP_w304Camera blocked or blindedClean camera or wait for it to regain
+visibility
+
+What this alert means:
+
+One or more of the vehicle cameras is blocked or blinded due to external
+conditions. When the cameras cannot provide accurate visual information, some
+or all Autopilot features may be temporarily unavailable.
+
+Cameras can be blocked or blinded by:
+
+  * Dirt or debris on the camera surface. 
+  * Environmental conditions like rain, fog, snow, or dew.
+  * Bright sunlight or glare from another light source.
+  * Condensation (water droplets or mist) on the camera surface.
+
+What to do:
+
+Continue to your destination. Your vehicle is OK to drive. This is often a
+temporary issue that will be resolved when condensation evaporates or a
+particular environmental condition is no longer present.
+
+If the alert does not clear by the time you reach your destination, check
+camera surfaces for condensation, dirt, or other debris. For camera locations,
+see About Autopilot.
+
+Clean the cameras as necessary before your next planned drive. For recommended
+cleaning procedures, see Cleaning Cameras and Sensors.
+
+If you continue to see this alert after cleaning the cameras, check the inside
+surfaces of the door pillar camera enclosures for condensation. Although
+condensation inside the camera enclosures cannot be wiped clean, you can
+usually clear it faster by following these steps:
+
+  1. Pre-condition the cabin with the temperature set to High and A/C turned ON.
+  2. Turn on the front windshield defroster.
+  3. Direct the air vents toward the door pillar cameras.
+
+For more information on clearing condensation from camera enclosures, see
+Cleaning Cameras and Sensors.
+
+If the alert does not clear by the end of your next planned drive, despite
+cleaning the indicated camera(s) and following recommended steps to clear
+condensation, schedule service at your next convenient opportunity. Your
+vehicle is OK to drive in the meantime.
+
+## BMS_a066Maximum charge level and range may be reducedOK to drive - Schedule
+service soon
+
+What this alert means:
+
+Your vehicle has detected a condition internal to the high voltage battery
+that is limiting the battery’s performance. As a result, maximum charge level
+and range may be reduced. Service is required to restore full performance.
+
+What to do:
+
+Your vehicle is OK to drive.
+
+If this alert persists, schedule service at your earliest convenience. Without
+service, you may notice further reductions in your vehicle's maximum charge
+level and range.
+
+For more information on the high voltage battery, see High Voltage Battery
+Information.
+
+## BMS_a067High voltage battery performance limitedOK to drive - Schedule
+service soon
+
+What this alert means:
+
+Your vehicle has detected a condition internal to the high voltage battery
+that is limiting the battery’s performance. Service is required to restore
+full performance.
+
+Your vehicle's maximum range may be reduced, and your vehicle may take longer
+to charge than before. Maximum charge rate varies, as always, based on
+location, power source, and charging equipment.
+
+What to do:
+
+Your vehicle is OK to drive.
+
+It is recommended that you schedule service at your earliest convenience.
+Without service, your vehicle may continue to show further reductions in
+maximum range and charging performance and may also begin to show reduced
+power and acceleration when driving.
+
+While this alert remains present, keep your vehicle charged to 30% capacity or
+higher to avoid any discrepancy between the estimated range displayed on your
+vehicle's touchscreen and the actual high voltage battery charge level.
+
+For more information on the high voltage battery, see High Voltage Battery
+Information.
+
+## BMS_a068High voltage battery requires serviceAcceleration and charging
+performance reduced
+
+What this alert means:
+
+Your vehicle has detected a condition internal to the high voltage battery
+that is limiting the battery’s performance.
+
+You may notice that your vehicle's top speed is reduced and it responds slower
+than previously to acceleration requests.
+
+Your vehicle's maximum range may be reduced, and your vehicle may take longer
+to charge than before. Maximum charge rate varies, as always, based on
+location, power source, and charging equipment.
+
+Service is required to restore full performance.
+
+What to do:
+
+Your vehicle is OK to drive.
+
+It is recommended that you schedule service at your earliest opportunity.
+Without service, your vehicle may continue to show reduced power,
+acceleration, range, and charging performance.
+
+While this alert remains present, keep your vehicle charged to 30% capacity or
+higher to avoid any discrepancy between the estimated range displayed on your
+vehicle's touchscreen and the actual high voltage battery charge level.
+
+For more information on the high voltage battery, see High Voltage Battery
+Information.
+
+## BMS_a069Battery charge level lowCharge now
+
+What this alert means:
+
+Your vehicle has detected that the high voltage battery does not have enough
+energy remaining to support driving. This alert is usually present because
+your vehicle's high voltage battery charge level has been reduced through
+normal operation.
+
+Your vehicle will be unable to drive or continue driving until charged.
+
+If this alert is present while you are driving, your vehicle needs to shut
+down. A separate vehicle alert should be present to indicate this condition.
+It is also possible your vehicle may shut down unexpectedly.
+
+If this alert is present when your vehicle is parked, you may be unable to
+drive.
+
+What to do:
+
+Charge your vehicle immediately. Charging your vehicle should restore your
+vehicle's ability to drive.
+
+If this alert occurs during subsequent drives, despite a displayed battery
+charge level of 5% or higher, schedule service at your earliest convenience.
+
+For more information on the high voltage battery, see High Voltage Battery
+Information.
+
+For more information on charging, see Charging Instructions.
+
+## CC_a001Unable to charge - Insufficient groundingProper wiring or outlet
+grounding must be verified
+
+What this alert means:
+
+No ground connection detected in the Wall Connector.
+
+What to do:
+
+Have the Wall Connector inspected by an electrician to make sure it is
+properly grounded. Your electrician should ensure there is proper grounding at
+your circuit breaker or power distribution box and also ensure that
+appropriate connections are made to the Wall Connector.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a002Unable to charge - Insufficient groundingDisconnect and retry or use
+different equipment
+
+What this alert means:
+
+Ground fault. Current is leaking through an unsafe path. Possible Line to
+ground or Neutral to ground fault.
+
+What to do:
+
+Try charging again by disconnecting the Wall Connector from the vehicle and
+reconnecting. If the issue persists, turn OFF the circuit breaker servicing
+the Wall Connector, wait 10 seconds, turn the circuit breaker ON again, then
+try reconnecting the Wall Connector to the vehicle. If the issue persists,
+consult your electrician or contact Tesla.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a003Unable to charge - Wall Connector GFCI trippedDisconnect and retry
+or use different equipment
+
+What this alert means:
+
+Ground fault. Current is leaking through an unsafe path. Possible Line to
+ground or Neutral to ground fault.
+
+What to do:
+
+Try charging again by disconnecting the Wall Connector from the vehicle and
+reconnecting. If the issue persists, turn OFF the circuit breaker servicing
+the Wall Connector, wait 10 seconds, turn the circuit breaker ON again, then
+try reconnecting the Wall Connector to the vehicle. If the issue persists,
+consult your electrician or contact Tesla.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a004Unable to charge - Wall Connector issueWall Connector needs service
+
+What this alert means:
+
+Wall Connector hardware issue. Possible issues include:
+
+  1. Contactor not working
+  2. Self-test of internal ground fault monitoring circuit failed
+  3. Thermal sensor disconnected
+  4. Other hardware component issues
+
+What to do:
+
+An internal issue was detected by the Wall Connector.
+
+  1. Try charging again by disconnecting the Wall Connector from the vehicle and reconnecting.
+  2. If the issue persists, turn OFF the circuit breaker for the Wall Connector, wait 10 seconds, and turn the circuit breaker ON again. Then try reconnecting the Wall Connector to the vehicle.
+  3. If the issue persists, have an electrician make sure all wires are properly connected and torqued according to the instructions in the Wall Connector Installation Manual.
+  4. Once your electrician has completed all work and restored power to the Wall Connector, try charging again by reconnecting the Wall Connector to the vehicle.
+  5. If the issue persists, the Wall Connector requires service.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a005Unable to charge - Wall Connector GFCI trippedDisconnect and retry
+or use different equipment
+
+What this alert means:
+
+Ground fault. Current is leaking through an unsafe path. Possible Line to
+ground or Neutral to ground fault.
+
+What to do:
+
+Try charging again by disconnecting the Wall Connector from the vehicle and
+reconnecting. If the issue persists, turn OFF the circuit breaker servicing
+the Wall Connector, wait 10 seconds, turn the circuit breaker ON again, then
+try reconnecting the Wall Connector to the vehicle. If the issue persists,
+consult your electrician or contact Tesla.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a006Unable to charge - Wall Connector overcurrentDisconnect and retry or
+use different equipment
+
+What this alert means:
+
+Over current protection.
+
+What to do:
+
+Reduce the vehicle's charge current setting. If the issue persists, service is
+required.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a007Unable to charge - Input voltage too highVoltage must be within Wall
+Connector rating
+
+What this alert means:
+
+Over or under voltage protection.
+
+What to do:
+
+Consult your electrician to ensure appropriate voltage on the circuit breaker
+that services the Wall Connector.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a008Unable to charge - Input voltage too lowVoltage must be within Wall
+Connector rating
+
+What this alert means:
+
+Over or under voltage protection.
+
+What to do:
+
+Consult your electrician to ensure appropriate voltage on the circuit breaker
+that services the Wall Connector.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a009Unable to charge - Input wired incorrectlyInput wiring to Wall
+Connector must be corrected
+
+What this alert means:
+
+Input miswired: possibly Line and Neutral are swapped.
+
+What to do:
+
+The wiring between the wall power and the Wall Connector has been incorrectly
+installed. Consult your electrician.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a010Unable to charge - Wall Connector issueWall Connector needs service
+
+What this alert means:
+
+Wall Connector hardware issue. Possible issues include:
+
+  1. Contactor not working
+  2. Self-test of internal ground fault monitoring circuit failed
+  3. Thermal sensor disconnected
+  4. Other hardware component issues
+
+What to do:
+
+An internal issue was detected by the Wall Connector.
+
+  1. Try charging again by disconnecting the Wall Connector from the vehicle and reconnecting.
+  2. If the issue persists, turn OFF the circuit breaker for the Wall Connector, wait 10 seconds, and turn the circuit breaker ON again. Then try reconnecting the Wall Connector to the vehicle.
+  3. If the issue persists, have an electrician make sure all wires are properly connected and torqued according to the instructions in the Wall Connector Installation Manual.
+  4. Once your electrician has completed all work and restored power to the Wall Connector, try charging again by reconnecting the Wall Connector to the vehicle.
+  5. If the issue persists, the Wall Connector requires service.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a011Unable to charge - Wall Connector too hotLet Wall Connector cool and
+try again
+
+What this alert means:
+
+Over temperature protection (latchoff).
+
+What to do:
+
+Make sure the Wall Connector is not covered by anything and that there is no
+heat source nearby. If the problem persists in normal ambient temperatures
+(under 100°F or 38°C) , service is required.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a012Unable to charge - Wall connection too hotOutlet or Wall Connector
+wiring must be checked
+
+High temperature detected by Wall Connector alerts indicate the building
+connection to the Wall Connector is getting too warm, so charging has stopped
+to protect the wiring and Wall Connector.
+
+This is not typically an issue with your vehicle or your Wall Connector, but
+rather an issue with the building wiring. This may be caused by a loose
+building wiring connection to the Wall Connector and can be fixed quickly by
+an electrician.
+
+To regain normal charge operation, try the following steps.
+
+If the Wall Connector is plugged into a wall outlet, make sure:
+
+  * The plug is fully inserted into the receptacle / outlet
+  * The plug / outlet area is not blocked or covered by anything
+  * There is no heat source nearby
+
+If the issue persists or the Wall Connector is hard-wired, contact an
+electrician to inspect the building wiring connection to the Wall Connector.
+They should make sure that all wires are properly connected and torqued
+according to the installation guide for the Wall Connector.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a013Unable to charge - Charge handle too hotCheck charge handle or
+charge port for debris
+
+What this alert means:
+
+Over temperature protection (latchoff).
+
+What to do:
+
+Make sure the connector is fully inserted into the charge inlet in the
+vehicle's charging port, is not covered by anything, and there is no heat
+source nearby. If the issue persists in normal ambient temperatures (under
+100°F or 38°C) , service is required.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a014Unable to charge - Wall Connector issueWall Connector needs service
+
+What this alert means:
+
+Wall Connector hardware issue. Possible issues include:
+
+  1. Contactor not working
+  2. Self-test of internal ground fault monitoring circuit failed
+  3. Thermal sensor disconnected
+  4. Other hardware component issues
+
+What to do:
+
+An internal issue was detected by the Wall Connector.
+
+  1. Try charging again by disconnecting the Wall Connector from the vehicle and reconnecting.
+  2. If the issue persists, turn OFF the circuit breaker for the Wall Connector, wait 10 seconds, and turn the circuit breaker ON again. Then try reconnecting the Wall Connector to the vehicle.
+  3. If the issue persists, have an electrician make sure all wires are properly connected and torqued according to the instructions in the Wall Connector Installation Manual.
+  4. Once your electrician has completed all work and restored power to the Wall Connector, try charging again by reconnecting the Wall Connector to the vehicle.
+  5. If the issue persists, the Wall Connector requires service.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a015Unable to charge - Vehicle connection issueInsert charge handle
+fully into charge port
+
+What this alert means:
+
+A communication error occurred between the Wall Connector and the vehicle.
+
+What to do:
+
+Try charging again by disconnecting the Wall Connector from the vehicle and
+reconnecting.
+
+  1. If the issue persists, turn OFF the circuit breaker servicing the Wall Connector, wait 10 seconds, turn the circuit breaker ON again, then try reconnecting the Wall Connector to the vehicle. 
+  2. If the issue persists and other charging equipment is available, plug the vehicle into another Wall Connector or a Mobile Connector to determine if the vehicle is able to communicate with other charging equipment.
+  3. If the issue persists, service is required.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a016Unable to charge - Vehicle connection issueInsert charge handle
+fully into charge port
+
+What this alert means:
+
+A communication error occurred between the Wall Connector and the vehicle.
+
+What to do:
+
+Try charging again by disconnecting the Wall Connector from the vehicle and
+reconnecting.
+
+  1. If the issue persists, turn OFF the circuit breaker servicing the Wall Connector, wait 10 seconds, turn the circuit breaker ON again, then try reconnecting the Wall Connector to the vehicle. 
+  2. If the issue persists and other charging equipment is available, plug the vehicle into another Wall Connector or a Mobile Connector to determine if the vehicle is able to communicate with other charging equipment.
+  3. If the issue persists, service is required.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a017Unable to charge - Vehicle connection issueInsert charge handle
+fully into charge port
+
+What this alert means:
+
+A communication error occurred between the Wall Connector and the vehicle.
+
+What to do:
+
+Try charging again by disconnecting the Wall Connector from the vehicle and
+reconnecting.
+
+  1. If the issue persists, turn OFF the circuit breaker servicing the Wall Connector, wait 10 seconds, turn the circuit breaker ON again, then try reconnecting the Wall Connector to the vehicle. 
+  2. If the issue persists and other charging equipment is available, plug the vehicle into another Wall Connector or a Mobile Connector to determine if the vehicle is able to communicate with other charging equipment.
+  3. If the issue persists, service is required.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a018Unable to charge - Vehicle connection issueInsert charge handle
+fully into charge port
+
+What this alert means:
+
+A communication error occurred between the Wall Connector and the vehicle.
+
+What to do:
+
+Try charging again by disconnecting the Wall Connector from the vehicle and
+reconnecting.
+
+  1. If the issue persists, turn OFF the circuit breaker servicing the Wall Connector, wait 10 seconds, turn the circuit breaker ON again, then try reconnecting the Wall Connector to the vehicle. 
+  2. If the issue persists and other charging equipment is available, plug the vehicle into another Wall Connector or a Mobile Connector to determine if the vehicle is able to communicate with other charging equipment.
+  3. If the issue persists, service is required.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a019Unable to charge - Vehicle connection issueInsert charge handle
+fully into charge port
+
+What this alert means:
+
+A communication error occurred between the Wall Connector and the vehicle.
+
+What to do:
+
+Try charging again by disconnecting the Wall Connector from the vehicle and
+reconnecting.
+
+  1. If the issue persists, turn OFF the circuit breaker servicing the Wall Connector, wait 10 seconds, turn the circuit breaker ON again, then try reconnecting the Wall Connector to the vehicle. 
+  2. If the issue persists and other charging equipment is available, plug the vehicle into another Wall Connector or a Mobile Connector to determine if the vehicle is able to communicate with other charging equipment.
+  3. If the issue persists, service is required.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a020Unable to charge - Wall Connector issueWall Connector needs service
+
+What this alert means:
+
+Wall Connector hardware issue. Possible issues include:
+
+  1. Contactor not working
+  2. Self-test of internal ground fault monitoring circuit failed
+  3. Thermal sensor disconnected
+  4. Other hardware component issues
+
+What to do:
+
+An internal issue was detected by the Wall Connector.
+
+  1. Try charging again by disconnecting the Wall Connector from the vehicle and reconnecting.
+  2. If the issue persists, turn OFF the circuit breaker for the Wall Connector, wait 10 seconds, and turn the circuit breaker ON again. Then try reconnecting the Wall Connector to the vehicle.
+  3. If the issue persists, have an electrician make sure all wires are properly connected and torqued according to the instructions in the Wall Connector Installation Manual.
+  4. Once your electrician has completed all work and restored power to the Wall Connector, try charging again by reconnecting the Wall Connector to the vehicle.
+  5. If the issue persists, the Wall Connector requires service.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a021Unable to charge - No primary Wall ConnectorCheck that primary unit
+is powered and available
+
+What this alert means:
+
+Load sharing (circuit breaker sharing) network: Need one (and only one) Wall
+Connector set as primary.
+
+What to do:
+
+Only one Wall Connector can be set to a primary configuration. Have your
+electrician confirm:
+
+  1. Only one of the Wall Connectors is set as primary.
+  2. All other Wall Connectors linked to the primary unit are set to paired position (position F).
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a022Unable to charge - More than 1 primary unitEnsure only 1 Wall
+Connector is set as primary
+
+What this alert means:
+
+Load sharing (circuit breaker sharing) network: Need one (and only one) Wall
+Connector set as primary.
+
+What to do:
+
+Only one Wall Connector can be set to a primary configuration. Have your
+electrician confirm:
+
+  1. Only one of the Wall Connectors is set as primary.
+  2. All other Wall Connectors linked to the primary unit are set to paired position (position F).
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a023Unable to charge - Too many Wall ConnectorsEnsure no more than 3
+units paired with primary
+
+What this alert means:
+
+Load sharing (circuit breaker sharing) network: More than three Wall
+Connectors are paired with the same primary unit.
+
+What to do:
+
+Consult your electrician to have one or more paired Wall Connectors moved to a
+different circuit and disconnected (unpaired) from this load sharing (circuit
+breaker sharing) network.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a024Unable to charge - Low Wall Connector currentPrimary unit current
+setting must be increased
+
+What this alert means:
+
+Incorrect rotary switch setting.
+
+What to do:
+
+Have your electrician adjust the Wall Connector’s internal rotary switch to a
+valid operating current setting. They should first make sure there is no power
+to the Wall Connector. The correlation between switch setting and current
+should be printed on the inside of the Wall Connector. Your electrician should
+also refer to the Set the Operating Current section in the Wall Connector
+Installation Manual.
+
+If the Wall Connector is set up for load sharing (circuit breaker sharing) and
+paired with other Wall Connectors, the rotary switch of the primary unit must
+be set to an operating current setting that allows each paired Wall Connector
+to receive at least 6A of charge current.
+
+Example: Three Wall Connectors are paired for load sharing. The primary unit
+needs to be set to a current of at least 3 * 6A = 18A or greater.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a025Unable to charge - Wall Connector issueWall Connector needs service
+
+What this alert means:
+
+Wall Connector hardware issue. Possible issues include:
+
+  1. Contactor not working
+  2. Self-test of internal ground fault monitoring circuit failed
+  3. Thermal sensor disconnected
+  4. Other hardware component issues
+
+What to do:
+
+An internal issue was detected by the Wall Connector.
+
+  1. Try charging again by disconnecting the Wall Connector from the vehicle and reconnecting.
+  2. If the issue persists, turn OFF the circuit breaker for the Wall Connector, wait 10 seconds, and turn the circuit breaker ON again. Then try reconnecting the Wall Connector to the vehicle.
+  3. If the issue persists, have an electrician make sure all wires are properly connected and torqued according to the instructions in the Wall Connector Installation Manual.
+  4. Once your electrician has completed all work and restored power to the Wall Connector, try charging again by reconnecting the Wall Connector to the vehicle.
+  5. If the issue persists, the Wall Connector requires service.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a026Unable to charge - Wall Connector issueWall Connector needs service
+
+What this alert means:
+
+Wall Connector hardware issue. Possible issues include:
+
+  1. Contactor not working
+  2. Self-test of internal ground fault monitoring circuit failed
+  3. Thermal sensor disconnected
+  4. Other hardware component issues
+
+What to do:
+
+An internal issue was detected by the Wall Connector.
+
+  1. Try charging again by disconnecting the Wall Connector from the vehicle and reconnecting.
+  2. If the issue persists, turn OFF the circuit breaker for the Wall Connector, wait 10 seconds, and turn the circuit breaker ON again. Then try reconnecting the Wall Connector to the vehicle.
+  3. If the issue persists, have an electrician make sure all wires are properly connected and torqued according to the instructions in the Wall Connector Installation Manual.
+  4. Once your electrician has completed all work and restored power to the Wall Connector, try charging again by reconnecting the Wall Connector to the vehicle.
+  5. If the issue persists, the Wall Connector requires service.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a027Unable to charge - Wall Connector issueWall Connector needs service
+
+What this alert means:
+
+Wall Connector hardware issue. Possible issues include:
+
+  1. Contactor not working
+  2. Self-test of internal ground fault monitoring circuit failed
+  3. Thermal sensor disconnected
+  4. Other hardware component issues
+
+What to do:
+
+An internal issue was detected by the Wall Connector.
+
+  1. Try charging again by disconnecting the Wall Connector from the vehicle and reconnecting.
+  2. If the issue persists, turn OFF the circuit breaker for the Wall Connector, wait 10 seconds, and turn the circuit breaker ON again. Then try reconnecting the Wall Connector to the vehicle.
+  3. If the issue persists, have an electrician make sure all wires are properly connected and torqued according to the instructions in the Wall Connector Installation Manual.
+  4. Once your electrician has completed all work and restored power to the Wall Connector, try charging again by reconnecting the Wall Connector to the vehicle.
+  5. If the issue persists, the Wall Connector requires service.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a028Unable to charge - Incorrect switch settingWall Connector rotary
+switch must be adjusted
+
+What this alert means:
+
+Incorrect rotary switch setting.
+
+What to do:
+
+Have your electrician adjust the Wall Connector’s internal rotary switch to a
+valid operating current setting. They should first make sure there is no power
+to the Wall Connector. The correlation between switch setting and current
+should be printed on the inside of the Wall Connector. Your electrician should
+also refer to the Set the Operating Current section in the Wall Connector
+Installation Manual.
+
+If the Wall Connector is set up for load sharing (circuit breaker sharing) and
+paired with other Wall Connectors, the rotary switch of the primary unit must
+be set to an operating current setting that allows each paired Wall Connector
+to receive at least 6A of charge current.
+
+Example: Three Wall Connectors are paired for load sharing. The primary unit
+needs to be set to a current of at least 3 * 6A = 18A or greater.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a029Unable to charge - Vehicle connection issueInsert charge handle
+fully into charge port
+
+What this alert means:
+
+A communication error occurred between the Wall Connector and the vehicle.
+
+What to do:
+
+Try charging again by disconnecting the Wall Connector from the vehicle and
+reconnecting.
+
+  1. If the issue persists, turn OFF the circuit breaker servicing the Wall Connector, wait 10 seconds, turn the circuit breaker ON again, then try reconnecting the Wall Connector to the vehicle. 
+  2. If the issue persists and other charging equipment is available, plug the vehicle into another Wall Connector or a Mobile Connector to determine if the vehicle is able to communicate with other charging equipment.
+  3. If the issue persists, service is required.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a030Unable to charge - Primary / paired unit mismatchWall Connector
+current ratings must match
+
+What this alert means:
+
+Load sharing (circuit breaker sharing) network: The paired Wall Connectors
+have different maximum current capabilities.
+
+What to do:
+
+Only Wall Connectors with the same maximum current capabilities can be paired
+in a load sharing (circuit breaker sharing) network. Have your electrician
+inspect the type labels on the Wall Connectors and make sure the current
+capabilities match. It is further recommended that your electrician only pair
+Wall Connectors with the same part number, as an easy way to make sure paired
+units are compatible.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a041Charge rate reduced - Wall connection hotOutlet or Wall Connector
+wiring must be checked
+
+What this alert means:
+
+High temperature detected by Wall Connector alerts indicate the building
+connection to the Wall Connector is getting too warm, so charging has been
+slowed to protect the wiring and Wall Connector.
+
+This is not typically an issue with your vehicle or your Wall Connector, but
+rather an issue with the building wiring. This may be caused by a loose
+building wiring connection to the Wall Connector and can be fixed quickly by
+an electrician.
+
+What to do:
+
+Contact an electrician to inspect the building wiring connection to the Wall
+Connector. They should make sure that all wires are properly connected and
+torqued according to the installation guide for the Wall Connector.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CC_a043Wall Connector configuration must be completedRefer to Installation
+Guide to enable charging
+
+What this alert means:
+
+Wall Connector configuration is incomplete.
+
+What to do:
+
+The Wall Connector needs to be commissioned to appropriately configure the
+circuit breaker size and protective earth connection type.
+
+For more information, refer to Commissioning Procedure in the Wall Connector
+Installation Manual. If the issue persists, contact an electrician to inspect
+the building wiring connection to the Wall Connector. They should make sure
+the power output and grounding connections are properly configured according
+to the installation guide for the Wall Connector.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CP_a004Charging equipment not recognizedTry again or try different
+equipment
+
+What this alert means:
+
+The charge port is unable to detect whether a charge cable is inserted, or the
+type of charge cable connected.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+What to do:
+
+If this alert appears while a charge cable is connected, determine whether the
+issue is caused by the charging equipment or the vehicle. Try charging the
+vehicle using different external charging equipment (including charge cable,
+charging station, or charging stall).
+
+  * If the vehicle begins charging, the issue was likely with the equipment. 
+  * If the vehicle still does not charge, the issue may be with the vehicle. 
+
+If this alert appears while a charge cable is not connected or if the issue is
+suspected to be with the vehicle, inspect the charge port inlet and the charge
+cable connector for any obstructions, such as debris, moisture, and/or foreign
+objects. Make sure any charge port inlet obstruction has been removed and any
+moisture has been allowed to dry, then try re-inserting the cable into the
+charge port.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+For more information on charging, see Charging Instructions.
+
+## CP_a010Charging equipment communication errorTry again or try different
+equipment
+
+What this alert means:
+
+Your vehicle is unable to charge because it cannot communicate effectively
+with the external charging equipment. It cannot sense a valid control pilot
+signal coming from the charging equipment.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+What to do:
+
+First, confirm the lack of effective communication is caused by the external
+charging equipment rather than an issue with your vehicle. This is usually the
+case.
+
+Try charging the vehicle using different external charging equipment
+(including charge cable, charging station, or charging stall).
+
+  * If the vehicle begins charging, the issue was likely with the equipment. 
+  * If the vehicle still does not charge, the issue may be with the vehicle. 
+
+If the issue is suspected to be with the vehicle, inspect the charge port
+inlet and the charge cable connector for any obstructions, such as debris,
+moisture, and/or foreign objects. Make sure any charge port inlet obstruction
+has been removed and any moisture has been allowed to dry, then try re-
+inserting the cable into the charge port.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+For more information on charging, see Charging Instructions.
+
+## CP_a043Charge port door sensor faultCharge port may not operate as expected
+
+What this alert means:
+
+One of the charge port door sensors is not functioning normally. When this
+occurs, the charge port may be unable to accurately sense the charge port door
+position and the charge port may not operate as expected.
+
+  * The charge port latch may intermittently remain engaged when the charge port door is opened.
+  * The charge port light may illuminate only intermittently when the charge port door is opened.
+
+What to do:
+
+Try closing the charge port door and then opening it again.
+
+For more information, see Opening the Charge Port.
+
+For more information on charging, see Charging Instructions.
+
+## CP_a046Charging equipment communication lostCheck power source and charging
+equipment
+
+What this alert means:
+
+Charging stopped because communication between the vehicle and the external
+charging equipment was interrupted.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+What to do:
+
+Confirm whether the external charging equipment is powered by looking for any
+status lights, displays, or other indicators on the equipment.
+
+If the equipment is not powered, try to restore the external charging
+equipment’s power source.
+
+  * If attempting to charge at a public station and power is unable to be restored, contact the station operator.
+  * If attempting to charge at a private station (for example: charging at home) and power is unable to be restored, contact an electrician.
+
+If the equipment is powered, try charging the vehicle using different external
+charging equipment.
+
+  * If the vehicle begins charging, the issue was likely with the equipment. 
+  * If the vehicle still does not charge, the issue may be with the vehicle. 
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+## CP_a051Charge port may not open when pressedUse another method to open the
+charge port
+
+What this alert means:
+
+One of the charge port door sensors is not communicating properly. The charge
+port may not recognize the request to open when the charge port door is
+pressed.
+
+What to do:
+
+You can still use all other usual methods to open the charge port door:
+
+  * Use the vehicle touchscreen.
+  * Use the Tesla Mobile App.
+  * With your vehicle unlocked, press the charge handle button on any Tesla charge cable, including a Wall Connector, Mobile Connector, or Supercharger.
+  * Hold and press the trunk button on your key fob.
+
+For more information, see Opening the Charge Port.
+
+## CP_a053Unable to charge - Charge station not poweredCheck power source or
+try a different station
+
+What this alert means:
+
+Charging cannot begin because the charging equipment is not ready. A charge
+handle is detected, but the charging station is not communicating with the
+vehicle. This issue could occur because:
+
+  * The charging station is not powered.
+  * The control pilot signal between the charging station and the vehicle is interrupted.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+What to do:
+
+Try charging the vehicle with different charging equipment or at a different
+charging station.
+
+  * If the vehicle begins charging, the issue was likely with the equipment. 
+  * If the vehicle still does not charge, the issue may be with the vehicle. 
+
+If using a Mobile Connector or Wall Connector, first check the status lights
+on the front. If no status lights are visible, check the power source and
+contact an electrician to inspect the building wiring connection to the wall
+outlet or the Wall Connector to confirm that all wires are properly connected
+and torqued.
+
+If using other external charging equipment, consult the product's owner's
+manual to learn how to confirm that the station is powered. Contact an
+electrician to inspect the building wiring and charging equipment as
+necessary.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+## CP_a054Charge port latch not engagedFully insert charge cable or check for
+obstruction
+
+What this alert means:
+
+The charge port latch is unable to latch the charge cable in the charge port
+inlet. If the latch is not engaged, AC charging (for example, charging with a
+Mobile Connector or Wall Connector) will be limited to 16A and DC Fast
+Charging / Supercharging will be unavailable.
+
+The charge port light will pulse amber if this alert appears during AC
+charging and will be solid amber if this alert appears when attempting to DC
+Fast Charge / Supercharge.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+What to do:
+
+Try re-inserting the charge cable fully into the charge port inlet.
+
+If your vehicle begins charging and the charge port light pulses green, the
+charge cable may not have been fully inserted before. AC charging should no
+longer be limited, and DC Fast Charging / Supercharging should be available.
+
+If charging is still limited or the vehicle will not charge at all, inspect
+the charge port inlet and the charge cable connector for any obstructions,
+such as debris, moisture, and/or foreign objects. Make sure any charge port
+inlet obstruction has been removed and any moisture has been allowed to dry,
+then try re-inserting the cable into the charge port.
+
+If charging is still limited or the vehicle will not charge at all, make sure
+the charge port latch manual release cable (located on the left-hand side in
+the trunk) has not been pulled. Make sure the handle (usually ring-shaped or a
+strap) for the manual release cable is free of obstructions and that nothing
+is attached to it (like a cargo net or umbrella). For more information on the
+charge port latch manual release, see Manually Releasing Charge Cable.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+For more information on charging, see Charging Instructions.
+
+## CP_a055Charging equipment communication lostCheck power source and charging
+equipment
+
+What this alert means:
+
+Charging stopped because communication between the vehicle and the external
+charging equipment was interrupted.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+What to do:
+
+Confirm whether the external charging equipment is powered by looking for any
+status lights, displays, or other indicators on the equipment. For more
+information on troubleshooting Mobile Connector or Wall Connector status
+lights, refer to the product's Owner's Manual at Charging & Adapter Product
+Guides.
+
+If the equipment is not powered, try to restore the external charging
+equipment’s power source.
+
+  * If attempting to charge at a public station and power is unable to be restored, contact the station operator.
+  * If attempting to charge at a private station (for example: charging at home) and power is unable to be restored, contact an electrician.
+
+If the equipment is powered, try charging the vehicle using different external
+charging equipment.
+
+  * If the vehicle begins charging, the issue was likely with the equipment. 
+  * If the vehicle still does not charge, the issue may be with the vehicle. 
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+## CP_a056Charging stopped - Charge cable disconnectedClose charge port -
+Press brake pedal and retry
+
+What this alert means:
+
+Charging has stopped because your vehicle has detected that the connection
+between the charge port and charge cable has been unexpectedly interrupted.
+
+What to do:
+
+Before disconnecting a charge cable, make sure you first stop charging.
+
+With some external charging equipment, charging may be stopped by pressing the
+button on the charge handle.
+
+You can also stop charging from your vehicle touchscreen, your Tesla Mobile
+App, or the charging station.
+
+For more information, see Stopping Charging.
+
+## CP_a058Unable to AC charge - Unplug and retryOr try DC Fast Charging /
+Supercharging
+
+What this alert means:
+
+Your vehicle is unable to AC charge because it has detected one of the
+following conditions and has tried to charge too many times without success:
+
+  * The charge port is unable to detect whether a charge cable is inserted or detect the type of charge cable connected.
+  * Your vehicle is unable to sense a valid pilot control signal coming from the charging station, so it cannot communicate effectively with the external charging equipment.
+  * Communication between your vehicle and the external charging equipment has been interrupted.
+  * The external charging equipment has reported an error that prevents your vehicle from charging.
+
+When this alert is present, there will always be at least one other alert
+present that identifies a more specific condition.
+
+What to do:
+
+For more information and troubleshooting suggestions, check in your vehicle
+touchscreen under Controls > Service > Notifications for other recent alerts
+that involve charging.
+
+## CP_a066Charging equipment not readySee equipment instructions to start
+charging
+
+What this alert means:
+
+Charging cannot begin because the charging station is communicating to your
+vehicle that either the external charging equipment is not ready or charging
+is not authorized. The control pilot signal that communicates between the
+charging station and your vehicle indicates that your vehicle is not allowed
+to start charging.
+
+This could occur because:
+
+  * The charging station is actively delaying charging. For example, this can happen because the station has a scheduled charging feature activated. 
+  * The charging station requires further activation before the charge session can begin. Some additional authentication may be needed before the station starts charging your vehicle, such as a charging card, a mobile app, or a credit card. 
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+What to do:
+
+Check the charging station for any instructions that explain the steps
+necessary to enable charging. For example, look for a touchscreen terminal,
+LED status indicators, printed instructions, or a payment interface that might
+provide guidance. If you cannot enable charging on the current charging
+station, try charging the vehicle with different charging equipment or at a
+different charging station.
+
+  * If the vehicle begins charging, the issue was likely with the equipment. 
+  * If the vehicle still does not charge, the issue may be with the vehicle. 
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+For more information on charging, see Charging Instructions.
+
+## CP_a078Cable blocked - Charge port latch may be frozenTry using Defrost Car
+button in Mobile App
+
+What this alert means:
+
+The charge port latch cannot unlatch the charge cable, and cold ambient
+temperature is detected.
+
+What to do:
+
+To remove any strain on the cable, re-insert the charge cable fully into the
+charge port inlet. Try again to unlatch the charge cable.
+
+If the charge cable still cannot be removed, the charge port latch may be
+frozen.
+
+To help thaw any ice on the charge port latch, press the Defrost Car button in
+your Tesla Mobile App to defrost your vehicle for approximately 30 to 45
+minutes.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Be sure to use Defrost Car in your Mobile App to defrost your vehicle.
+Adjusting the climate control settings in your vehicle's touchscreen is not as
+effective.
+
+If the charge cable still cannot be removed, try the charge port manual
+release cable in your vehicle’s trunk.
+
+  1. Make sure your vehicle is not actively charging.
+    * Press the charging icon in the bottom menu area of your vehicle touchscreen to display the charging screen.
+    * If necessary, press Stop Charging.
+  2. Open the rear trunk.
+  3. Pull the charge port release cable downwards to unlatch the charge cable.
+    * Note: The release cable is located on the left hand side of the rear trunk. It may be recessed within an opening of the trunk interior trim.
+  4. Pull the charge cable from the charge port.
+
+For more information on the charge port latch manual release, see Manually
+Releasing Charge Cable.
+
+For more information on charging, see Charging Instructions.
+
+## CP_a079Charge rate reduced - Charge port may be frozenTry using Defrost Car
+button in Mobile App
+
+What this alert means:
+
+The charge port latch is unable to secure the charge cable in the charge port
+inlet, and cold ambient temperature is detected. If the latch is not engaged,
+AC charging (for example, charging with a Mobile Connector or Wall Connector)
+will be limited to 16A and DC Fast Charging / Supercharging will be
+unavailable.
+
+The charge port light will pulse amber if this alert appears during AC
+charging and will be solid amber if this alert appears when attempting to DC
+Fast Charge / Supercharge.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+What to do:
+
+Try re-inserting the charge cable fully into the charge port inlet. If your
+vehicle begins charging and the charge port light pulses green, the charge
+cable may not have been fully inserted before. AC charging should no longer be
+limited, and DC Fast Charging / Supercharging should be available.
+
+If charging is still limited or the vehicle will not charge at all, make sure
+the charge port latch manual release cable (located on the left-hand side in
+the trunk) has not been pulled. Make sure the handle (usually ring-shaped or a
+strap) for the manual release cable is free of obstructions and that nothing
+is attached to it (like a cargo net or umbrella). For more information on the
+charge port latch manual release, see Manually Releasing Charge Cable.
+
+If charging is still limited or the vehicle will not charge at all, inspect
+the charge port inlet and the charge cable connector for any obstructions,
+such as debris, moisture, and/or foreign objects. Make sure any charge port
+inlet obstruction has been removed and any moisture has been allowed to dry,
+then try re-inserting the cable into the charge port.
+
+If you have checked for and cleared any debris or foreign objects, but
+charging is still limited or your vehicle will not charge at all, the charge
+port latch may be frozen. To help thaw any ice on the charge port latch, press
+the Defrost Car button in your Tesla Mobile App to defrost your vehicle for
+approximately 30 to 45 minutes.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Be sure to use Defrost Car in your Mobile App to defrost your vehicle.
+Adjusting the climate control settings in your vehicle's touchscreen is not as
+effective.
+
+If the alert remains present, limited AC charging should still be available.
+
+For more information on charging, see Charging Instructions.
+
+## CP_a101Charge rate reduced - Wall connection hotOutlet or Wall Connector
+wiring must be checked
+
+What this alert means:
+
+High temperature detected by Wall Connector alerts indicate the building
+connection to the Wall Connector is getting too warm, so charging has been
+slowed to protect the wiring and Wall Connector.
+
+This is not typically an issue with your vehicle or your Wall Connector, but
+rather an issue with the building wiring. This may be caused by a loose
+building wiring connection to the Wall Connector and can be fixed quickly by
+an electrician.
+
+What to do:
+
+Contact an electrician to inspect the building wiring connection to the Wall
+Connector. They should make sure that all wires are properly connected and
+torqued according to the installation guide for the Wall Connector.
+
+Wall Connector installation guides can be found here.
+
+## CP_a102Unable to charge - Wall connection too hotOutlet or Wall Connector
+wiring must be checked
+
+What this alert means:
+
+High temperature detected by Wall Connector alerts indicate the building
+connection to the Wall Connector is getting too warm, so charging has been
+slowed to protect the wiring and Wall Connector.
+
+This is not typically an issue with your vehicle or your Wall Connector, but
+rather an issue with the building wiring. This may be caused by a loose
+building wiring connection to the Wall Connector and can be fixed quickly by
+an electrician.
+
+What to do:
+
+Contact an electrician to inspect the building wiring connection to the Wall
+Connector. They should make sure that all wires are properly connected and
+torqued according to the installation guide for the Wall Connector.
+
+For more information, see the installation guide for your Wall Connector.
+
+## CP_a143Charging adapter has electric arc flash hazardUse different charging
+equipment
+
+What this alert means:
+
+Charging is unavailable because your vehicle has detected an electric arc
+flash hazard in the third-party charging adapter used to connect a Combined
+Charging System (CCS) charge handle to your vehicle’s charge port.
+
+An electric arc flash can occur if you attempt to unplug while actively
+charging with the third-party charging adapter, and an electric arc flash can
+cause serious bodily injury and/or property damage.
+
+What to do:
+
+Follow the steps below to mitigate this risk:
+
+  * Make sure charging is completely stopped.
+    1. Use your vehicle touchscreen to confirm charging has stopped, or to stop charging if necessary.
+    2. Use the charging station display and controls to confirm charging has stopped, or to end any active charging session.
+  * Make sure no flashing green or blue light (LED) is visible on your vehicle’s charge port.
+  * Unplug the charging adapter from your vehicle’s charge port.
+  * Confirm again that the charging station indicates no active charging session.
+  * Unplug the charging adapter from the charge handle.
+
+Use different charging equipment to charge your vehicle. For more information
+on charging, see Charging Instructions.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+## CP_a151Charge port error detected - Service is requiredAC charging may not
+function / OK to Supercharge
+
+What this alert means:
+
+Your vehicle's charge port requires service. The charge port is unable to
+establish a valid control pilot signal and communicate effectively with some
+AC charging equipment and power sources.
+
+While this alert remains present, AC charging and DC Fast Charging with non-
+Tesla charging stations may be limited or unavailable.
+
+What to do:
+
+It is recommended that you schedule service to have your vehicle's charge port
+inspected at your earliest convenient opportunity.
+
+In the meantime, Supercharging should continue to be available. Supercharging
+locations can be displayed through the map on your vehicle's touchscreen. See
+Maps and Navigation for more details.
+
+AC charging may also be available using a Gen 2 Mobile Connector or Gen 3 Wall
+Connector. However, it is recommended that you make sure your vehicle's charge
+port can communicate with your Tesla charging product. Try charging with your
+Gen 2 Mobile Connector or Gen 3 Wall Connector, and confirm your vehicle is
+charging as expected, before relying on it.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+For more information on charging, see Charging Instructions.
+
+## DI_a138Front motor disabled - OK to driveVehicle power may be limited
+
+What this alert means:
+
+Your vehicle's front motor is unavailable. Power, speed, and acceleration may
+be reduced as your vehicle uses the rear motor(s) to continue driving.
+
+What to do:
+
+Continue to your destination. Your vehicle is OK to drive.
+
+This alert may be caused by a temporary condition that will be resolved
+automatically. If this alert clears during your current drive, or is no longer
+present when you start your next drive, it was likely caused by a temporary
+condition. No action is required.
+
+This alert may also indicate a condition requiring front motor inspection and
+service. If this alert persists throughout subsequent drives, it is
+recommended that you schedule service. Your vehicle is OK to drive in the
+meantime.
+
+## DI_a166Vehicle automatically parked to prevent rollawayFasten seatbelt and
+close door to stay in gear
+
+What this alert means:
+
+Your vehicle has automatically shifted into Park (P) because it determined the
+driver was leaving or no longer present. This is expected vehicle behavior
+under various circumstances.
+
+Your vehicle will automatically shift into Park if **all** of these conditions
+are true:
+
+  * Autopark is not active
+  * Your vehicle is traveling slower than 1.4 mph (2.25 km/h) in Drive or Reverse
+  * The last driver activity was detected more than 2 seconds ago. Driver activity includes:
+    * Pressing the brake and/or accelerator pedal
+    * Manually steering the vehicle.
+
+And at least **two** of these conditions are true:
+
+  1. Driver seatbelt is detected as unbuckled.
+  2. Driver is not detected as present.
+  3. Driver door is detected as open.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Your vehicle will also automatically shift into Park when a charge cable is
+connected to the charge port.
+
+What to do:
+
+For more information on automatic shifting into Park, see Shifting.
+
+## DI_a175Cruise control unavailable
+
+What this alert means:
+
+Cruise Control, including Traffic-Aware Cruise Control, is currently
+unavailable.
+
+Cruise Control might be unavailable because:
+
+  * The driver canceled the request.
+  * The driver unbuckled their seatbelt.
+  * The front trunk, trunk, or a door is open.
+  * The vehicle is traveling below the Cruise Control minimum speed of 18 mph (30 km/h).
+  * There is an environmental condition, such as limited visibility.
+  * Valet mode is active.
+  * Track mode is active.
+
+What to do:
+
+Take control and drive your vehicle manually.
+
+When any condition preventing Cruise Control activation is no longer present,
+Cruise Control should be available. If this alert persists throughout
+subsequent drives, schedule service at your earliest convenience. Your vehicle
+is OK to drive in the meantime.
+
+For more information, see Traffic-Aware Cruise Control.
+
+## DI_a184Autopark canceledTake control
+
+What this alert means:
+
+Autopark has been canceled.
+
+Autopark might have been canceled because:
+
+  * The driver pressed the Cancel button on the touchscreen.
+  * The driver used the gear stalk or moved the steering wheel.
+  * The driver pressed the accelerator pedal, pressed the brake pedal, or opened a door.
+  * There is a steep slope / grade.
+  * There is a weather condition affecting visibility.
+  * The curb cannot be detected.
+  * A trailer is attached to the vehicle.
+
+What to do:
+
+Park, or finish parking, your vehicle manually. Once you have finished
+parking, apply the brakes and shift into Park. Your vehicle will otherwise
+remain free-rolling.
+
+Autopark should be available again during your next drive.
+
+For more information, see To Cancel Parking and Limitations.
+
+## DI_a185Autopark Aborted
+
+What this alert means:
+
+Autopark has aborted and the Electronic Parking Brake has been applied.
+
+Autopark might have been canceled because:
+
+  * The driver pressed the Cancel button on the touchscreen.
+  * The driver used the gear stalk or moved the steering wheel.
+  * The driver pressed the accelerator pedal, pressed the brake pedal, or opened a door.
+  * There is a steep slope / grade.
+  * There is a weather condition affecting visibility.
+  * The curb cannot be detected.
+  * A trailer is attached to the vehicle.
+
+What to do:
+
+Park, or finish parking, your vehicle manually.
+
+Autopark should be available again during your next drive.
+
+For more information, see To Cancel Parking and Limitations.
+
+## DI_a190Rear tire tread depth low - Schedule serviceInspect tires for
+rotation/replacement
+
+What this alert means:
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+This alert does NOT indicate that there is a flat tire.​
+
+Your vehicle has detected that the rear tires have experienced more wear over
+time than the front tires, exceeding the recommended difference.
+
+What to do:
+
+It is recommended that the tread depth on all tires be inspected. As your
+tires wear during normal driving, the rear tires generally wear more quickly
+than the front tires.​
+
+Tire rotation is important to balance tire wear evenly across all tires. ​
+
+Failure to rotate tires as recommended poses a risk of hydroplaning and losing
+control of the vehicle on wet roads. Failure to rotate tires also decreases
+the life of your tires, requiring premature replacement.​
+
+It is recommended that you schedule service via your Tesla Mobile App or with
+an independent service provider to have your tires rotated when:
+
+  * The difference in tire tread depth between any front and rear tire exceeds 1.5mm
+  * Your vehicle has been driven for more than 6,250 miles (10,000 km) since the last rotation​
+
+Tires may need to be replaced if the rear tread depth is determined to be at
+an unsafe level and a tire rotation is no longer adequate.
+
+Upon completion of tire inspection and any necessary tire service, update your
+vehicle’s tire configuration to optimize your vehicle settings to your tires
+and clear the alert for at least 6,250 miles. For more information, see Tire
+Care and Maintenance.
+
+It is not recommended that you rely on this alert instead of routine checks of
+tire tread depth. This alert should only be present when your vehicle
+estimates the tires are far beyond the recommended service interval.
+
+This alert is calibrated for Tesla tires and is not expected to work with
+tires of different types or sizes, including combinations of different tire
+brands or models. It may not display, or may display prematurely, on vehicles
+using tires not recommended by Tesla. For more information on recommended
+tires, see Wheels and Tires.
+
+## DI_a245Vehicle Hold feature unavailableKeep brake pedal pressed while
+stopped
+
+What this alert means:
+
+Vehicle Hold is currently unavailable due to system constraints. When
+stopping, use the brake pedal to bring your vehicle to a complete stop and
+keep your vehicle stationary.
+
+What to do:
+
+Continue to your destination. Your vehicle is OK to drive.
+
+If this alert persists throughout subsequent drives, schedule service at your
+earliest convenience. Your vehicle is OK to drive in the meantime.
+
+For more information, see Vehicle Hold.
+
+## EPBL_a195 / EPBR_a195Vehicle automatically parked to prevent rollawayFasten
+seatbelt and close door to stay in gear
+
+What this alert means:
+
+Your vehicle has automatically shifted into Park (P) because it determined the
+driver was leaving or no longer present. This is expected vehicle behavior
+under various circumstances.
+
+Your vehicle will automatically shift into Park if **all** of these conditions
+are true:
+
+  * Autopark is not active
+  * Your vehicle is traveling slower than 1.4 mph (2.25 km/h) in Drive or Reverse
+  * The last driver activity was detected more than 2 seconds ago. Driver activity includes:
+    * Pressing the brake and/or accelerator pedal
+    * Manually steering the vehicle.
+
+And at least **two** of these conditions are true:
+
+  1. Driver seatbelt is detected as unbuckled.
+  2. Driver is not detected as present.
+  3. Driver door is detected as open.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Your vehicle will also automatically shift into Park when a charge cable is
+connected to the charge port.
+
+What to do:
+
+For more information on automatic shifting into Park, see Shifting.
+
+## ESP_a118Assist for low brake performance activatedTo stop, keep brake pedal
+firmly pressed
+
+What this alert means:
+
+Hydraulic Fade Compensation is active. This brake assist function activates
+temporarily to make sure you have full braking capability in conditions where
+reduced braking performance is detected by your vehicle.
+
+When this assist function activates, you may feel the brake pedal pull away
+from your foot and notice a strong increase in brake pressure. You may also
+hear a pumping sound coming from the brake hydraulic unit at the front of the
+vehicle. This will usually last for a few seconds, depending on road surface
+and vehicle speed. This is completely normal and does not indicate any issue
+with your vehicle.
+
+What to do:
+
+Continue to press the brake pedal as you normally would, and do not "pump"
+(repeatedly press and release) the pedal as this will interrupt the function.
+
+This alert will clear when your vehicle comes to a stop or you are no longer
+pressing the brake pedal. It may still be displayed for up to 5 seconds
+afterward.
+
+Reduced braking performance is usually temporary, and can occur for a number
+of reasons including high brake temperatures after heavy brake use, or driving
+in extremely cold or wet conditions. It can also indicate that your brake pads
+or rotors have worn to the point that normal replacement is needed.
+
+If you continue to experience reduced braking performance which does not
+improve over time, please contact Tesla service at your convenience for a
+brake inspection.
+
+For more information, see Hydraulic Fade Compensation.
+
+## PCS_a016Cannot charge - Poor grid power quality possibleRetry / Try other
+charge location or Supercharging
+
+What this alert means:
+
+Charging has stopped due to a condition that prevents your vehicle from
+charging with AC power. DC fast charging / Supercharging should still function
+as expected.
+
+This may be due to power supply disturbances caused by the external charging
+equipment or by the electrical power grid. In some cases, this condition may
+be the result of using nearby electric devices that draw a lot of power.
+
+If these possible causes can be ruled out, then a condition with your vehicle
+itself may also be affecting AC charging.
+
+What to do:
+
+If this alert is accompanied by another alert that specifies the condition
+affecting AC charging, start by investigating that alert.
+
+Further troubleshooting tips based on equipment type:
+
+  * If using a Mobile Connector, try charging the vehicle with a different wall outlet.
+    * If the vehicle starts to charge, the issue was likely with the original wall outlet.
+    * If the vehicle still does not charge, the issue may be with the Mobile Connector.
+  * If using a Wall Connector, try charging the vehicle with different charging equipment like a Mobile Connector powered by a separate wall outlet.
+    * If the vehicle starts to charge, the issue was likely with the Wall Connector. 
+
+If the issue is with the original wall outlet or the Wall Connector, contact
+an electrician to inspect the wiring connection.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+If this alert persists when attempting to charge at multiple locations and
+with different charging equipment, it is recommended that you schedule
+service.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+## PCS_a017Charging stopped - Power lost while chargingCheck power source and
+charging equipment
+
+What this alert means:
+
+Power has been lost during charging. This could result from the charging
+equipment losing power from the source (for example, a wall outlet) or from an
+issue with the charging equipment.
+
+What to do:
+
+This alert is often accompanied by other alerts that can help you identify and
+troubleshoot the issue. Start by investigating any other displayed alerts that
+relate to charging issues.
+
+Alternatively, you can check Mobile Connector or Wall Connector status lights
+to confirm power to the device, and also refer to the product owner’s manual
+for troubleshooting information based on blink codes. If using other (non-
+Tesla) external charging equipment, check for a display or other user
+interface that provides troubleshooting help.
+
+If there is clearly no power to the charging equipment, check the circuit
+breaker for the wall outlet / Wall Connector to make sure it has not tripped.
+
+Further troubleshooting tips based on equipment type:
+
+  * If using a Mobile Connector, try charging the vehicle with a different wall outlet.
+    * If the vehicle starts to charge, the issue was likely with the original wall outlet.
+    * If the vehicle still does not charge, the issue may be with the Mobile Connector.
+  * If using a Wall Connector, try charging the vehicle with different charging equipment like a Mobile Connector powered by a separate wall outlet.
+    * If the vehicle starts to charge, the issue was likely with the Wall Connector. 
+
+If the issue is with the original wall outlet or the Wall Connector, contact
+an electrician to inspect the wiring connection.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+## PCS_a019Power grid or vehicle issue limiting AC chargingUnplug and retry /
+Try different charging location
+
+What this alert means:
+
+Charging speed has been reduced due to a condition that affects your vehicle’s
+ability to charge with AC power. DC fast charging / Supercharging should still
+function as expected.
+
+This may be due to power supply disturbances caused by the external charging
+equipment or by the electrical power grid. In some cases, this condition may
+be the result of using nearby electric devices that draw a lot of power.
+
+If these possible causes can be ruled out, then a condition with your vehicle
+itself may also be affecting AC charging.
+
+What to do:
+
+If this alert is accompanied by another alert that specifies the condition
+affecting AC charging, start by investigating that alert.
+
+Further troubleshooting tips based on equipment type:
+
+  * If using a Mobile Connector, try charging the vehicle with a different wall outlet.
+    * If the vehicle starts to charge, the issue was likely with the original wall outlet.
+    * If the vehicle still does not charge, the issue may be with the Mobile Connector.
+  * If using a Wall Connector, try charging the vehicle with different charging equipment like a Mobile Connector powered by a separate wall outlet.
+    * If the vehicle starts to charge, the issue was likely with the Wall Connector. 
+
+If the issue is with the original wall outlet or the Wall Connector, contact
+an electrician to inspect the wiring connection.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+If this alert persists when attempting to charge at multiple locations and
+with different charging equipment, it is recommended that you schedule
+service.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+## PCS_a032Poor electric grid power quality detectedTry different charging
+station or location
+
+What this alert means:
+
+Charging speed has been reduced or charging has been interrupted due to a
+condition that affects your vehicle’s ability to charge with AC power. DC fast
+charging / Supercharging should still function as expected.
+
+The onboard charger in your vehicle has detected power supply disturbances in
+the electrical power grid. These disturbances interfere with your vehicle's
+charging process.
+
+Typical causes of these power supply disturbances include:
+
+  * Issues with the building wiring and/or the wall outlet.
+  * Issues with the external charging equipment.
+  * Other large electric devices, such as washing machines or air conditioning units, that temporarily draw a lot of power or otherwise disturb the electrical power grid.
+  * External conditions affecting the electrical power grid.
+
+What to do:
+
+As this alert is usually specific to external charging equipment and power
+sources, and it does not typically indicate an issue with your vehicle that
+can be resolved by scheduling service, it is recommended that you:
+
+  * Try charging with different wall outlets.
+  * Try charging again (disconnect and reconnect to retry) when other large electric devices are not drawing power.
+  * Try charging with multiple, different types of charging equipment at different locations.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+## PCS_a052External charging equipment not providing powerCheck power source
+or try different equipment
+
+What this alert means:
+
+Charging cannot begin due to a condition that prevents your vehicle from
+charging with AC power. DC fast charging / Supercharging should still function
+as expected.
+
+Your vehicle has requested AC power from the external charging equipment, but
+the onboard charger does not detect any supply voltage coming from the
+equipment.
+
+This can sometimes be caused by a hardware issue specific to the external
+charging equipment, which prevents the charging equipment from switching power
+to the vehicle on or off when requested. It could also occur due to another
+condition affecting the external charging equipment, the power source it is
+connected to, or your vehicle itself.
+
+What to do:
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+Try charging with multiple, different types of charging equipment.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+## PCS_a053Charge rate reduced - Unexpected voltage dropRemove extension cords
+/ Have wiring inspected
+
+What this alert means:
+
+Charging speed has been reduced because the onboard charger in your vehicle
+has detected a large voltage drop during charging.
+
+Likely causes of this issue include:
+
+  * Problems with the building wiring and/or the wall outlet. 
+  * An extension cord or other wiring that cannot support the requested charge current. 
+
+This issue can also result from turning on electric devices that draw a lot of
+power from the same branch circuit while the vehicle is charging.
+
+What to do:
+
+If this issue has occurred multiple times at your normal charging location,
+contact an electrician to inspect the electrical installation. They should
+check the following:
+
+  * Any installed charging equipment and its connection to the building wiring. 
+  * The building wiring, including any wall outlet used with a Mobile Connector. 
+  * The electrical connection to the power utility line where it enters the building. 
+
+Discuss with the electrician whether the charge current on the vehicle should
+be lowered, or if the installation should be upgraded to support a higher
+charge current.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+## PCS_a054Charging stopped due to large voltage dropRemove extension cords /
+Have wiring inspected
+
+What this alert means:
+
+Charging has been interrupted because the onboard charger in your vehicle has
+detected an unusually large voltage drop.
+
+Likely causes of this issue include:
+
+  * Problems with the building wiring and/or the wall outlet. 
+  * An extension cord or other wiring that cannot support the requested charge current. 
+
+This issue can also result from turning on electric devices that draw a lot of
+power from the same branch circuit while the vehicle is charging.
+
+What to do:
+
+If this issue has occurred multiple times at your normal charging location,
+contact an electrician to inspect the electrical installation. They should
+check the following:
+
+  * Any installed charging equipment and its connection to the building wiring. 
+  * The building wiring, including any wall outlet used with a Mobile Connector. 
+  * The electrical connection to the power utility line where it enters the building. 
+
+Discuss with the electrician whether the charge current on the vehicle should
+be lowered, or if the installation should be upgraded to support a higher
+charge current.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+## PCS_a073External charging equipment error detectedTry different charging
+equipment
+
+What this alert means:
+
+AC charging cannot begin due to a condition that prevents your vehicle from
+charging with AC power. DC fast charging / Supercharging should still function
+as expected.
+
+Your vehicle's onboard charger is detecting input voltage at the charge port
+when no power has been requested from the external charging equipment, which
+indicates the external charging equipment is not functioning as expected.
+
+This can sometimes be caused by a hardware issue specific to the external
+charging equipment, which prevents the charging equipment from switching power
+to the vehicle on or off when requested. It could also occur due to another
+condition affecting the external charging equipment, or a condition affecting
+your vehicle itself.
+
+What to do:
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+Try charging with multiple, different types of charging equipment.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+## PCS_a090Charging slowed - Some AC phases not poweredCheck power source and
+charging equipment
+
+What this alert means:
+
+Charging speed has been reduced due to a condition that affects your vehicle’s
+ability to charge with AC power. DC fast charging / Supercharging should still
+function as expected.
+
+Your vehicle's onboard charger has detected that one or more power converters
+is not receiving the necessary AC input voltage. For example: during three-
+phase charging, one phase might be missing from the AC input power provided by
+the external source. This could occur due to a condition affecting the
+external charging equipment, the power source it is connected to, or your
+vehicle itself.
+
+What to do:
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+Try charging with multiple, different types of charging equipment.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector or Wall Connector
+status lights, refer to the product's Owner's Manual at Charging & Adapter
+Product Guides.
+
+## UI_a004Front trunk openProceed with caution
+
+What this alert means:
+
+Your vehicle's front trunk (hood) is detected open while driving.
+
+This alert indicates at least one of the two latches securing the hood, the
+front trunk primary and/or secondary latch, cannot be confirmed closed
+(confirmed as fully secured) when your vehicle is shifted into a gear other
+than Park.
+
+What to do:
+
+As this condition may lead to the front trunk opening while driving, it is
+recommended that you drive carefully until you can safely bring your vehicle
+to a stop and shift into Park.
+
+Once your vehicle is parked, check the front trunk (hood) to make sure it is
+fully closed (both latches are fully engaged). For more information, see
+Closing instructions for the Front Trunk.
+
+The alert should clear once your vehicle is shifted into Park. However, it may
+return once you start driving if you do not first inspect and fully secure the
+hood.
+
+If this alert persists across multiple drives, or occurs with increasing
+frequency over several drives, it is recommended that you schedule service at
+your earliest convenience.
+
+For more information on the front trunk, see Front Trunk.
+
+## UI_a006Service is requiredSchedule service now
+
+What this alert means:
+
+This alert is set remotely by Tesla when a condition requiring service is
+detected on your vehicle.
+
+This alert can be set due to various conditions. When you schedule service,
+more information should be available.
+
+This alert can only be cleared by a service technician after your vehicle has
+been serviced.
+
+What to do:
+
+As this alert can be present due to various conditions, it is recommended that
+you schedule service at your earliest convenience.
+
+## UI_a013Air pressure in tires very lowPULL OVER SAFELY - Check for flat tire
+
+What this alert means:
+
+This alert indicates that one or more of the tires on your vehicle is
+extremely low or flat.
+
+The tire pressure monitoring system (TPMS) has detected that the air pressure
+in one or more of your tires is significantly lower than the recommended cold
+tire pressure.
+
+What to do:
+
+You should pull over carefully as soon as possible. In a safe location, check
+for a flat tire.
+
+You can request Tesla roadside assistance options (mobile tire, loaner wheel,
+tow) if required. See Contacting Tesla Roadside Assistance for more
+information.
+
+In a non-emergency situation, it is recommended that you visit a local tire
+shop for assistance or schedule service using your Tesla Mobile App.
+
+See Maintaining Tire Pressures for detailed information on where to find the
+recommended cold pressure (RCP) for your vehicle's tires, how to check tire
+pressures, and how to keep your tires properly inflated.
+
+The alert will clear once the TPMS has a consistent tire pressure measurement
+for each of your tires within 3 psi of the recommended cold pressure.
+
+  * The alert and Tire Pressure indicator light may still be present immediately after you have filled your tires to the recommended cold pressure, but both should clear once you have driven a short distance. 
+  * You may need to drive over 15 mph (25 km/h) for at least 10 minutes for the Tire Pressure Monitoring System to measure and report your updated tire pressures.
+
+For more information on tire pressure and inflation, see Tire Care and
+Maintenance.
+
+## UI_a014Air pressure below recommendation for tiresCheck pressure and refill
+air as needed
+
+What this alert means:
+
+This alert does NOT indicate that there is a flat tire.
+
+The tire pressure monitoring system (TPMS) has detected that the air pressure
+in one or more of your tires is at least 20% lower than the recommended cold
+tire pressure.
+
+See Maintaining Tire Pressures for detailed information on where to find the
+recommended cold pressure (RCP) for your vehicle's tires, how to check tire
+pressures, and how to keep your tires properly inflated.
+
+This alert may appear in cold weather because the air in your tires naturally
+contracts when it becomes cold, decreasing tire pressures.
+
+What to do:
+
+Add air to maintain the recommended cold tire pressure. Although drops in tire
+pressure are expected in colder weather, the recommended cold tire pressure
+should be maintained at all times.
+
+The alert may clear as the vehicle is driven. This is because the tires will
+warm up and the tire pressure will increase. Even if the alert clears, the
+tires should still be refilled with air once they have cooled.
+
+The alert will clear once the Tire Pressure Monitoring System detects that
+each of your tires is inflated to the recommended cold pressure.
+
+  * The alert and Tire Pressure indicator light may still be present immediately after you have filled your tires to the recommended cold pressure, but both should clear once you have driven a short distance. 
+  * You may need to drive over 15 mph (25 km/h) for at least 10 minutes for the Tire Pressure Monitoring System to measure and report your updated tire pressures.
+
+If you repeatedly see this alert for the same tire, have the tire inspected
+for a slow leak. You can visit a local tire shop or schedule service using
+your Tesla Mobile App.
+
+For more information on tire pressure and inflation, see Tire Care and
+Maintenance.
+
+For more information on tire pressure and inflation, see Tire Care and
+Maintenance.
+
+## UI_a137Active service connection to vehicleService performing remote
+diagnostics
+
+What this alert means:
+
+A service technician is remotely logged into your vehicle for diagnosis or
+repair. You may notice some loss of Infotainment functionality while the
+connection persists, but this alert does not indicate an issue with your
+vehicle.
+
+Your vehicle is OK to drive.
+
+What to do:
+
+This alert should clear automatically after the technician completes vehicle
+diagnosis or repair. You may find it necessary to restart your touchscreen to
+restore full Infotainment functionality after the alert has cleared.For more
+information, see Restarting the Touchscreen in your vehicle's Do It Yourself
+Guide.
+
+If this alert does not clear after 24 hours, it is recommended that you
+schedule service via your Tesla Mobile App or with an independent service
+provider. Please note that independent service provider options may vary,
+based on your vehicle configuration and your location.
+
+## UMC_a001Unable to charge with Mobile ConnectorInadequate outlet grounding -
+Try another outlet
+
+What this alert means:
+
+The Mobile Connector has detected that the electrical outlet has insufficient
+grounding, likely caused by an inadequate or missing ground connection.
+
+This does not indicate an issue with your Mobile Connector or vehicle, but
+instead points to an issue with the wall outlet / electrical installation the
+Mobile Connector is connected to.
+
+What to do:
+
+Have the electrical installation inspected by an electrician. Your electrician
+should make sure there is proper grounding at your circuit breaker or power
+distribution box, and also make sure that appropriate connections are made to
+the outlet, before you attempt to plug in the Mobile Connector again.
+
+If you need to charge in the meantime, try charging using a different outlet,
+at another location, or with another type of charging station.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## UMC_a002Unable to charge - Mobile Connector GFCI trippedUnplug charge
+handle from charge port and retry
+
+What this alert means:
+
+The vehicle cannot charge because the ground-fault circuit interrupter (GFCI)
+in the Mobile Connector has tripped.
+
+Like the GFCI in a wall outlet, this feature is designed to stop the flow of
+electricity when there is a problem. It has interrupted charging to protect
+your vehicle and the charging equipment.
+
+This could happen for many reasons. The problem could be in the charge cable,
+the charge handle, the charge port, or even an onboard vehicle component.
+
+What to do:
+
+Inspect the charge port and the charge handle for pooled water or unusual
+levels of moisture. If you find excessive moisture, wait and let both the
+inside area of the charge port and the exposed portion of the charge handle
+dry sufficiently before trying again.
+
+Inspect the charge equipment for damage.
+
+  * If the cable is in any way damaged or deteriorated, do not use it. Try different charging equipment instead.
+  * If the cable is in good condition, try charging again with the same Mobile Connector.
+
+If the issue persists and prevents charging, try charging with different
+charging equipment.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## UMC_a004Unable to charge with Mobile ConnectorVoltage too high / Try a
+different wall outlet
+
+What this alert means:
+
+The vehicle cannot charge, or charging is interrupted, because either the
+Mobile Connector:
+
+  * Detects the wall outlet voltage is too high, **or**
+  * Detects an unexpected increase in supply voltage from the wall outlet.
+
+What to do:
+
+Try charging the vehicle with a different wall outlet. If the vehicle starts
+to charge, the issue was likely with the original wall outlet. Contact an
+electrician to inspect the building wiring connection to that outlet.
+
+If the vehicle still does not charge when you try a different wall outlet, try
+charging at a different location.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## UMC_a005Unable to charge with Mobile ConnectorVoltage too low / Try a
+different wall outlet
+
+What this alert means:
+
+The vehicle cannot charge, or charging is interrupted, because either the
+Mobile Connector:
+
+  * Does not detect enough supply voltage from the wall outlet, **or**
+  * Detects an unexpected drop in supply voltage from the wall outlet.
+
+What to do:
+
+Try charging the vehicle with a different wall outlet. If the vehicle starts
+to charge, the issue was likely with the original wall outlet. Contact an
+electrician to inspect the building wiring connection to that outlet.
+
+If the vehicle still does not charge when you try a different wall outlet, try
+charging at a different location.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## UMC_a007Mobile Connector control box temperature highLet Mobile Connector
+cool to resume charging
+
+What this alert means:
+
+Charging has been interrupted because the Mobile Connector has detected a high
+temperature inside its control box housing.
+
+What to do:
+
+Make sure the Mobile Connector is not covered by anything, and that there is
+no heat source nearby. If the problem persists in normal ambient temperatures
+(under 100°F or 38°C), service is required.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## UMC_a008Unable to charge - Wall plug temperature highWall outlet and wiring
+inspection recommended
+
+What this alert means:
+
+High temperature detected by Mobile Connector alerts indicate the outlet used
+to charge is becoming too warm, so charging has stopped to protect the outlet.
+
+This does not indicate an issue with your Mobile Connector or vehicle, but
+instead points to an issue with the wall outlet / electrical installation the
+Mobile Connector is connected to.
+
+A warm outlet may be caused by a plug that is not fully inserted, a loose
+building wiring connection to the outlet, or an outlet that is beginning to
+wear out.
+
+What to do:
+
+Make sure your adapter is fully plugged into the outlet. If charging speed
+does not return to normal, contact an electrician to inspect the outlet and
+building wiring connections to the outlet and complete any repairs needed.
+
+If the outlet is worn, it should be replaced with a high-quality outlet.
+Consider upgrading to a Tesla Wall Connector for greater convenience and
+highest charging speed.
+
+## UMC_a009Cannot charge - Charge handle temperature highCheck charge handle
+or charge port for debris
+
+What this alert means:
+
+Charging has been interrupted because the Mobile Connector has detected a high
+temperature in the charge handle that connects to your vehicle's charge port.
+
+What to do:
+
+Make sure the Mobile Connector is fully inserted into your vehicle's charge
+port inlet.
+
+Inspect the charge port inlet and the Mobile Connector handle for any
+obstructions or moisture. Make sure any obstruction in the charge port or
+Mobile Connector handle has been removed and any moisture has been allowed to
+dry, then try re-inserting the Mobile Connector handle into the charge port.
+
+Also make sure the charge handle of the Mobile Connector is not covered by
+anything, and that there is no heat source nearby.
+
+If the alert persists in normal ambient temperatures (under 100°F or 38°C),
+and occurs during multiple charging attempts, this may indicate a condition
+affecting the Mobile Connector or your vehicle. It is recommended that you
+schedule service at your convenience.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## UMC_a010Mobile Connector to adapter connection hotLet cool - Plug adapter
+fully into Mobile Connector
+
+What this alert means:
+
+Charging has been interrupted because the Mobile Connector has detected a high
+temperature at the connection between the wall plug adapter and the control
+box.
+
+What to do:
+
+Make sure the wall plug adapter is fully connected to the Mobile Connector
+control box.
+
+Also make sure the wall plug adapter is not covered by anything, and that
+there is no heat source nearby.
+
+After unplugging from the power source (wall outlet), inspect the wall plug
+adapter connection and the Mobile Connector control box connection for any
+obstructions or moisture. Make sure any obstruction has been removed and any
+moisture has been allowed to dry, then try re-inserting the wall plug adapter
+into the Mobile Connector and then connecting to the power source (wall
+outlet).
+
+Once the Mobile Connector control box temperature has decreased and any
+obstruction has been removed, the alert should clear and charging should
+possible.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## UMC_a011Charging equipment communication errorTry again or try different
+equipment
+
+What this alert means:
+
+Your vehicle is unable to charge because it cannot communicate effectively
+with the Mobile Connector. The Mobile Connector cannot confirm via proximity
+detection that the charge handle is fully connected to your vehicle.
+
+What to do:
+
+First, confirm the lack of effective communication is caused by the Mobile
+Connector rather than an issue with your vehicle. This is usually the case.
+
+To confirm this, try charging the vehicle using different external charging
+equipment.
+
+  * If the vehicle begins charging, the issue was likely with the Mobile Connector.
+  * If the vehicle still does not charge, the issue may be with the vehicle.
+
+Inspect the charge port inlet and the Mobile Connector handle for any
+obstructions (use a flashlight as necessary). Make sure any obstruction has
+been removed and any moisture has been allowed to dry, then try re-inserting
+the Mobile Connector handle into the charge port.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+For more information on charging, see Charging Instructions.
+
+## UMC_a012Charging equipment communication errorTry again or try different
+equipment
+
+What this alert means:
+
+Your vehicle is unable to charge because it cannot communicate effectively
+with the Mobile Connector. The Mobile Connector detects that it cannot
+generate or maintain a valid control pilot signal.
+
+What to do:
+
+First, confirm the lack of effective communication is caused by the Mobile
+Connector rather than an issue with your vehicle. This is usually the case.
+
+To confirm this, try charging the vehicle using different external charging
+equipment.
+
+  * If the vehicle begins charging, the issue was likely with the Mobile Connector.
+  * If the vehicle still does not charge, the issue may be with the vehicle.
+
+Inspect the charge port inlet and the Mobile Connector handle for any
+obstructions (use a flashlight as necessary). Make sure any obstruction has
+been removed and any moisture has been allowed to dry, then try re-inserting
+the Mobile Connector handle into the charge port.
+
+This alert is usually specific to external charging equipment and power
+sources and does not typically indicate an issue with your vehicle that can be
+resolved by scheduling service.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+For more information on charging, see Charging Instructions.
+
+## UMC_a013Wall plug adapter error - Charge rate reducedPlug adapter fully
+into Mobile Connector and retry
+
+What this alert means:
+
+Your Mobile Connector is unable to communicate with the wall plug adapter.
+Because your Mobile Connector cannot monitor the wall plug adapter
+temperature, charge current is automatically reduced to 8A.
+
+What to do:
+
+  1. Unplug your Mobile Connector, including the wall plug adapter, completely from the wall outlet.
+  2. Make sure the connection between the wall plug adapter and the main body of your Mobile Connector is secure.
+    1. Disconnect the wall plug adapter completely from the main body of your Mobile Connector.
+    2. Fully reinsert the wall plug adapter into the main body of your Mobile Connector by pushing it into the socket until it snaps into place.
+  3. Try charging again by plugging the Mobile Connector, including wall plug adapter, fully into the wall outlet.
+  4. If the alert persists, try using a different wall plug adapter (see steps above to make sure the adapter is fully connected to your Mobile Connector).
+    1. If the alert is no longer present, the issue is likely with the wall plug adapter you were using previously.
+    2. If the alert persists, the issue is likely with your Mobile Connector.
+
+If needed, obtain another wall plug adapter or Mobile Connector.
+
+In the meantime, you can continue to charge with the same equipment. The
+charge rate will be reduced, as charge current will be limited to 8A while
+this condition persists.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## UMC_a014Wall plug adapter error - Charge rate reducedPlug adapter fully
+into Mobile Connector and retry
+
+What this alert means:
+
+Your Mobile Connector is unable to communicate with the wall plug adapter.
+Because your Mobile Connector cannot identify the type of wall outlet the wall
+plug adapter is connected to, charge current is automatically reduced to 8A.
+
+What to do:
+
+  1. Unplug your Mobile Connector, including the wall plug adapter, completely from the wall outlet.
+  2. Make sure the connection between the wall plug adapter and the main body of your Mobile Connector is secure.
+    1. Disconnect the wall plug adapter completely from the main body of your Mobile Connector.
+    2. Fully reinsert the wall plug adapter into the main body of your Mobile Connector by pushing it into the socket until it snaps into place.
+  3. Try charging again by plugging the Mobile Connector, including wall plug adapter, fully into the wall outlet.
+  4. If the alert persists, try using a different wall plug adapter (see steps above to make sure the adapter is fully connected to your Mobile Connector).
+    1. If the alert is no longer present, the issue is likely with the wall plug adapter you were using previously.
+    2. If the alert persists, the issue is likely with your Mobile Connector.
+
+If needed, obtain another wall plug adapter or Mobile Connector. In the
+meantime, you can continue to charge with the same equipment. The charge rate
+will be reduced, as charge current will be limited to 8A while this condition
+persists.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## UMC_a015Wall plug adapter error - Charge rate reducedPlug adapter fully
+into Mobile Connector and retry
+
+What this alert means:
+
+Your Mobile Connector is unable to communicate with the wall plug adapter.
+Because your Mobile Connector cannot identify the type of wall outlet the wall
+plug adapter is connected to, charge current is automatically reduced to 8A.
+
+What to do:
+
+  1. Unplug your Mobile Connector, including the wall plug adapter, completely from the wall outlet.
+  2. Make sure the connection between the wall plug adapter and the main body of your Mobile Connector is secure.
+    1. Disconnect the wall plug adapter completely from the main body of your Mobile Connector.
+    2. Fully reinsert the wall plug adapter into the main body of your Mobile Connector by pushing it into the socket until it snaps into place.
+  3. Try charging again by plugging the Mobile Connector, including wall plug adapter, fully into the wall outlet.
+  4. If the alert persists, try using a different wall plug adapter (see steps above to make sure the adapter is fully connected to your Mobile Connector).
+    1. If the alert is no longer present, the issue is likely with the wall plug adapter you were using previously.
+    2. If the alert persists, the issue is likely with your Mobile Connector.
+
+If needed, obtain another wall plug adapter or Mobile Connector. In the
+meantime, you can continue to charge with the same equipment. The charge rate
+will be reduced, as charge current will be limited to 8A while this condition
+persists.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## UMC_a016Mobile Connector control box temperature highMaximum charge rate
+reduced
+
+What this alert means:
+
+Charge current has been temporarily reduced because the Mobile Connector has
+detected increased temperature inside its control box housing.
+
+What to do:
+
+Make sure the Mobile Connector is not covered by anything, and that there is
+no heat source nearby. If the problem persists in normal ambient temperatures
+(under 100°F or 38°C), service is required.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## UMC_a017Charge rate reduced - Wall plug temperature highWall outlet and
+wiring inspection recommended
+
+What this alert means:
+
+High temperature detected by Mobile Connector alerts indicate the outlet used
+to charge is becoming too warm, so charging has been slowed to protect the
+outlet.
+
+This is not typically an issue with your vehicle or your Mobile Connector, but
+rather an issue with the outlet. A warm outlet may be caused by a plug that is
+not fully inserted, a loose building wiring connection to the outlet, or an
+outlet that is beginning to wear out.
+
+What to do:
+
+Make sure your adapter is fully plugged into the outlet. If charging speed
+does not return to normal, contact an electrician to inspect the outlet and
+building wiring connections to the outlet and complete any repairs needed.
+
+If the outlet is worn, it should be replaced with a high-quality outlet.
+Consider upgrading to a Tesla Wall Connector for greater convenience and
+highest charging speed.
+
+## UMC_a018Charge rate reduced - Handle temperature highCheck charge handle or
+charge port for debris
+
+What this alert means:
+
+Charge current has been temporarily reduced because the Mobile Connector has
+detected increased temperature in the charge handle that connects to your
+vehicle's charge port.
+
+What to do:
+
+Make sure the Mobile Connector is fully inserted into your vehicle's charge
+port inlet.
+
+Inspect the charge port inlet and the Mobile Connector handle for any
+obstructions or moisture. Make sure any obstruction in the charge port or
+Mobile Connector handle has been removed and any moisture has been allowed to
+dry, then try re-inserting the Mobile Connector handle into the charge port.
+
+Also make sure the charge handle of the Mobile Connector is not covered by
+anything, and that there is no heat source nearby.
+
+If the alert persists in normal ambient temperatures (under 100°F or 38°C),
+and occurs during multiple charging attempts, this may indicate a condition
+affecting the Mobile Connector or your vehicle. It is recommended that you
+schedule service at your convenience.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## UMC_a019Mobile Connector to adapter connection hotMaximum charge rate
+reduced
+
+What this alert means:
+
+Charge current has been reduced because the Mobile Connector has detected a
+high temperature at the connection between the wall plug adapter and the
+control box.
+
+What to do:
+
+Make sure the wall plug adapter is fully connected to the Mobile Connector
+control box.
+
+After unplugging from the power source (wall outlet), inspect the wall plug
+adapter connection and the Mobile Connector control box connection for any
+obstructions or moisture.
+
+It is recommended that any debris / foreign objects be removed. Make sure any
+obstruction has been removed and any moisture has been allowed to dry, then
+try re-inserting the wall plug adapter into the Mobile Connector and then
+connecting to the power source (wall outlet).
+
+Also make sure the wall plug adapter is not covered by anything, and that
+there is no heat source nearby. If the alert persists in normal ambient
+temperatures (under 100°F or 38°C), and occurs during multiple charging
+attempts, this may indicate a condition affecting the Mobile Connector or your
+vehicle. It is recommended that you schedule service at your convenience.
+
+You can also try charging your vehicle using a Tesla Supercharger or
+Destination Charging location, all of which can be located through the map on
+your vehicle's touchscreen display. See Maps and Navigation for more details.
+
+For more information on troubleshooting Mobile Connector status lights and
+charging issues, refer to the product's owner's manual.
+
+## VCFRONT_a180Electrical system power reducedVehicle may shut down
+unexpectedly
+
+What this alert means:
+
+The electrical system cannot maintain the voltage required to support all
+vehicle features.
+
+If this alert is present while you are driving, it is possible your vehicle
+will shut down unexpectedly.
+
+If this alert is present when your vehicle is in Park or when it first wakes,
+it is possible your vehicle may not have adequate electrical power to start
+driving. A separate vehicle alert may be present to indicate that condition.
+
+What to do:
+
+It is recommended that you eliminate or reduce your use of any non-essential
+features. This can help your vehicle maintain adequate electrical power for
+essential functions.
+
+If this alert remains active, schedule service immediately. Without service,
+your vehicle may shut down unexpectedly or may not restart.
+
+## VCFRONT_a182Schedule service to replace low voltage batterySoftware will
+not update until battery is replaced
+
+What this alert means:
+
+The low voltage battery is showing degraded performance and needs to be
+replaced. Until the low voltage battery is replaced, vehicle software updates
+will not complete.
+
+What to do:
+
+It is recommended that you have the low voltage battery replaced at your
+earliest convenient opportunity.
+
+You can schedule service via your Tesla Mobile App, or with an independent
+service provider that offers low voltage battery replacement for your vehicle.
+Please note that independent service provider options may vary, based on your
+vehicle configuration and your location.
+
+If the low voltage battery does not have enough electrical power to turn on
+your vehicle or open the doors, follow the instructions in Jump Starting.
+
+For more information on the battery system, see High Voltage Battery
+Information.
+
+## VCFRONT_a191Electrical system power reducedVehicle shutting down
+
+What this alert means:
+
+The low voltage battery cannot provide the electrical support necessary to
+drive or continue driving. Your vehicle is shutting down to preserve energy
+for essential functions other than driving.
+
+Your vehicle cannot be driven or continue driving while this condition
+continues.
+
+What to do:
+
+If this alert is present while you are driving, your vehicle needs to come to
+a stop immediately. It is recommended that you:
+
+  * Pull over safely immediately
+  * Use your Mobile App to contact Tesla Roadside Assistance immediately, or seek other roadside assistance if preferred
+
+If you do not pull over safely within a short time, your vehicle may shut down
+unexpectedly. It is also possible that your vehicle will not restart once
+parked.
+
+When this alert is present, the electrical system cannot maintain the voltage
+required to support all vehicle features. Many vehicle functions may no longer
+work.
+
+It is possible your vehicle may lose all electrical power. If this occurs, you
+can still use the manual door releases to exit the vehicle if necessary. For
+more information, see Opening Doors from the Interior.
+
+This alert may be present due to various vehicle conditions. For more
+information and further recommended actions, check for other active vehicle
+alerts.
+
+If this alert remains present, it is recommended that you schedule service
+immediately. Without service, your vehicle may not drive, may shut down
+unexpectedly, or may not restart.
+
+## VCFRONT_a192Electrical system is unable to support all featuresSwitching
+off features to conserve energy
+
+What this alert means:
+
+The electrical system cannot support all vehicle features. Your vehicle is
+shutting down nonessential features to preserve energy for essential
+functions.
+
+If you are driving when this alert is present, it is possible your vehicle may
+shut down unexpectedly. It is also possible that your vehicle will not restart
+once parked.
+
+Nonessential features may be unavailable, including seat heaters, cabin
+climate control, and in-vehicle entertainment. This is expected behavior
+intended to help your vehicle maintain adequate electrical power for essential
+functions, including the ability to operate headlights, windows and doors,
+hazard lights, and the front trunk (frunk).
+
+It is possible your vehicle may lose all electrical power. If this occurs, you
+can still use the manual door releases to exit the vehicle if necessary. For
+more information, see Opening Doors from the Interior.
+
+What to do:
+
+This alert may be present due to various vehicle conditions. For more
+information and further recommended actions, check for other active vehicle
+alerts.
+
+## VCFRONT_a216Vehicle may not restart - Service is requiredElectrical system
+issue detected
+
+What this alert means:
+
+An abnormally large and sustained power draw while driving or Supercharging /
+DC Fast Charging has made your vehicle’s electrical system unable to support
+all features and functions.
+
+Your vehicle will not restart until the electrical system has been serviced.
+
+Cabin climate control and air vent positioning, powered trunk liftgate, and
+steering column adjustments may be limited or unavailable.
+
+Other features and functions may also unavailable, or their performance may be
+affected. These include:
+
+  * Powered doors
+  * Powered windows
+  * Front seat (movement and heating)
+  * Rear seat heaters
+  * Side mirror movement
+
+What to do:
+
+It is recommended that you schedule service at your earliest opportunity.
+Without service, your vehicle will remain unable to restart, and the
+electrical system will remain unable to support all features and functions.
+
+Some or all of the powered doors and windows in your vehicle may lose
+electrical power. If this occurs, you can still use the manual door releases
+to exit the vehicle if necessary. For more information, see Opening Doors from
+the Interior.
+
+## VCFRONT_a220Electrical system is unable to support all featuresSchedule
+service
+
+What this alert means:
+
+The low voltage battery is not available and cannot provide electrical support
+for vehicle features.
+
+It is possible your vehicle will shut down unexpectedly. It is also possible
+that your vehicle will not restart after the current drive.
+
+You may notice that some nonessential features are not available. This is
+expected behavior due to your vehicle preserving energy for essential
+functions.
+
+What to do:
+
+It is recommended that you eliminate or reduce your use of any nonessential
+features. This can help your vehicle maintain adequate electrical power for
+essential functions other than driving, until it can be serviced.
+
+If this alert remains present, it is recommended that you schedule service
+immediately. Without service, your vehicle may not drive, may shut down
+unexpectedly, or may not restart.
+
+## VCFRONT_a402Electrical system backup power is unavailableVehicle will
+consume more energy while idle
+
+What this alert means:
+
+The backup power source for the electrical system, the low voltage battery, is
+not available or cannot provide the voltage required to support all vehicle
+features.
+
+The primary source of electrical power, the high voltage battery system, will
+continue to support vehicle functions, even when your vehicle is idle. For
+more information on the high voltage battery, see About the High Voltage
+Battery.
+
+You may notice that some nonessential features are not available. This is
+expected behavior due to your vehicle preserving energy for essential
+functions.
+
+You may also notice that your vehicle consumes more energy than usual when you
+are not driving it, or that your vehicle displays a lower projected range than
+you would normally expect after charging. This is normal vehicle behavior when
+this alert is present, and it will continue until the backup power source is
+restored.
+
+There is a chance that an issue affecting the primary power source could cause
+your vehicle to shut down unexpectedly.
+
+What to do:
+
+It is recommended that you limit or avoid the use of any nonessential
+features. This can help your vehicle maintain adequate electrical power for
+essential functions.
+
+It is recommended that you schedule service at your earliest opportunity, so
+the backup power source for the electrical system can be restored.
+
+## VCFRONT_a496Vehicle is preparing to shut downPULL OVER SAFELY
+
+What this alert means:
+
+The electrical system cannot provide adequate support to drive or continue
+driving. Your vehicle is preparing to shut down to preserve energy for
+essential functions other than driving.
+
+Your vehicle cannot be driven or continue driving while this condition
+continues.
+
+What to do:
+
+If this alert is present while you are driving, your vehicle needs to come to
+a stop as soon as possible. It is recommended that you:
+
+  * Pull over safely at your earliest opportunity
+  * Use your Mobile App to contact Tesla Roadside Assistance immediately, or seek other roadside assistance if preferred
+
+If you do not pull over safely within a short time, your vehicle may shut down
+unexpectedly. It is also possible that your vehicle will not restart once
+parked.
+
+It is possible your vehicle may lose all electrical power. If this occurs, you
+can still use the manual door releases to exit the vehicle if necessary. For
+more information, see Opening Doors from the Interior.
+
+This alert may be present due to various vehicle conditions. For more
+information and further recommended actions, check for other active vehicle
+alerts.
+
+## VCFRONT_a592Unable to drive - Service is requiredElectrical system issue
+detected
+
+What this alert means:
+
+An abnormally large and sustained power draw has made your vehicle’s
+electrical system unable to support all features and functions.
+
+While this alert is present, your vehicle is unable to drive and will not
+restart.
+
+Cabin climate control, powered trunk liftgate, and steering column adjustments
+may be limited or unavailable. Many features and functions on the left side of
+your vehicle may be unavailable, or their performance may be affected. These
+include:
+
+  * Powered doors
+  * Powered windows
+  * Front seat (movement and heating)
+  * Rear seat heaters
+  * Side mirror movement
+
+What to do:
+
+Without service, your vehicle will remain unable to drive, and the electrical
+system will remain unable to support all features and functions.
+
+Some or all of the powered doors and windows in your vehicle may lose
+electrical power. If this occurs, you can still use the manual door releases
+to exit the vehicle if necessary. For more information, see Opening Doors from
+the Interior.
+
+## VCFRONT_a593Unable to drive - Service is requiredElectrical system issue
+detected
+
+What this alert means:
+
+An abnormally large and sustained power draw has made your vehicle’s
+electrical system unable to support all features and functions.
+
+While this alert is present, your vehicle is unable to drive and will not
+restart.
+
+Cabin climate control, powered trunk liftgate, and steering column adjustments
+may be limited or unavailable. Many features and functions on the left side of
+your vehicle may be unavailable, or their performance may be affected. These
+include:
+
+  * Powered doors
+  * Powered windows
+  * Front seat (movement and heating)
+  * Rear seat heaters
+  * Side mirror movement
+
+What to do:
+
+Without service, your vehicle will remain unable to drive, and the electrical
+system will remain unable to support all features and functions.
+
+Some or all of the powered doors and windows in your vehicle may lose
+electrical power. If this occurs, you can still use the manual door releases
+to exit the vehicle if necessary. For more information, see Opening Doors from
+the Interior.
+
+## VCFRONT_a596Unable to drive - Service is requiredElectrical system issue
+detected
+
+What this alert means:
+
+An abnormally large and sustained power draw has made your vehicle’s
+electrical system unable to support all features and functions.
+
+While this alert is present, your vehicle is unable to drive and will not
+restart.
+
+Air vent positioning may be limited or unavailable. Many features and
+functions on the right side of your vehicle may be unavailable, or their
+performance may be affected. These include:
+
+  * Powered doors
+  * Powered windows
+  * Front seat (movement and heating)
+  * Rear seat heaters
+  * Side mirror movement
+
+What to do:
+
+It is recommended that you schedule service at your earliest opportunity.
+Without service, your vehicle will remain unable to drive, and the electrical
+system will remain unable to support all features and functions.
+
+Some or all of the powered doors and windows in your vehicle may lose
+electrical power. If this occurs, you can still use the manual door releases
+to exit the vehicle if necessary. For more information, see Opening Doors from
+the Interior.
+
+## VCFRONT_a597Unable to drive - Service is requiredElectrical system issue
+detected
+
+What this alert means:
+
+An abnormally large and sustained power draw has made your vehicle’s
+electrical system unable to support all features and functions.
+
+While this alert is present, your vehicle is unable to drive and will not
+restart.
+
+Air vent positioning may be limited or unavailable. Many features and
+functions on the right side of your vehicle may be unavailable, or their
+performance may be affected. These include:
+
+  * Powered doors
+  * Powered windows
+  * Front seat (movement and heating)
+  * Rear seat heaters
+  * Side mirror movement
+
+What to do:
+
+It is recommended that you schedule service at your earliest opportunity.
+Without service, your vehicle will remain unable to drive, and the electrical
+system will remain unable to support all features and functions.
+
+Some or all of the powered doors and windows in your vehicle may lose
+electrical power. If this occurs, you can still use the manual door releases
+to exit the vehicle if necessary. For more information, see Opening Doors from
+the Interior.
+
+## VCSEC_a221Air pressure below recommendation for tiresCheck pressure and
+refill air as needed
+
+What this alert means:
+
+This alert does NOT indicate that there is a flat tire.
+
+The tire pressure monitoring system (TPMS) has detected that the air pressure
+in one or more of your tires is at least 20% lower than the recommended cold
+tire pressure.
+
+See Maintaining Tire Pressures for detailed information on where to find the
+recommended cold pressure (RCP) for your vehicle's tires, how to check tire
+pressures, and how to keep your tires properly inflated.
+
+This alert may appear in cold weather because the air in your tires naturally
+contracts when it becomes cold, decreasing tire pressures.
+
+What to do:
+
+Add air to maintain the recommended cold tire pressure. Although drops in tire
+pressure are expected in colder weather, the recommended cold tire pressure
+should be maintained at all times.
+
+The alert may clear as the vehicle is driven. This is because the tires will
+warm up and the tire pressure will increase. Even if the alert clears, the
+tires should still be refilled with air once they have cooled.
+
+The alert will clear once the Tire Pressure Monitoring System detects that
+each of your tires is inflated to the recommended cold pressure.
+
+  * The alert and Tire Pressure indicator light may still be present immediately after you have filled your tires to the recommended cold pressure, but both should clear once you have driven a short distance. 
+  * You may need to drive over 15 mph (25 km/h) for at least 10 minutes for the Tire Pressure Monitoring System to measure and report your updated tire pressures.
+
+If you repeatedly see this alert for the same tire, have the tire inspected
+for a slow leak. You can visit a local tire shop or schedule service using
+your Tesla Mobile App.
+
+For more information on tire pressure and inflation, see Tire Care and
+Maintenance.
+
+## VCSEC_a228Air pressure in tires very lowPULL OVER SAFELY - Check for flat
+tire
+
+What this alert means:
+
+This alert indicates that one or more of the tires on your vehicle is
+extremely low or flat.
+
+The tire pressure monitoring system (TPMS) has detected that the air pressure
+in one or more of your tires is significantly lower than the recommended cold
+tire pressure.
+
+What to do:
+
+You should pull over carefully as soon as possible. In a safe location, check
+for a flat tire.
+
+You can request Tesla roadside assistance options (mobile tire, loaner wheel,
+tow) if required. See Contacting Tesla Roadside Assistance for more
+information.
+
+In a non-emergency situation, it is recommended that you visit a local tire
+shop for assistance or schedule service using your Tesla Mobile App.
+
+See Maintaining Tire Pressures for detailed information on where to find the
+recommended cold pressure (RCP) for your vehicle's tires, how to check tire
+pressures, and how to keep your tires properly inflated.
+
+The alert should clear once the Tire Pressure Monitoring System has a
+consistent tire pressure measurement for each of your tires of at least 30
+psi.
+
+  * The alert and Tire Pressure indicator light may still be present immediately after you have filled your tires to the recommended cold pressure, but both should clear once you have driven a short distance. 
+  * You may need to drive over 15 mph (25 km/h) for at least 10 minutes for the Tire Pressure Monitoring System to measure and report your updated tire pressures.
+
+For more information on tire pressure and inflation, see Tire Care and
+Maintenance.
+
+  

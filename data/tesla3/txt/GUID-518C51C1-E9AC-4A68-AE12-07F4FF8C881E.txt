@@ -1,0 +1,295 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Touchscreen
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Always pay attention to road and traffic conditions when driving. To minimize
+driver distraction and ensure the safety of vehicle occupants as well as other
+road users, avoid using the touchscreen to adjust settings while the vehicle
+is in motion.
+
+Use the touchscreen to control many features that, in traditional cars, are
+controlled using physical buttons (for example, adjusting the cabin heating
+and air conditioning, headlights, etc.). You also use the touchscreen to
+control media, navigate, use entertainment features, and customize Model 3 to
+suit your preferences. For hands-free access to common touchscreen controls,
+use voice commands (see Voice Commands).
+
+If the touchscreen is unresponsive or demonstrates unusual behavior, you can
+restart it (see Restarting the Touchscreen).
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+_Illustrations are provided to improve conceptual understanding only.
+Depending on vehicle options, software version, market region and regional and
+language settings, the details displayed on the screen will differ_.
+
+![](../../images/GUID-718AD2AA-CEDD-49E6-B4F1-5FD4695928BC-online-en-US.png)
+
+  1. **Status bar** : This area on the top of the touchscreen displays the time of day, the outside temperature, and the following icons: 
+
+![an unlocked lock](../../images/GUID-0DEC33E2-6794-4108-B5A7-A687289550CB-
+online-en-US.png)
+
+Touch to lock/unlock all doors and trunks.
+
+4:20 pm
+
+Your vehicle automatically updates the time. If the time is incorrect, confirm
+your vehicle has internet and GPS connectivity with the latest software.
+
+![a house with an arrow
+inside](../../images/GUID-32DDFFC0-2485-4083-800E-B843A4B46FA7-online-en-
+US.png)
+
+Displays on the touchscreen status bar only when Model 3 detects a programmed
+HomeLink within range, and the touchscreen is not already displaying the
+HomeLink screen or popup. See Smart Garage.
+
+![a half circle with a smaller circle on top of
+it](../../images/GUID-9A61F0C9-266B-4552-B425-AAD04868049F-online-en-US.png)
+
+Displays on the touchscreen status bar only when Model 3 is parked. Add,
+configure (including Valet Mode and Use Easy Entry), or quickly switch driver
+profiles. Driver profiles can also be accessed from the top of any Controls
+screen. See Driver Profiles.
+
+![Circle within a
+circle](../../images/GUID-98266982-5B23-42B1-9143-D34A3BD7BBEB-online-en-
+US.png)
+
+Available when Model 3 is parked, touch to manually enable or disable Sentry
+Mode for the current drive cycle. To automatically turn Sentry Mode on (or
+off) every time you leave your vehicle, enable the setting from Controls >
+Safety > Sentry Mode. See Sentry Mode for more information.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+If you turn Sentry Mode on or off from Controls > Sentry Mode, the shortcuts
+on the vehicle's touchscreen and mobile app will only work for the current
+drive cycle.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+For some vehicles manufactured after approximately November 1, 2021, the
+center console USB ports may only support charging devices. Use the USB port
+inside the glove box for all other functions.
+
+![a circle with upward radiating beams](../../images/GUID-
+EF809D5E-3D8B-45E8-B5B2-E88CB1ED15CD-online-en-US.png)
+
+Displays when Model 3 is connected to a Wi-Fi network.
+
+![lines increasing in height from left to
+right](../../images/GUID-F5675D6E-F7F1-4085-ADE1-CCC5CC58B5D3-online-en-
+US.png)
+
+Displays when Model 3 cellular connectivity is very low or unavailable. Touch
+this icon for quick access to Wi-Fi settings.
+
+![a yellow person and air bag with the text "PASSENGER AIRBAG
+OFF"](../../images/GUID-464D5B10-622D-43F1-BCD1-7D784A3305D1-online-en-US.png)
+
+Status of the front passenger airbag (see Airbags).
+
+  2. **Navigation** : Change the orientation of the map, find or navigate to a destination, and change navigation settings (see Maps and Navigation).
+  3. **Car status** : This area dynamically displays the current status of Model 3 as you drive, park, open doors, turn lights on, etc. Monitor this area when driving as it displays important information such as driving speed and warning messages (see Car Status). When the car is in Park, you can open the trunks or charge port door. This area also houses shortcut "cards" for Media, tire pressures, and Trip Information.
+
+When full self-driving is enabled (if equipped), the car status area displays
+visualizations of the road and your vehicle's surroundings. You can
+expand/condense the visualization by dragging the car status area from side to
+side. Expanding the visualization displays more details about the roadway and
+its surroundings, including road markings, stop lights, and objects (such as
+trash cans and poles).
+
+  4. **Controls** : Control various features and customize Model 3 to suit your preferences. The Controls screen appears over the map. Touch an option on the Controls screen to display the various settings and preferences associated with the chosen option.
+
+To search for a specific setting, touch Search at the top of the Controls
+screen. Make changes directly from the result or touch the link to jump to
+that option in Controls.
+
+![Information icon](../../images/GUID-9B555688-41DD-4A98-B224-74C2145AC6CD-
+online-en-US.png)
+
+When an information icon displays beside a specific setting, touch it to
+display a popup that provides helpful details about the associated setting.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Many vehicle controls, settings, and preferences (such as climate, media, and
+navigation) can be adjusted hands-free using voice commands (see Voice
+Commands).
+
+  5. **Climate controls (driver)** : Use the left and right arrows to decrease/increase cabin temperature. Touch Split on the popup to display separate controls for the driver and passenger. Touch the temperature icon to customize climate control settings (see Operating Climate Controls).  The passenger climate controls display when temperature controls have been Split to provide separate controls for the driver and passenger.
+  6. **My Apps** : For one-touch access to frequently used apps and controls, you can choose what displays here. See Customizing My Apps.
+  7. **App Launcher** : Touch the app launcher to open the app tray. Then touch any app to open it. The app you choose displays on top of the map. To close an app, drag it downward.
+  8. **Recent App(s)** : Displays the most recently used app(s). The number of recent apps displayed here depends on how many apps have been added to My Apps. If you add the maximum number of apps to My Apps, only the most recent app displays.
+  9. **Volume Control** : Controls the volume of media player and phone calls (see Volume Controls). The volume of navigation instructions is controlled separately (see Maps and Navigation).
+
+**Parent topic:** Overview
+
+## Popup Messages and Vehicle Alerts
+
+Popup messages appear at the bottom of the touchscreen. For example, a seat
+belt reminder appears if a seat belt is unfastened in an occupied seat, an
+alert appears to notify you of an incoming phone call, a text message appears
+(when applicable), and voice commands appear when in use. If applicable, touch
+options from these popup messages (for example, accept/decline a phone call,
+choose an option from the headlight menu, etc.). To dismiss a popup message,
+swipe it downward.
+
+![](../../images/GUID-C91F714F-9494-487C-8C42-2120305A78F1-online-en-US.png)
+
+If an alert appears on your vehicle's touchscreen, touch Learn More for more
+details regarding the alert and how it can be resolved. You can view a list of
+vehicle alerts and notifications by touching the bell icon at the top of
+Controls.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Not all alerts provide additional information at this time.
+
+## Restarting the Touchscreen
+
+You can restart your touchscreen if it is unresponsive or demonstrates unusual
+behavior.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Only restart the touchscreen while the vehicle is stopped and in Park. The car
+status display, safety warnings, backup camera, etc. will not be visible
+during the restart.
+
+  1. Shift into Park.
+  2. Hold down both scroll buttons on the steering wheel until the touchscreen turns black. Pressing the brake pedal while holding down the scroll buttons does not have any impact and is not required. ![Steering wheel with zoombox of up arrows pointing at the left and right scroll buttons.](../../images/GUID-447C37D1-1DD9-425F-A37B-85E2EDE27F00-online-en-US.png)
+  3. After a few seconds, the Tesla logo appears. Wait approximately 30 seconds for the touchscreen to restart. If the touchscreen is still unresponsive or demonstrating unusual behavior after a few minutes, try power cycling the vehicle (if possible). See Power Cycling the Vehicle.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Pressing the scroll buttons only restarts the touchscreen. It does not restart
+any other vehicle component and does not power Model 3 off and on.
+
+## Customizing My Apps
+
+For one-touch access to commonly used apps and controls, you can customize
+what displays in the My Apps area on the touchscreen's bottom bar:
+
+  1. Enter customization mode by touching and holding any app or control in the My Apps area. If this area is empty, touch the App Launcher.
+  2. Simply drag any app or control from the app tray onto the My Apps area in the bottom bar.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Seat heaters selected from the app tray appear next to the temperature,
+instead of in the My Apps area.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Controls (for example, wipers, defrosters and seat heaters) appear in the app
+tray only when you enter customization mode by touching and holding an app.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+When you've added the maximum number of apps or controls to My Apps, adding an
+additional app removes the rightmost app.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Remove an app or control from the My Apps area by touching and holding, then
+touching its associated "X".
+
+## Customizing Display and Sound Settings
+
+Touch Controls > Display to adjust display settings to suit your preferences:
+
+  * Appearance: Customize the display to be Dark or Light. When set to Auto, the brightness changes automatically based on ambient lighting conditions.
+  * Brightness: Drag the slider to manually control the brightness level. If Display Mode is set to Auto, the touchscreen further adjusts based on both the ambient lighting conditions and your brightness preference. Model 3 remembers your chosen brightness preference and adjusts the touchscreen accordingly.
+  * Screen Clean Mode: When enabled, your touchscreen darkens and temporarily disables to facilitate cleaning. Follow the onscreen instructions to exit Screen Clean Mode.
+  * Touchscreen Language: Select the language that the touchscreen displays.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Model 3 must be in Park to change the language. When you change the language,
+you experience a brief delay as Model 3 shuts down and restarts the
+touchscreen.
+
+  * Voice Recognition Language: Choose the language to be used for voice commands.
+  * Voice Navigation Language: Choose the language that the navigation system uses for spoken instructions.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+For languages that require a download, select the language in the dropdown
+list to initiate the download (Wi-Fi connection required).
+
+  * Text size: Select between Standard  and Large to customize the text size on your vehicle's touchscreen.
+  * Time: Choose to display time in either 12 or 24 hour format.
+  * Energy Display: Choose to display remaining energy and charging units as either a percentage of battery energy remaining, or as an estimate of the distance you can drive.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+When anticipating when you need to charge, use energy estimate as a general
+guideline only. Many factors have an impact on energy consumption. See Factors
+Affecting Energy Consumption.
+
+  * Distance: Choose to display range using miles or kilometers.
+  * Temperature: Choose to display temperature using Fahrenheit or Celsius.
+  * Tire Pressure: Choose to display tire pressures using BAR or PSI.
+
+In addition to customizing the display, you can enable Joe Mode to reduce the
+volume of all chimes that are not related to critical safety issues. Touch
+Controls > Safety > Joe Mode to enable.
+
+## Naming your Vehicle
+
+To further personalize your vehicle, you can name it. Touch Controls >
+Software > Name Your Vehicle located on the right side of the touchscreen
+below the image of your Model 3. If your vehicle already has a name, simply
+touch the existing name to change it. Enter the new name in the popup and
+touch Save. The name of your Model 3 also appears in the Tesla mobile app.
+
+## Erasing Personal Data
+
+You can erase all personal data (saved addresses, music favorites, HomeLink
+programming, etc.) and restore all customized settings to their factory
+defaults. This is useful when transferring ownership of Model 3. Touch
+Controls > Service > Factory Reset. Before erasing, Model 3 verifies your
+credentials by prompting you to enter the user name and password associated
+with your Tesla account.
+
+  

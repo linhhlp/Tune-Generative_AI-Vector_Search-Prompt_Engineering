@@ -1,0 +1,43 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Vehicle Hold
+
+When Model 3 is stopped, Vehicle Hold can continue to apply the brakes even
+after you remove your foot from the brake pedal.
+
+Vehicle Hold will activate in two ways:
+
+  * When the vehicle's stopping mode is set to Hold: Vehicle Hold is automatically enabled any time the vehicle comes to a complete stop.
+  * When the vehicle's stopping mode is set to Creep or Roll: Vehicle Hold is enabled automatically anytime the vehicle is at a standstill and the brake is pressed.
+
+![Gray icon of an "H" in a
+circle.](../../images/GUID-8EDE6D37-CB58-4055-B75E-C89C7F9728C4-online-en-
+US.png)
+
+This indicator displays on the touchscreen whenever Vehicle Hold is actively
+braking Model 3.
+
+To disengage Vehicle Hold, press the accelerator pedal or press and release
+the brake pedal.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Shifting into Neutral also disengages Vehicle Hold.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+After actively braking Model 3 for approximately ten minutes, Model 3 shifts
+into Park and Vehicle Hold cancels. Model 3 also shifts into Park if it
+detects that the driver has left the vehicle.
+
+**Parent topic:** Driving
+
+  

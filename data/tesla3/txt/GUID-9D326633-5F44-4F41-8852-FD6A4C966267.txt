@@ -1,0 +1,81 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Interior Storage
+
+**Parent topic:** Storage Areas
+
+## Center Console
+
+In addition to housing an RFID transmitter that reads key fobs and key cards
+(see Key Card), the center console includes cup holders, two storage
+compartments, and a wireless phone charger (see Interior Storage).
+
+To open the main storage compartment, pull its cover upward. Open the front
+storage compartment by sliding its cover forward.
+
+![Image with arrows showing how to open the center console storage
+compartments.](../../images/GUID-36E58722-294F-47EE-9598-BE5D3A112767-online-
+en-US.png)
+
+## Rear Console
+
+Your Model 3 has a rear console integrated in the center of the second row
+seat back. Pull the console down to access the rear cup holders, or use it as
+an armrest.
+
+![Image with an arrow showing to pull the rear console
+down.](../../images/GUID-5890D16A-BA55-4AF2-861A-90D4FB59536D-online-en-
+US.png)
+
+## Coat Hangers
+
+Your Model 3 has a coat hanger on each side of the vehicle in the second row.
+Push the coat hanger to release it. Push it again to retract it.
+
+![Coat hanger above rear window with arrow pointing
+outwards](../../images/GUID-B915DF71-0A37-4F88-B7D2-88319B8136C1-online-en-
+US.png)
+
+## Glovebox
+
+To open the glovebox, touch Controls > Glovebox. The glovebox automatically
+opens and its light turns on.
+
+![Image with an arrow showing the glove box
+opening.](../../images/GUID-5BA6E86B-D545-46DF-A409-43039610D8BF-online-en-
+US.png)
+
+To close the glovebox, push it upward until it clicks into its closed
+position.
+
+For additional glovebox security, touch Controls > Safety > Glovebox PIN to
+set a 4-digit PIN (see Glovebox PIN).
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+If you leave the glovebox open, its light eventually turns off.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+The glovebox locks whenever closed and you lock Model 3 using the mobile app,
+key card, you leave Model 3 carrying your phone key (if Walk-Away Door Lock is
+turned on), or if Valet mode is active (see Valet Mode). It does not lock when
+Model 3 is locked by touching the lock icon on the touchscreen.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+When driving, keep the glovebox closed to prevent injury to a passenger if a
+collision or sudden stop occurs.
+
+  

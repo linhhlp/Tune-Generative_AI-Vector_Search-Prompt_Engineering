@@ -1,0 +1,227 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# About Autopilot
+
+**Parent topic:** Autopilot
+
+## How It Works
+
+Your Model 3 includes the following components that actively monitor the
+surrounding area:
+
+![Callouts showing where Autopilot components are located on the
+vehicle.](../../images/GUID-2C718327-5AB9-42AF-B5DE-86875A9708EE-online-en-
+US.png)
+
+  1. A camera is mounted above the rear license plate.
+  2. Ultrasonic sensors (if equipped) are located in the front and rear bumpers.
+  3. A camera is mounted in each door pillar.
+  4. Three cameras are mounted to the windshield above the rear view mirror.
+  5. A camera is mounted to each front fender.
+  6. Radar (if equipped) is mounted behind the front bumper.
+
+Model 3 is also equipped with high precision electronically-assisted braking
+and steering systems.
+
+In addition, the cabin camera (if equipped) can determine driver
+inattentiveness and provide alerts when Autopilot is engaged. By default, data
+from the camera does not leave the vehicle itself. In other words, data is not
+saved or transmitted unless you enable data sharing. To enable data sharing,
+touch Controls > Software > Data Sharing > Allow Cabin Camera Analytics. Cabin
+Camera Analytics helps Tesla continue to develop even safer vehicles in the
+future. See Cabin Camera.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Ensure all cameras and sensors (if equipped) are clean before each drive. See
+Cleaning Cameras and Sensors for more information. Dirty cameras and sensors,
+as well as environmental conditions such as rain and faded lane markings, can
+affect Autopilot performance.
+
+## Active Safety Features
+
+These Active Safety features are designed to increase your safety:
+
+  * Lane Assist (see Lane Assist)
+  * Collision Avoidance Assist (see Collision Avoidance Assist)
+  * Speed Assist (see Speed Assist)
+  * Cabin Camera (see Cabin Camera)
+
+You can enable/disable some of these features and in some cases, control how
+they work. To access settings for these features, touch Controls > Autopilot.
+
+## Autopilot Features
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+_Depending on market region, vehicle configuration, options purchased,
+software version and build date, your vehicle may not be equipped with all
+features listed below, or a feature may not operate as described._
+
+These Autopilot convenience features are designed to reduce driver workload:
+
+  * Traffic-Aware Cruise Control (see Traffic-Aware Cruise Control)
+  * Autosteer (see Autosteer)
+  * Auto Lane Change (see Auto Lane Change)
+  * Autopark (see Autopark)
+  * Summon (see Summon)
+  * Smart Summon (Smart Summon)
+  * Stop Light and Stop Sign Warning (see Stop Light and Stop Sign Warning)
+  * Navigate on Autopilot (see Navigate on Autopilot)
+  * Traffic Light and Stop Sign Control (see Traffic Light and Stop Sign Control)
+  * Full Self-Driving (Beta) (see Full Self-Driving (Beta))
+
+You can enable/disable some of these features and in some cases, control how
+they work. To access settings associated with these features, touch Controls >
+Autopilot.
+
+## Drive to Calibrate Cameras
+
+Model 3 must maneuver with precision when Autopilot features are being used.
+Therefore, before some features can be used for the first time or after some
+types of service repairs, cameras must complete a self-calibration process.
+For your convenience, the touchscreen displays a progress indicator.
+
+When calibration is complete, Autopilot features are available for use.
+Calibration typically completes after driving 20-25 miles (32-40 km), but the
+distance varies depending on road and environmental conditions. For example,
+calibration completes quicker when driving on a straight road with multiple
+lanes (such as a controlled-access highway), with highly-visible lane markings
+(in the driving lane as well as the adjacent lanes). Contact Tesla only if
+your Model 3 has not completed the calibration process after driving 100 miles
+(160 km) in the described conditions.
+
+If a camera has shifted from its calibrated position (for example, the camera
+or windshield was replaced), you must clear the calibration. To do so, touch
+Controls > Service > Camera Calibration  > Clear Calibration. When the
+calibration is cleared, Model 3 repeats the calibration process. While this
+helps re-calibrate the cameras in many cases, Clear Calibration may not
+resolve all camera and sensor concerns.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+To calibrate, cameras require highly-visible lane markings in both the driving
+lane and adjacent lanes (at least two lanes over on each side of the vehicle).
+For best results, drive in the middle lane of a multi-lane highway (ideally
+with at least five lanes) that has clear lane markings and minimal traffic.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+If you attempt to use a feature that is not available until the calibration
+process is complete, the feature is disabled and the touchscreen displays a
+message.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Model 3 must repeat the calibration process if the cameras are serviced by
+Tesla, and in some cases, after a software update.
+
+## Limitations
+
+Many factors can impact the performance of Autopilot components, causing them
+to be unable to function as intended. These include (but are not limited to):
+
+  * Poor visibility (due to heavy rain, snow, fog, etc.).
+  * Bright light (due to oncoming headlights, direct sunlight, etc.).
+  * Damage or obstructions caused by mud, ice, snow, etc.
+  * Interference or obstruction by object(s) mounted onto the vehicle (such as a bike rack).
+  * Obstruction caused by applying excessive paint or adhesive products (such as wraps, stickers, rubber coating, etc.) onto the vehicle.
+  * Traffic signs that do not conform to standard recognizable formats, such as digital or temporary speed signs.
+  * Narrow or winding roads.
+  * A damaged or misaligned body panel.
+  * Use of gray or aftermarket glass.
+  * Interference from other equipment that generates ultrasonic waves.
+  * Extremely hot or cold temperatures.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+If a windshield replacement is needed, take your vehicle to Tesla Service.
+This ensures appropriate handling and mounting of the camera(s). Failure to do
+so can cause one or more Autopilot features to malfunction.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+The list above does not represent an exhaustive list of situations that may
+interfere with proper operation of Autopilot components. Never depend on these
+components to keep you safe. It is the driver's responsibility to stay alert,
+drive safely, and be in control of the vehicle at all times.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Advanced safety features may not be available during the calibration period.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Re-calibrating the cameras or sensors (if equipped) on the touchscreen is not
+a substitute for checking the physical positioning and condition of these
+components. Walk around your vehicle and inspect the cameras and sensors for
+physical damage. Incorrectly calibrated or positioned cameras and sensors may
+limit or disable the use of safety features. Contact Tesla if you suspect
+lingering issues.
+
+## Cleaning Cameras and Sensors
+
+To ensure the various Autopilot components can provide information that is as
+accurate as possible, keep cameras and sensors (if equipped) clean and free of
+obstructions, condensation, or damage (see Cleaning).
+
+Condensation can form inside the camera enclosures, especially if you park
+your vehicle outside in cold or wet conditions. The touchscreen may display an
+alert stating that a camera is blocked and that some or all Autopilot features
+may be temporarily restricted until the camera vision is clear. To proactively
+dry the condensation, precondition the cabin by setting it to a warm
+temperature, turning the windshield defroster on, and directing the front air
+vents toward the door pillars (see Mobile App).
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Do not attempt to remove dirt or debris by wiping an exposed lens with your
+hands or a cloth. This debris can damage the surface of the lens when rubbed
+against it during wiping.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Do not use chemical-based or abrasive cleaners. Doing so can damage the
+surface of the lens.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Do not clean an ultrasonic sensor (if equipped) or camera lens with a sharp or
+abrasive object that can scratch or damage its surface.
+
+  

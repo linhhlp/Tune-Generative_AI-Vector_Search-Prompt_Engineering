@@ -1,0 +1,30 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Exterior
+
+![Exterior views of vehicle from side, front and rear with
+callouts](../../images/GUID-324CC47A-2049-4DBF-BAF8-6AE8C65582E4-online-en-
+US.png)
+
+  1. Exterior lights (Lights)
+  2. Autopilot camera (About Autopilot)
+  3. Front door handle (Using Exterior Door Handles)
+  4. Key card sensor (Keys), Autopilot camera (About Autopilot)
+  5. Rear door handle (Using Exterior Door Handles)
+  6. Charge port (Charging Instructions)
+  7. Autopilot cameras (About Autopilot)
+  8. Exterior mirrors (Mirrors)
+  9. Radar sensor, if equipped (hidden from view) (About Autopilot)
+  10. Hood/front trunk (Front Trunk)
+  11. Tow eye cover (Instructions for Transporters)
+  12. Wheels and tires (Wheels and Tires)
+  13. Rear view camera (Rear Facing Camera(s))
+  14. Rear trunk (Rear Trunk)
+
+**Parent topic:** Overview
+
+  

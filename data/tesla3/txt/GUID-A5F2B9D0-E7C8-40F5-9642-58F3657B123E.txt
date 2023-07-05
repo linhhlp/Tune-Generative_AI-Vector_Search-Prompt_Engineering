@@ -1,0 +1,34 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Interior Overview
+
+![Interior view of front cabin with
+callouts](../../images/GUID-D37CDAC1-136C-4CF0-8095-F270F3AC09F0-online-en-
+US.png)
+
+  1. Door open button (Opening Doors from the Interior)
+  2. Turn signal stalk (High Beam Headlights), Turn Signals, and Windshield Washers)
+  3. Horn (Horn)
+  4. Drive stalk (How to Shift, Traffic-Aware Cruise Control, Autosteer)
+  5. Touchscreen (Touchscreen)
+  6. Driver dome light (Lights)
+  7. Cabin camera (Cabin Camera)
+  8. Hazard warning flashers (Hazard Warning Flashers)
+  9. Passenger dome light (Lights)
+  10. Climate control vent (see Operating Climate Controls)
+  11. Power window switches (Windows)
+  12. Manual door release (Opening Doors from the Interior)
+  13. Left scroll button (Scroll Buttons)
+  14. Brake pedal (Braking and Stopping)
+  15. Accelerator pedal (Regenerative Braking)
+  16. Right scroll button (Scroll Buttons)
+  17. Center console (Interior Electronics)
+  18. Glovebox (Glovebox)
+
+**Parent topic:** Overview
+
+  

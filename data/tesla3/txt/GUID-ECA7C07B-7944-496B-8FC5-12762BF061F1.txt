@@ -1,0 +1,513 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Parts and Accessories
+
+**Parent topic:** Maintenance
+
+## Parts, Accessories, and Modifications
+
+Use only genuine Tesla parts and accessories. Tesla performs rigorous testing
+on parts to ensure their suitability, safety, and reliability. Purchase these
+parts from Tesla, where they are professionally installed and where you can
+receive expert advice about modifications to Model 3. Accessories are
+available for purchase from Tesla stores or online at www.tesla.com.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Some accessories may not be available in your market region.
+
+Tesla is unable to assess parts manufactured by other distributors and
+therefore accepts no responsibility if you use non-Tesla parts on Model 3.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Installing non-approved parts and accessories, or performing non-approved
+modifications, can affect the performance of Model 3 and the safety of its
+occupants. Any damage caused by using or installing non-approved parts, or by
+performing non-approved modifications, is not covered by the warranty.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Tesla does not accept liability for death, personal injury or damage that
+occurs if you use or install non-approved accessories or make non-approved
+modifications.
+
+## Accessory Wheels and Tires
+
+If your Model 3 is fitted with Tesla accessory wheels or tires, the Gross Axle
+Weight Rating (GAWR), wheel, tire, and loading information may be different
+from the labels shown on the vehicle. Refer to the relevant following section
+for updated information.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+If your vehicle is not fitted with Tesla accessory wheels or tires (it is
+fitted with the factory original wheels and tires, including Tesla genuine
+replacement parts), refer to the labels attached to the center door pillar for
+the most accurate information for your Model 3.
+
+### 20" Sport Wheels
+
+![Tesla 20" Sport wheel.](../../images/GUID-
+ED332C09-5DE0-4B05-8BC6-1715B5988AF9-online-en-US.png)
+
+Wheels | Location | Width (in) | Offset (mm)  
+---|---|---|---  
+20" | Front/Rear | 8.5 | 40  
+Tires (front/rear) | Size | Tire Pressure  
+---|---|---  
+Michelin, Pilot Sport 4S (PS4S) | 235/35ZR20 | 42 PSI (290 kPa)*  
+*Increase the tire pressure to 44 PSI (300 kPa) prior to driving 136 mph (220 kph) or faster.  
+GAWR  
+---  
+Front | 2407 lbs | 1,092 kg  
+Rear | 2,767 lbs | 1,255 kg  
+  
+### 19" Sport Wheels
+
+![Tesla 19" Sport wheel.](../../images/GUID-E52D9288-7AA3-4B0B-82EE-
+DD792FD95CE9-online-en-US.png)
+
+Wheels | Location | Width (in) | Offset (mm)  
+---|---|---|---  
+19" | Front/Rear | 8.5 | 40  
+Tires (front/rear) | Size | Tire Pressure  
+---|---|---  
+Continental, ProContact RX | 235/40R19 | 42 PSI (290 kPa)*  
+Hankook Ventus S1 Evo3 | 235/40R19 | 42 PSI (290 kPa)*  
+Pirelli Winter Sottozero 3 | 235/40R19 | 42 PSI (290 kPa)  
+*Increase the tire pressure to 44 PSI (300 kPa) prior to driving 134 mph (215 kph) or faster.  
+GAWR  
+---  
+Front | 2,447 lbs | 1,110 kg  
+Rear | 2,767 lbs | 1,255 kg  
+  
+### 20" Zero-G Wheels (Performance)
+
+![Tesla 20" Zero-G
+wheel.](../../images/GUID-C05C992B-DE37-4594-9E43-15BDF78B27B8-online-en-
+US.png) Wheels | Location | Width (in) | Offset (mm)  
+---|---|---|---  
+20" | Front/Rear | 9 | 34  
+Tires (front/rear) | Size | Tire Pressure  
+---|---|---  
+Michelin, Pilot Sport 4S (PS4S) | 235/35ZR20 | 42 PSI (290 kPa)  
+Michelin PS Cup 2 | 245/35ZR20 | 42 PSI (290 kPa)  
+GAWR  
+---  
+Front | 2,650 lbs | 1,202 kg  
+Rear | 2,784 lbs | 1,263 kg  
+  
+### 20" Zero-G Wheels (Non-Performance)
+
+Wheels | Location | Width (in) | Offset (mm)  
+---|---|---|---  
+20" | Front/Rear | 9 | 40  
+Tires (front/rear) | Size | Tire Pressure  
+---|---|---  
+Michelin, Pilot Sport 4S (PS4S) | 235/35ZR20 | 42 PSI (290 kPa)  
+GAWR  
+---  
+Front | 2,650 lbs | 1,202 kg  
+Rear | 2,784 lbs | 1,263 kg  
+  
+### 19" Gemini Wheels (Performance)
+
+See Removing and Installing Aero Covers for information on how to remove and
+install Gemini wheel covers.
+
+![Tesla 19" Gemini
+wheel.](../../images/GUID-C8AC4684-3B53-4615-900D-27A37D2C88E9-online-en-
+US.png) Wheels | Location | Width (in) | Offset (mm)  
+---|---|---|---  
+19" | Front/Rear | 8.5 | 35  
+Tires (front/rear) | Size | Tire Pressure  
+---|---|---  
+Hankook Ventus S1 Evo3 | 235/40R19 | 42 PSI (290 kPa)*  
+Pirelli Winter, Sottozero 3 | 235/40R19 | 42 PSI (290 kPa)*  
+*Increase the tire pressure to 44 PSI (300 kPa) prior to driving 136 mph (220 kph) or faster.  
+GAWR  
+---  
+Front | 2510 lbs | 1,141 kg  
+Rear | 3,023 lbs | 1,374 kg  
+  
+### 18" Aero Wheels
+
+![Tesla 18" Aero wheel.](../../images/GUID-
+BC88DFEE-E629-44DE-88E5-22D321093B7C-online-en-US.png)
+
+Wheels | Location | Width (in) | Offset (mm)  
+---|---|---|---  
+18" | Front/Rear | 8.5 | 40  
+Tires (front/rear) | Size | Tire Pressure  
+---|---|---  
+Michelin, Primacy MXM4 | 235/45R18 | 42 PSI (290 kPa)  
+Michelin, Pilot Sport 4 (PS4) | 235/45R18 | 42 PSI (290 kPa)  
+Pirelli Winter Sottozero Serie II | 235/45R18 | 42 PSI (290 kPa)  
+GAWR  
+---  
+Front | 2,447 lbs | 1,110 kg  
+Rear | 2,840 lbs | 1,288 kg  
+  
+## Body Repairs
+
+If your Model 3 is in a collision, contact Tesla or a Tesla-approved Body Shop
+to ensure that it is repaired with genuine Tesla parts. Tesla has selected and
+approved body shops that meet strict requirements for training, equipment,
+quality, and customer satisfaction.
+
+Some repair shops and insurance companies might suggest using non-original
+equipment or salvaged parts to save money. However, these parts do not meet
+Tesla's high standards for quality, fit and corrosion resistance. In addition,
+non-original equipment and salvaged parts (and any damage or failures they
+might cause) are not covered by the warranty.
+
+## Replacing Cabin Filters
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Depending on your vehicle's date of manufacture, screw may be in a slightly
+different location on the cabin filter cover.
+
+Model 3 has air filters that prevent pollen, industrial fallout, road dust,
+and other particles from entering the cabin through the vents. Tesla
+recommends replacing these filters every 2 years (every year in China). Cabin
+filters can be purchased at the Tesla Shop.
+
+To replace the cabin filters:
+
+![](../../images/GUID-8EBE725E-0D52-4C1C-B8A8-55F37455663E-online-en-US.gif)
+
+  1. Turn off the climate control system.
+  2. Move the front passenger seat fully rearwards and remove the front passenger floor mat.
+  3. Use a clip pry tool to carefully release the push clips that secure the front passenger footwell cover to the instrument panel. Then, while supporting the footwell cover, disconnect the two electrical connectors and move the footwell cover aside.
+    * For the light, carefully press down on the tab while releasing the connector.
+    * For the speaker, carefully angle the vehicle-side connector so that the small tab releases from the hole in the footwell cover-side connector while releasing the connector.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+To avoid damage, do not pull on the wires when disconnecting the connectors.
+When disconnecting the connectors, make sure to pull from the plastic on the
+connectors themselves.
+
+![](../../images/GUID-156232FD-CB87-4BCF-9580-3D53B0A36B48-online-en-US.gif)
+
+  4. Working from top-to-bottom, use a trim tool to carefully release the right side panel from the center console.
+  5. Remove the T20 screw that secures the cabin filter cover to the heating, ventilation, and air conditioning (HVAC) module, then release the cabin filter cover and move it aside. On some vehicles, the screwn is a T20/6mm hybrid fastener. Tabs may also replace the screw: use your index finger and thumb to squeeze the two tabs at the bottom of the cabin filter cover. Tilt the cover outward to remove.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+If the HVAC module does not have a cabin filter cover, reinstall the trim
+panels and contact Tesla.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Do not stretch, bend, or otherwise damage the orange High Voltage (HV) cables
+that are attached to the cabin filter cover. If the HV cables are damaged,
+immediately discontinue this procedure. HV shock can result in serious injury
+or death.
+
+![](../../images/GUID-7BB81837-2F41-47EC-B5AD-992FF8B93CC8-online-en-US.png)
+
+  6. Fold the upper cabin filter’s tab upward and the lower filter’s tab downward.
+  7. Holding the tab on the upper cabin filter, pull the upper filter out from the HVAC module.
+  8. Holding the tab on the lower cabin filter, pull the lower filter upwards and then out from the HVAC module.
+  9. Ensuring that the arrows on both new filters face towards the **rear** of the vehicle, insert the lower cabin filter into the HVAC module and lower it into place. Then, insert the upper cabin filter above it.
+  10. Fold the tabs inward so that the cabin filter cover can be installed.
+  11. Install the cabin filter cover by engaging the lower cover tab then securing the T20 screw or T20/6mm hybrid fastener. Tighten the screw to 1.2 Nm/0.89 ft-lbs. On vehicles with tabs instead of a T20 screw: maneuver the top notch of the cabin filter cover into place, then secure the tabs at the bottom of the HVAC module.
+  12. Reconnect the two electrical connectors to the components in the front passenger footwell cover, then resecure the cover with the push clips.
+  13. Align the right side panel with the front and rear locator slots on the center console, then apply pressure until all of the clips are fully secure.
+  14. Reinstall the front passenger floor mat then move the front passenger seat back into place.
+
+## Replacing the Low Voltage Lead-Acid Battery
+
+_This procedure is intended for vehicles in North America only._
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+To avoid damage that is not covered by the warranty, replace your low voltage
+lead-acid battery with the same type of battery. The low voltage lead-acid
+battery for North American vehicles is **AtlasBX / Hankook 85B24LS 12V 45Ah**.
+You can purchase a new lead-acid low voltage battery that is compatible with
+your vehicle from your local service center
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Vehicles manufactured between approximately July 2017 and October 2020 do not
+have a heat pump and should use Vehicles Manufactured Before Approximately
+October 2020. Vehicles manufactured afterward have a heat pump and should use
+Vehicles Manufactured After Approximately October 2020.
+
+Perform the following procedure to replace the lead-acid low voltage battery.
+Wear appropriate personal protection equipment (such as safety glasses,
+leather gloves when handling the lead-acid battery etc.).
+
+### Vehicles Manufactured Before Approximately October 2020
+
+**Removal:**
+
+  1. Prepare the vehicle to remove the low voltage lead-acid battery:
+    1. Ensure the vehicle is in Park.
+    2. Lower all windows.
+    3. Open the front trunk.
+    4. Leave a door propped open so you can get back into the vehicle if needed.
+    5. Disconnect the charge cable from the charge port.
+  2. Move the driver and front passenger seat fully forward.
+  3. Under the rear seat, press the left and right tabs to the side and lift the seat cushion up. The seat separates from the base but is still restrained by one wire harness on each side.![Image of rear seats with arrows. #1 shows pushing tabs to the left, #2 shows the seat being lifted up](../../images/GUID-A8919C88-FA80-4390-B740-3B7103A15E30-online-en-US.png)
+  4. Disconnect the wire harnesses and remove the seat cushion. Set the cushion aside.![Image of highlighted wire harnesses under the seat](../../images/GUID-CFD1D18A-203D-484D-8FFF-EE146E716B16-online-en-US.png)
+  5. In the front trunk, remove the vehicle’s underhood apron by inserting a small, non-marring flat tool or your fingers underneath the panel. Pull up to loosen the clips and set the underhood apron aside.![Image of vehicle with front trunk open and rear underhood apron highlighted](../../images/GUID-122E5C2F-80CB-4BB9-9224-85570E72B370-online-en-US.png)
+  6. Remove the cabin intake duct and set it aside.![Cabin intake duct highlighted in front trunk](../../images/GUID-3ABED342-70B7-4B19-8C72-E65CA20510A4-online-en-US.png)
+  7. Power off the vehicle by navigating to Controls > Safety > Power Off on the touchscreen.
+  8. Disconnect the low voltage cable from penthouse: 
+    1. In the rear passenger seat, remove the foam cover and set it aside. The foam covers the low voltage cable. ![Closeup of black foam cover under the rear passenger seat](../../images/GUID-34E145F4-BCB5-4C1D-81A8-BCFBC02FF788-online-en-US.png)
+    2. Release and pull down the gray lever-arm on the side of the low voltage connector.![Arrow showing gray lever-arm being pushed down](../../images/GUID-19505E99-5D5E-4969-B3F1-B0DC245EA81B-online-en-US.png)
+    3. Pull the connector upward to disconnect it from the penthouse.![Arrow showing connector being pulled up](../../images/GUID-9B4FA7FC-544D-49A6-84BF-C45B3757AB42-online-en-US.png)
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+The area under the seat cushion houses the high voltage Battery. **DO NOT
+TOUCH OR PLACE ITEMS ON THE METAL HOUSING!** Doing so can cause serious damage
+or injury.
+
+  9. With a 10mm socket, loosen the nut that secures the negative (-) terminal clamp to the negative (-) post on the low voltage lead-acid battery. Release the terminal clamp from the negative (-) post.![Closeup of low voltage lead-acid battery with the negative \(-\) terminal clamp highlighted](../../images/GUID-81C27334-68D0-4E1B-92F8-078D30548BBD-online-en-US.png)
+  10. With a 10mm socket, release the terminal cover and loosen the nut that secures the positive (+) terminal clamp to the positive (+) post on the low voltage lead-acid battery. Release the terminal clamp from the positive (+) post and cover the terminal clamp with a dry rag. 
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Do not allow the positive (+) terminal clamp to contact nearby components like
+the low voltage battery hold down bracket or A/C cooling lines.
+
+![Closeup of low voltage lead-acid battery with the positive \(+\) terminal
+clamp
+highlighted](../../images/GUID-E2B5C486-8107-4F14-A212-039443F8F589-online-en-
+US.png)
+
+  11. Unplug the vent tube hose from the negative (-) terminal side of the low voltage lead-acid battery.![Closeup of low voltage lead-acid battery with the vent tube hose highlighted](../../images/GUID-1A2F7A45-FC56-4F5A-89AE-F4036551FC01-online-en-US.png)
+  12. With a 10mm socket, loosen the nut and release the battery hold down from the top of the low voltage lead-acid battery by unhooking and sliding it back, taking care to ensure it does not slip into the vehicle.![Arrows show the nut loosening and pulling the hold down up and out](../../images/GUID-640E4A4B-91C0-46DB-B78A-AFD4B137275B-online-en-US.png)
+  13. Using the battery handle, carefully remove the low voltage lead-acid battery, taking care not to touch or damage the surrounding components. 
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+When lifting the low voltage lead-acid battery, stand in front of the vehicle
+and use proper lifting technique. The low voltage battery weighs approximately
+25 lb (12 kg). Failure to do so may cause serious injury.
+
+![Example of low voltage lead-acid
+battery](../../images/GUID-00C1D0C0-A2D2-48E3-A305-31E1E1410B50-online-en-
+US.png)
+
+  14. Inspect the new low voltage lead-acid battery to ensure it is equipped a red plug on the positive (+) terminal side. If the new low voltage battery does not have a red plug, use a small trim tool transfer the red plug from the old battery to the new one.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Dispose of the old low voltage lead-acid battery according to local laws, such
+as dropping it off at a battery recycling facility. Keep the low voltage
+battery upright and place it on a towel or piece of cardboard when
+transporting it.
+
+![Low voltage lead-acid battery with red plug
+highlighted](../../images/GUID-728F615B-CE57-4E2B-A068-6277A99B8C20-online-en-
+US.png)
+
+**Installation:**
+
+  1. Remove the protective caps from the positive (+) and negative (-) posts on new low voltage lead-acid battery.
+  2. Carefully maneuver the new low voltage battery into place, taking care not to touch or damage nearby components.
+  3. Install the low voltage battery hold down and use a 10mm socket to tighten the bolt that secures it to the low voltage lead-acid battery. Torque the bolt to 6 Nm (4.4 ft-lb).![Arrows show the nut tightening and securing the hold down](../../images/GUID-4FEA7CCF-B3BB-4B1A-A25A-9E5ACE832F79-online-en-US.png)
+  4. In the rear passenger seat, connect the penthouse cable to the connector:
+    1. Ensure the gray lever-arm is down, then install the connector.![Arrow showing connector being installed](../../images/GUID-30BBD922-C00F-4EBC-88D8-F2FD0551B8B0-online-en-US.png)
+    2. Secure the connector by gently tugging the gray lever-arm upward until it clicks into place. ![Arrow showing gray lever-arm being pulled up](../../images/GUID-9B43AB60-6A1F-4899-9D5F-5616F72BC419-online-en-US.png)
+    3. Replace the foam cover on top of the penthouse cable.![Closeup of black foam piece on rear passenger seat](../../images/GUID-34E145F4-BCB5-4C1D-81A8-BCFBC02FF788-online-en-US.png)
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+The area under the seat cushion houses the high voltage Battery. **DO NOT
+TOUCH OR PLACE ITEMS ON THE METAL HOUSING!** Doing so can cause serious damage
+or injury.
+
+  5. Connect the positive (+) terminal by positioning the terminal clamp over the terminal post. Using a 10mm socket, torque the nut to 6 Nm (4.4 ft-lb). Install the positive (+) terminal cover.![Closeup of low voltage lead-acid battery with the positive \(+\) terminal clamp highlighted](../../images/GUID-E2B5C486-8107-4F14-A212-039443F8F589-online-en-US.png)
+  6. Connect the negative (-) terminal by positioning the terminal clamp over the connector. Using a 10mm socket, torque the nut to 6 Nm (4.4 ft-lb).![Closeup of low voltage lead-acid battery with the negative \(-\) terminal clamp highlighted](../../images/GUID-81C27334-68D0-4E1B-92F8-078D30548BBD-online-en-US.png)
+  7. Connect the vent tube hose into the negative (-) terminal side of the low voltage lead-acid battery.![Closeup of low voltage lead-acid battery with the vent tube hose highlighted](../../images/GUID-BD00AA4D-8C4C-4EA1-B481-321356681AB6-online-en-US.png)
+  8. Replace the cabin intake duct.![Cabin intake duct highlighted in front trunk](../../images/GUID-3ABED342-70B7-4B19-8C72-E65CA20510A4-online-en-US.png)
+  9. Open one of the vehicle’s doors to make sure power has been correctly restored and the touchscreen turns on (this may take several minutes).
+  10. In the rear seat, connect the seat wire harnesses (one on each side) and replace the seat cushion.![Image of highlighted wire harnesses under the seat](../../images/GUID-CFD1D18A-203D-484D-8FFF-EE146E716B16-online-en-US.png)
+  11. Press the seat cushion back into the base until it clicks into place.![Image of rear seats being reinstalled](../../images/GUID-09FBC2A9-549A-4700-95E8-CECD5DB9076B-online-en-US.png)
+  12. Replace the underhood apron by aligning the clips into their openings in the front trunk. Press down to lock them in place. The clips make an audible clicking sound when secured.![Image of vehicle with front trunk open and rear underhood apron highlighted](../../images/GUID-122E5C2F-80CB-4BB9-9224-85570E72B370-online-en-US.png)
+  13. Close the front trunk. If an alert to replace to low voltage lead-acid battery was previously shown on the touchscreen, ensure the alert no longer appears.
+
+### Vehicles Manufactured After Approximately October 2020
+
+**Removal:**
+
+  1. Prepare the vehicle to remove the low voltage lead-acid battery:
+    1. Ensure the vehicle is in Park.
+    2. Lower all windows.
+    3. Open the front trunk.
+    4. Leave a door propped open so you can get back into the vehicle if needed.
+    5. Disconnect the charge cable from the charge port.
+  2. Remove the vehicle’s underhood apron by inserting a small, non-marring flat tool or your fingers underneath the panel. Pull up to loosen the clips and set the underhood apron aside.![Image of vehicle with front trunk open and rear underhood apron highlighted](../../images/GUID-122E5C2F-80CB-4BB9-9224-85570E72B370-online-en-US.png)
+  3. In the front trunk, remove the cabin intake duct and set it aside.![Cabin intake duct highlighted in front trunk](../../images/GUID-3ABED342-70B7-4B19-8C72-E65CA20510A4-online-en-US.png)
+  4. Power off the vehicle by navigating to Controls > Safety > Power Off on the touchscreen.
+  5. In the front trunk, disconnect the first responder loop by sliding the red locking tab toward you, pressing the black tab, and releasing it. Set the first responder loop aside.![Arrow showing first responder loop being disconnected](../../images/GUID-006FCBFC-5B54-44C5-AB5F-BDAAC66CAA91-online-en-US.png)
+  6. With a 10mm socket, loosen the nut that secures the negative (-) terminal clamp to the negative (-) post on the low voltage lead-acid battery. Release the terminal clamp from the negative (-) post.![Closeup of low voltage lead-acid battery with the negative \(-\) terminal clamp highlighted](../../images/GUID-81C27334-68D0-4E1B-92F8-078D30548BBD-online-en-US.png)
+  7. With a 10mm socket, release the terminal cover and loosen the nut that secures the positive (+) terminal clamp to the positive (+) post on the low voltage lead-acid battery. Release the terminal clamp from the positive (+) post and cover the terminal clamp with a dry rag.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Do not allow the positive (+) terminal clamp to contact nearby components like
+the low voltage lead-acid battery hold down bracket or A/C cooling lines.
+
+![Closeup of low voltage lead-acid battery with the positive \(+\) terminal
+clamp
+highlighted](../../images/GUID-E2B5C486-8107-4F14-A212-039443F8F589-online-en-
+US.png)
+
+  8. Unplug the vent tube hose from the negative (-) terminal side of the low voltage battery.![Closeup of low voltage lead-acid battery with the vent tube hose highlighted](../../images/GUID-1A2F7A45-FC56-4F5A-89AE-F4036551FC01-online-en-US.png)
+  9. With a 10mm socket, loosen the nut and release the battery hold down from the top of the low voltage lead-acid battery by unhooking and slipping it back. If needed, tilt the battery hold down backward so it does not slip into the vehicle.![Arrows show the nut loosening and pulling the hold down up and out](../../images/GUID-640E4A4B-91C0-46DB-B78A-AFD4B137275B-online-en-US.png)
+  10. Carefully remove the low voltage lead-acid battery, taking care not to damage the surrounding components.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+When lifting the lead-acid battery, stand in front of the vehicle and use
+proper lifting technique. The lead-acid battery weighs approximately 25 lb (12
+kg). Failure to do so may cause serious injury.
+
+![Example of low voltage lead-acid
+battery](../../images/GUID-00C1D0C0-A2D2-48E3-A305-31E1E1410B50-online-en-
+US.png)
+
+  11. Inspect the new low voltage lead-acid battery to make sure it is equipped with a red plug on the positive (+) terminal side. If the new lead-acid battery does not have a red plug, transfer the red plug from the old battery to the new one.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Dispose of the old low voltage lead-acid battery according to local laws, such
+as dropping it off at a battery recycling facility. Keep the battery upright
+and place it on a towel or piece of cardboard when transporting it.
+
+![Closeup of low voltage lead-acid battery with the red plug
+highlighted](../../images/GUID-728F615B-CE57-4E2B-A068-6277A99B8C20-online-en-
+US.png)
+
+**Installation:**
+
+  1. Remove the protective caps from the positive (+) and negative (-) posts on the new low voltage lead-acid battery.
+  2. Carefully place the new lead-acid battery in the vehicle, taking care not to damage nearby components. 
+  3. Install the low voltage lead-acid battery hold down and use a 10mm socket to tighten the nut that secures it to the battery. Torque the nut to 6 Nm (4.4 ft-lb).![Arrows show the nut tightening and securing the hold down](../../images/GUID-4FEA7CCF-B3BB-4B1A-A25A-9E5ACE832F79-online-en-US.png)
+  4. Reconnect the first responder loop.![Arrow shows connecting first responder loop](../../images/GUID-E2D634A2-3326-447A-BB2F-20AFB84C85DE-online-en-US.png)
+  5. Reconnect the positive (+) terminal by positioning the terminal clamp over the terminal post. Using a 10mm socket, torque the nut to 6 Nm (4.4 ft-lb). Reinstall the positive (+) terminal cover.![Closeup of low voltage lead-acid battery with the positive \(+\) terminal clamp highlighted](../../images/GUID-E2B5C486-8107-4F14-A212-039443F8F589-online-en-US.png)
+  6. Reconnect the negative (-) terminal by positioning the terminal clamp over the connector. Using a 10mm socket, torque the nut to 6 Nm (4.4 ft-lb).![Closeup of low voltage lead-acid battery with the negative \(-\) terminal clamp highlighted](../../images/GUID-81C27334-68D0-4E1B-92F8-078D30548BBD-online-en-US.png)
+  7. Connect the vent tube hose into the negative (-) terminal side of the low voltage lead-acid battery.![Closeup of low voltage lead-acid battery with the vent tube hose highlighted](../../images/GUID-BD00AA4D-8C4C-4EA1-B481-321356681AB6-online-en-US.png)
+  8. Open one of the vehicle’s doors to make sure power has been correctly restored and the touchscreen turns on (this may take several minutes).
+  9. Reinstall the cabin intake duct.![Cabin intake duct highlighted in front trunk](../../images/GUID-3ABED342-70B7-4B19-8C72-E65CA20510A4-online-en-US.png)
+  10. Replace the underhood apron by aligning the clips into their openings in the front trunk. Press down to lock them in place. The clips make an audible clicking sound when secured.![Image of vehicle with front trunk open and rear underhood apron highlighted](../../images/GUID-122E5C2F-80CB-4BB9-9224-85570E72B370-online-en-US.png)
+  11. Close the front trunk. If an alert to replace to low voltage lead-acid battery was previously shown on the touchscreen, ensure the alert no longer appears.
+
+## Using RFID Transponders
+
+When attaching an RFID transponder (used by many automated toll systems)
+inside Model 3, place the transponder on the passenger side of the rear view
+mirror as shown. This ensures best results and minimizes any obstruction to
+your driving view.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+You can also attach a weather-proof transponder to the front license plate.
+
+![Recommended location to place the transponder - windshield to the right of
+the rear view mirror
+highlighted.](../../images/GUID-F34D4E59-8EE7-4B4B-AF82-1677BFAC3EDA-online-
+en-US.png)
+
+## Installing Front License Plate Bracket
+
+To accommodate jurisdictions that require a license plate on the front of your
+vehicle, Model 3 is equipped with a license plate bracket. This bracket
+conforms to the shape of your vehicle's front bumper and is adhered to it
+using strong adhesive.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Tesla recommends performing this procedure on a clean, dry vehicle during a
+warm day. Cold and/or wet conditions may result in reduced performance of the
+adhesive.
+
+To install the front license plate bracket:
+
+![Animation reflecting the steps to install the front license plate
+bracket.](../../images/GUID-5E9A4294-E675-4051-A95B-873D43AD7B8F-online-en-
+US.gif)
+
+  1. Get isopropyl alcohol and test it on a non-visible painted surface of your vehicle to confirm that it does not damage or remove the paint.
+  2. Clean the mounting site with isopropyl alcohol and allow to dry for at least one minute.
+  3. Fully remove the protective tape from the adhesive at the top of the bracket and partially remove the tape from the top of the adhesive on each side. Leave the bottom half of the tape on the sides in place and fold the unattached tape outward for easy removal after aligning the bracket to the bumper.
+  4. While tilting the top of the license plate bracket away from the bumper (to prevent adhering it to the wrong location), align the bottom center of the license plate bracket with the middle of the grille as shown.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Be as precise as possible when aligning the bracket because you will be unable
+to reposition it once adhered to the bumper.
+
+  5. While correctly aligned, move the top of the bracket against the bumper and apply pressure so that it is held in place by the adhesive.
+  6. Remove the remaining tape from the sides of the bracket then press the entire bracket firmly against the bumper, ensuring the bracket is held in place by all adhesive areas.
+  7. Once the bracket is securely mounted, use the four supplied screws to attach your license plate to the bracket (tighten to 3 Nm/2.2 ft-lbs).
+
+  

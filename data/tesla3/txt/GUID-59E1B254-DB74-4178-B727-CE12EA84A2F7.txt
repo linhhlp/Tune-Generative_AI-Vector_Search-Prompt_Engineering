@@ -1,0 +1,69 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Using this Owner's Manual
+
+To find what you are looking for, type keywords into the search bar at the top
+of the screen (once selected, you may need to scroll down to find the
+content). You can also navigate the content by tapping the navigation icons in
+the side menu (at the bottom on a mobile device).
+
+## YOUR OWNER'S MANUAL
+
+For the latest and greatest information that is customized to your vehicle,
+view the Owner’s Manual on your vehicle’s touchscreen by touching Controls >
+Service > Owner's Manual. The information is specific to your vehicle
+depending on the features you purchased, vehicle configuration, market region
+and software version. In contrast, owner information that is provided by Tesla
+elsewhere is updated as necessary and may not contain information unique to
+your vehicle.
+
+## RELEASE NOTES
+
+Information about new features is displayed on the touchscreen after a
+software update, and can be viewed at any time by touching Controls > Software
+> Release Notes. If the content in the Owner's Manual on how to use your
+vehicle conflicts with information in the Release Notes, the Release Notes
+take precedence.
+
+## ILLUSTRATIONS AND PRODUCT SPECIFICATIONS
+
+The illustrations provided in this document are for demonstration purposes
+only. Depending on vehicle options, software version and market region, the
+information displayed on the touchscreen in your vehicle may appear slightly
+different.
+
+All specifications and descriptions contained in this document are verified to
+be accurate at the time of printing. However, because continuous improvement
+is a goal at Tesla, we reserve the right to make product modifications at any
+time. To communicate any inaccuracies or omissions in this document, please
+send an email to: ownersmanualfeedback@tesla.com.
+
+## SAFETY INFORMATION
+
+You can find safety information in your Model 3 Owner's Manual on the
+touchscreen.
+
+For detailed information about your Model 3, go to the Tesla website for your
+region, log on to your Tesla account, or sign up to get an account.
+
+If you have any questions or concerns about your Model 3, call 1-877-79TESLA
+(1-877-798-3752).
+
+## © 2012-2023 TESLA, INC.
+
+All information in this document and all vehicle software is subject to
+copyright and other intellectual property rights of Tesla, Inc. and its
+licensors. This material may not be modified, reproduced or copied, in whole
+or in part, without the prior written permission of Tesla, Inc. and its
+licensors. Additional information is available upon request. Shown here are
+trademarks or registered trademarks of Tesla, Inc. in the United States and
+other countries:
+
+![Trademarks or registered trademarks of Tesla,
+Inc.](../../images/GUID-D2061DDB-6E91-4C76-8648-7706DA2EBE9E-online-en-US.png)
+
+**Parent topic:*

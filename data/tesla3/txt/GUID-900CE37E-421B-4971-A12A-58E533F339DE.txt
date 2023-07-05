@@ -1,0 +1,179 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Autopark
+
+This feature may be temporarily limited or inactive until it is enabled with a
+future software update for vehicles manufactured as of approximately October
+2022.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+_Depending on market region, vehicle configuration, options purchased, and
+software version, your vehicle may not be equipped with Autopark._
+
+Autopark uses data to simplify parking on public roads by maneuvering Model 3
+into parallel and perpendicular parking spaces.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Ensure all cameras and sensors (if equipped) are clean. Dirty cameras and
+sensors, as well as environmental conditions such as rain and faded lane
+markings, can affect Autopilot performance.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Autopark's performance depends on the ability of the cameras and sensors (if
+equipped) to determine the vehicle's proximity to curbs, objects, and other
+vehicles.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Do not use Autopark if anything, such as a ball hitch, bike rack, or trailer,
+is attached to the tow hitch. Autopark may not stop for hitches when parking
+between or in front of other vehicles.
+
+**Parent topic:** Autopilot
+
+## Parameters
+
+Autopark detects potential parking spaces based on the following parameters:
+
+**Perpendicular Parking**
+
+  * Your driving speed must be below 8 mph (13 km/h). If driving too fast, Autopark may not be able to accurately detect your desired parking space.
+  * The parking space must be at least 7.2 feet (2.2 meters) wide.
+  * The parking space must have at least three visible lines for the vehicle to park into, such as parking lines, road markings, or distinct curbs. Autopark may not work in a garage, for example, without three visible parking lines.
+  * Autopark may not work with textured road surfaces such as cobblestone or brick.
+
+**Parallel Parking**
+
+  * Your driving speed must be below 13 mph (21 km/h). If driving too fast, Autopark may not be able to accurately detect your desired parking space.
+  * There must be a vehicle in front of the space you want to park in.
+  * A distinct curb or edge must be visible. Autopark may not correctly identify the parking space if the curb is not distinct, such as grass or dirt.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Autopark does not operate on angled parking spaces.
+
+## To Use Autopark
+
+When driving, follow these steps to allow Autopark to maneuver Model 3 into a
+parking space:
+
+  1. While driving slowly on a public road, monitor the touchscreen to determine when Autopark has detected a parking space. The touchscreen will display a parking icon if the vehicle detects a potential parking spot. ![Screenshot of a potential parking space displayed with the icon shown.](../../images/GUID-72918BF9-437D-4584-8A14-78F40F535D96-online-en-US.png)
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+The parking icon appears only if the vehicle's position and/or the
+circumstances of the surrounding area are such that Autopark can determine an
+appropriate driving path. If Autopark cannot determine an appropriate path
+(for example, when driving on a narrow street where moving into the parking
+space causes the front of the vehicle to extend into the adjacent lane), you
+can either reposition the vehicle, find a different parking space, or park
+manually.
+
+  2. Check to determine if the detected parking space is appropriate and safe.  Pull forward and stop approximately one car length ahead of the parking space (as you normally would when parallel parking or when backing into a perpendicular parking space).
+  3. Release the steering wheel, shift Model 3 into Reverse, then touch Start Autopark on the touchscreen.
+  4. Autopark displays a message when parking is complete.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+If you press the brake pedal when Autopark is actively parking Model 3, the
+parking process pauses until you touch Resume on the touchscreen.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Never depend on Autopark to find a parking space that is legal, suitable, and
+safe. Autopark may not always detect objects in the parking space. Always
+perform visual checks to confirm that a parking space is appropriate and safe.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+When Autopark is actively steering Model 3, the steering wheel moves in
+accordance with Autopark's adjustments. Do not interfere with the movement of
+the steering wheel. Doing so cancels Autopark.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+During the parking sequence, continually check your surroundings. Be prepared
+to apply the brakes to avoid vehicles, pedestrians, or objects.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+When Autopark is active, monitor the touchscreen to ensure that you are aware
+of the instructions that Autopark is providing.
+
+## To Pause Parking
+
+To pause Autopark, press the brake pedal once. Model 3 stops and remains
+stopped until you touch Resume on the touchscreen.
+
+## To Cancel Parking
+
+Autopark cancels the parking sequence when you manually move the steering
+wheel, shift, or touch Cancel on the touchscreen. Autopark also cancels
+parking when:
+
+  * The parking sequence exceeds seven moves.
+  * Model 3 detects that the driver is exiting the vehicle.
+  * A door is opened.
+  * You press the accelerator pedal.
+  * You press the brake pedal while Autopark is paused.
+  * An Automatic Emergency Braking event occurs (see Collision Avoidance Assist).
+
+## Limitations
+
+Autopark is particularly unlikely to operate as intended in these situations:
+
+  * The road is sloped. Autopark is designed to operate on flat roads only.
+  * Visibility is poor (due to heavy rain, snow, fog, etc.).
+  * The curb is constructed of material other than stone, or the curb cannot be detected.
+  * The target parking space is directly adjacent to a wall or pillar (for example, the last parking space of a row in an underground parking structure).
+  * One or more of the sensors (if equipped) or cameras is damaged, dirty, or obstructed (such as by mud, ice, or snow, or by a vehicle bra, excessive paint, or adhesive products such as wraps, stickers, rubber coating, etc.).
+  * Weather conditions (heavy rain, snow, fog, or extremely hot or cold temperatures) are interfering with sensor (if equipped) operation.
+  * The sensors (if equipped) are affected by other electrical equipment or devices that generate ultrasonic waves.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Many unforeseen circumstances can impair Autopark's ability to park Model 3.
+Keep this in mind and remember that as a result, Autopark may not steer Model
+3 appropriately. Pay attention when parking Model 3 and stay prepared to
+immediately take control.
+
+  

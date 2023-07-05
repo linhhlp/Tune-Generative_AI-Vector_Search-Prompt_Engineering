@@ -1,0 +1,172 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Full Self-Driving (Beta)
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+As Full Self-Driving (Beta) deployment expands, Tesla will gradually make it
+available to eligible customers in select countries outside the United States.
+Because every country contains unique infrastructure, driving behaviors, and
+traffic patterns that Full Self-Driving (Beta) must adapt to over time, it is
+essential for drivers using Full Self-Driving (Beta) in newly eligible
+countries to be extra attentive and overly cautious. You must be ready to take
+over safely at any time.
+
+Full Self-Driving (Beta) is an early access feature and must be used with
+additional caution. When Full Self-Driving (Beta) is actively engaged, Model 3
+attempts to navigate to your destination, by following road curves, adjusting
+speed for traffic, stopping at and negotiating intersections, making turns,
+selecting forks, and entering/exiting highways.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Full Self-Driving (Beta) does not make Model 3 autonomous and may not perform
+as expected at all times **– do not become complacent**. It requires a fully
+attentive driver who is ready to take immediate action at all times. Full
+Self-Driving (Beta) does not replace the driver’s responsibility to operate
+Model 3.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Failure to follow all warnings and instructions can result in property damage,
+serious injury or death.
+
+**Parent topic:** Autopilot
+
+## Full Self-Driving (Beta) Settings
+
+To enable Full Self-Driving (Beta), touch Controls > Autopilot > Autopilot
+Features > Full Self-Driving (Beta) and then, after carefully reading and
+understanding the popup window, touch Yes.
+
+If desired, change the setting for Full Self-Driving (Beta) Profile from the
+default setting of Average to Chill or Assertive. Chill provides a more
+relaxed driving style and Assertive drives with more urgency.
+
+## How to Use Full Self-Driving (Beta)
+
+  1. ![Icon of a gray steering wheel.](../../images/GUID-26B1827C-F8BB-4337-BB1F-32BB4CE58000-online-en-US.png)
+
+**Engage Full Self-Driving (Beta):** Enter a destination (if desired) and when
+the touchscreen displays the gray steering wheel icon indicating that
+Autosteer is available, move the drive stalk fully down twice in quick
+succession. If you do not enter a destination, Model 3 chooses the most
+probable driving path or suggests a destination based on your driving.
+
+![icon of blue steering
+wheel](../../images/GUID-63865536-1601-4363-B11F-5483D13C823E-online-en-
+US.png)
+
+When Full Self-Driving (Beta) is engaged, the steering wheel icon is blue and
+a blue line represents your driving path.
+
+The touchscreen displays a visualization of the environment surrounding Model
+3, including the roadway and detected objects such as vehicles, pedestrians,
+curbs, etc.
+
+![](../../images/GUID-42A7BAF7-B96B-4889-A999-7A19C4A8317D-online-en-US.png)
+
+  2. **Be ready to take over:** There may be occasions where driver intervention is required and you must take over immediately to maintain safe driving. For example, the vehicle may alert you or the visualization may indicate indecisiveness by incessant flickering. 
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Practicing a safe disengage before it is necessary is ideal.
+
+In addition, like Autosteer, Full Self-Driving (Beta) checks for driver
+attentiveness and requires your hands on the steering wheel at all times. If
+your hands are not detected, the touchscreen displays escalating warnings and
+failure to respond to these warnings cancels Full Self-Driving (Beta) until
+your next drive.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Failure to use Full Self-Driving (Beta) appropriately may cause the feature to
+be disabled.
+
+  3. **Safe disengage:** To disengage Full Self-Driving (Beta) safely, be aware of your surroundings and push the drive stalk up once, press the brake pedal, or take over and steer manually. 
+
+When arriving at a chosen destination, Full Self-Driving (Beta) stops Model 3
+and displays a message indicating that navigation is complete.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Full Self-Driving (Beta) uses Tesla's vision-based system and therefore radar
+(if equipped) is disabled.
+
+## Tips
+
+  * **Fullscreen visualization:** You can widen the visualization area to fullscreen. First enable the setting by touching Controls > Autopilot > Full Self-Driving > Expanded Full Self-Driving Visualization. Then on the touchscreen, swipe the visualization window handle to fill the entire screen.
+  * Using the right scroll wheel on the steering wheel, tilt left or right to change your Full Self-Driving profile or Traffic-Aware Cruise Control follow distance settings. This will also bring up the FSD Autopilot Settings card if applicable.
+  * **Feedback:**
+
+![Icon of a the snapshot
+feature.](../../images/GUID-7E0C71F4-87A2-4B2C-A345-8BEF6A609F10-online-en-
+US.png)
+
+If you experience incorrect or unexpected behavior, touch the snapshot icon
+(if equipped) at the top of the touchscreen to send data to Tesla for
+analysis. Tesla uses this data to improve the intelligence of Full Self-
+Driving (Beta).
+
+  * **Maintain software updates and cameras:** Always remember that Full Self-Driving (Beta) does not make Model 3 autonomous. Full autonomy is dependent on achieving reliability far in excess of human drivers as demonstrated by billions of miles of experience, as well as regulatory approval. As Tesla’s Full Self-Driving capabilities evolve, Model 3 is continuously upgraded through over-the-air software updates. Download updates as soon as they become available. To ensure an optimum experience, keep all cameras clean and unobstructed.
+
+## Limitations
+
+Full Self-Driving (Beta) and its associated functions may not operate as
+intended and there are numerous situations in which driver intervention may be
+needed. Examples include (but are not limited to):
+
+  * Interactions with pedestrians, bicyclists, and other road users.
+  * Unprotected turns with high-speed cross traffic.
+  * Multi-lane turns.
+  * Simultaneous lane changes.
+  * Narrow roads with oncoming cars or double-parked vehicles.
+  * Rare objects such as trailers, ramps, cargo, open doors, etc. protruding from vehicles.
+  * Merges onto high-traffic, high-speed roads.
+  * Debris in the road.
+  * Construction zones.
+  * High curvature roads, particularly at fast driving speeds.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+In addition, visibility is critical for Full Self-Driving (Beta) to operate.
+Low visibility, such as low light or poor weather conditions (rain, snow,
+direct sun, fog, etc.) can significantly degrade performance.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Model 3 may quickly and suddenly make unexpected maneuvers or mistakes that
+require immediate driver intervention. The list above represents only a
+fraction of the possible scenarios that can cause Full Self-Driving (Beta) to
+make sudden maneuvers and behave unexpectedly. In fact, Model 3 can suddenly
+swerve even when driving conditions appear normal and straight-forward. Stay
+alert and always pay attention to the roadway so you can anticipate the need
+to take corrective action as early as possible. Remember that this is an early
+access feature that must be used with extra caution.
+
+  

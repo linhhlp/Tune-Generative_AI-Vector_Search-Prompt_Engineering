@@ -1,0 +1,232 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Navigate on Autopilot
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+_Depending on market region, vehicle configuration, options purchased, and
+software version, your vehicle may not be equipped with Navigate on Autopilot,
+or the feature may not operate exactly as described._
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Navigate on Autopilot is a BETA feature.
+
+When using Autosteer on a controlled-access highway (a main highway on which
+road users enter and exit using on-ramps and off-ramps). Navigate on Autopilot
+guides Model 3 to off-ramps and interchanges based on your navigation route.
+Along the highway portion of a navigation route, Navigate on Autopilot also
+changes lanes to prepare for exits (route-based lane changes) and to minimize
+the driving time to your destination (speed-based lane changes).
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Navigate on Autopilot does not make driving autonomous. You must pay attention
+to the road, keep your hands on the steering wheel at all times, and remain
+aware of your navigation route.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+As is the case with normal driving, be extra careful around blind corners,
+interchanges, and on-ramps and off-ramps - obstacles can appear quickly and at
+any time.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Navigate on Autopilot may not recognize or detect oncoming vehicles,
+stationary objects, and special-use lanes such as those used exclusively for
+bikes, carpools, emergency vehicles, etc. Remain alert at all times and be
+prepared to take immediate action. Failure to do so can cause damage, injury
+or death.
+
+**Parent topic:** Autopilot
+
+## Enabling and Customizing Navigate on Autopilot
+
+To enable Navigate on Autopilot, touch Controls > Autopilot > Autopilot
+Features > Autosteer > Navigate on Autopilot (Beta). Then, to customize how
+you want Navigate on Autopilot to operate, touch Customize Navigate on
+Autopilot:
+
+  * Enable At Start Of Every Trip: Choose whether or not you want to automatically enable Navigate on Autopilot for every navigation route. When enabled, the Navigate on Autopilot button on the turn-by-turn direction list is already enabled at the start of every trip.
+  * Speed Based Lane Changes: Navigate on Autopilot is designed to perform both route-based and speed-based lane changes. Route-based lane changes are designed to keep you on your navigation route (for example, moving you into an adjacent lane to prepare for an upcoming off-ramp) whereas speed-based lane changes are designed to maintain a driving speed (not to exceed your cruising speed) that allows you to minimize the time it takes to reach your destination (for example, moving into an adjacent lane to pass a vehicle in front of you). Speed-based lanes changes are optional. You can use this setting to disable speed-based lane changes or to specify how aggressively you want Navigate on Autopilot to change lanes to achieve the set cruising speed. The Mild setting is more conservative about lane changes and may result in a slightly longer driving time whereas Mad Max is designed to allow you to reach your destination in the shortest driving time possible, but changes lanes only when safe to do so.
+  * Exit Passing Lane: Choose whether you want Navigate on Autopilot to maneuver out of a passing lane when navigating to a destination.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+In addition to route-based and speed-based lane changes, Navigate on Autopilot
+requests a lane change out of a passing lane as a reminder to stay in a slower
+lane when you are not passing other vehicles. Choose NO to disable this and
+keep Model 3 in a passing lane except when needed to stay on the navigation
+route.
+
+  * Require Lane Change Confirmation (if equipped): By default, Navigate on Autopilot requires your confirmation before proceeding with a lane change by engaging the appropriate turn signal. However, if you want Navigate on Autopilot to change lanes without requiring this confirmation, turn this setting off. When you turn the setting off, you can specify if or how you want to be notified of lane changes (Off, Chime, Vibrate, or Both).
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+If you turn off Require Lane Change Confirmation, Navigate on Autopilot
+notifies you of upcoming lane changes and off-ramps, but it remains your
+responsibility to monitor the environment and maintain control of Model 3 at
+all times. Lane changes can occur quickly and suddenly. Always keep your hands
+on the wheel and your eyes on the driving path in front of you.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+The touchscreen displays route-based lane changes at the top of the map's
+turn-by-turn direction list to notify you that an upcoming lane change is
+needed to stay on the navigation route.
+
+## Operating Navigate on Autopilot
+
+Once enabled, the Navigate on Autopilot button appears on the map’s turn-by-
+turn direction list whenever a navigation route is active and the route
+includes at least one controlled-access highway. When enabled, the Navigate on
+Autopilot button is blue and the turn-by-turn direction displays the Autosteer
+icon next to the maneuvers (such as off-ramps) that Navigate on Autopilot will
+handle.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+If Enable At Start Of Every Trip is turned off, you must touch the Navigate on
+Autopilot button to enable it for each navigation route.
+
+Navigate on Autopilot activates and deactivates as appropriate, based on the
+type of road you are driving on. For example, if Autosteer is active and
+Navigate on Autopilot is enabled, Navigate on Autopilot automatically becomes
+active when you reach a controlled-access highway on your navigation route.
+
+Whenever Navigate on Autopilot is active, the touchscreen displays the driving
+lane as a single blue line in front of Model 3:
+
+![](../../images/GUID-9E8A8E00-B4CE-481A-AAA5-54E99FE06E82-online-en-US.png)
+
+When Navigate on Autopilot is active and you approach an off-ramp or
+interchange along your navigation route, the appropriate turn signal engages
+and Autosteer maneuvers Model 3 onto the off-ramp or interchange.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Never depend on Navigate on Autopilot to determine an appropriate lane at an
+off-ramp. Stay alert and perform visual checks to ensure that the driving lane
+is safe and appropriate.
+
+When you leave a controlled-access highway (for example, you take an exit or
+you enter a section of the navigation route that is no longer supported),
+Navigate on Autopilot reverts to Autosteer— a chime sounds and the touchscreen
+displays the driving lane lines in blue (instead of the single blue in front
+of Model 3).
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+When determining navigation routes, and maneuvers at interchanges, Navigate on
+Autopilot considers whether or not you want to use High Occupancy Vehicle
+(HOV) lanes. Therefore, ensure the Use HOV Lanes setting is appropriate for
+your circumstances (see Maps and Navigation). If the setting is off, Navigate
+on Autopilot never uses a HOV lane, regardless of time of day. If the setting
+is on, Navigate on Autopilot uses HOV lanes, whenever applicable.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+When Navigate on Autopilot deactivates, Autosteer remains active. Always be
+prepared to take appropriate action.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Navigate on Autopilot may not always attempt to exit at an off-ramp or change
+lanes, even when an exit or lane change is determined by the navigation route.
+Always remain alert and be prepared to manually steer onto an off-ramp, or
+make a lane change to prepare for, or to exit at, an off-ramp or interchange.
+
+You can cancel Navigate on Autopilot at any time by touching Navigate on
+Autopilot on the map’s turn-by-turn direction list (Model 3 reverts to
+Autosteer), or by canceling Autosteer entirely (see Canceling Autosteer).
+
+### Lane Changes
+
+Navigate on Autopilot changes lanes to either prepare Model 3 for an upcoming
+off-ramp, to increase your driving speed (not to exceed your set cruising
+speed), or to move Model 3 out of a passing lane when you are not actively
+passing other road users. A message displays at the top of the map's turn-by-
+turn direction list to notify you when an upcoming lane change is required to
+stay on your navigation route. The touchscreen displays the upcoming driving
+path:
+
+![](../../images/GUID-2701D796-9D98-4529-95C8-D89EFB6C93DF-online-en-US.png)
+
+If Require Lane Change Confirmation is turned off, Navigate on Autopilot
+engages the appropriate turn signal, checks for vehicles and objects, and when
+appropriate, maneuvers Model 3 into the adjacent lane.
+
+If Require Lane Change Confirmation is turned on, you must engage the
+appropriate turn signal to confirm that you want Navigate on Autopilot to
+proceed with the lane change. If you do not confirm the lane change within
+three seconds, a chime sounds to remind you that Navigate on Autopilot
+requires your confirmation to change lanes.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+If you ignore a route-based lane change suggestion (for example, you are
+driving in the left lane while approaching an off-ramp on the right side of
+the highway), Navigate on Autopilot is unable to maneuver onto the off-ramp
+and as a result, you are re-routed to your destination.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Navigate on Autopilot may not always attempt to exit at an off-ramp or change
+lanes, even when an exit or lane change is determined by the navigation route.
+Always remain alert and be prepared to manually steer onto an off-ramp, or
+make a lane change to prepare for, or to exit at, an off-ramp or interchange.
+
+### Be Ready to Assist
+
+When attempting to change lanes or maneuver Model 3, or when approaching
+construction zones, Navigate on Autopilot may be unable to determine the
+appropriate driving lane (for example, complex clover leafs and multi-lane
+off-ramps) and the touchscreen displays an alert indicating that Navigate on
+Autopilot is trying to maneuver and may require assistance. When you see the
+message, be prepared to take immediate action to ensure that it is safe and
+appropriate to complete the lane change or maneuver.
+
+  

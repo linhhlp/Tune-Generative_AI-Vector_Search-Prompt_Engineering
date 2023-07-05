@@ -1,0 +1,34 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Identification Labels
+
+**Parent topic:** Specifications
+
+## Vehicle Identification Number
+
+You can find the VIN at the following locations:
+
+  * Touch Controls > Software on the touchscreen.
+  * Stamped on a plate located at the top of the dashboard. Can be seen by looking through the windshield.![Arrow pointing to the VIN plate on top of the dashboard.](../../images/GUID-AE448FB9-B42F-45CE-AD5D-9F4DEDB1A6DB-online-en-US.png)
+  * Printed on the Vehicle Certification label, located on the door pillar. This can be seen when the driver's door is open. ![Arrow pointing to the label on the door pillar.](../../images/GUID-34FED522-5463-42AB-AD2D-787145E37628-online-en-US.png)
+
+## Emission Control Label
+
+The emission control label is located on the opening face of the liftgate.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+For vehicles with a model year of 2022 or newer, the emission control label is
+now located on the inside of the front hood and may not match the label shown.
+
+![Example of emission control
+label.](../../images/GUID-158F7A15-87DE-4BE7-9CF3-7A595520D792-online-en-
+US.png)
+
+  

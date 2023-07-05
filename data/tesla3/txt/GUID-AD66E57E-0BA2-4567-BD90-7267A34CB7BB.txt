@@ -1,0 +1,82 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# About this Owner Information
+
+**Parent topic:** Consumer Information
+
+## Document Applicability
+
+For the latest and greatest information that is customized to your vehicle,
+view the Owner’s Manual on your vehicle’s touchscreen by touching Controls >
+Service > Owner's Manual. The information is specific to your vehicle
+depending on the features you purchased, vehicle configuration, market region
+and software version. In contrast, owner information that is provided by Tesla
+elsewhere is updated as necessary and may not contain information unique to
+your vehicle.
+
+Information about new features is displayed on the touchscreen after a
+software update, and can be viewed at any time by touching Controls > Software
+> Release Notes. If the content in the Owner's Manual on how to use your
+vehicle conflicts with information in the Release Notes, the Release Notes
+take precedence.
+
+## Illustrations
+
+The illustrations provided in this document are for demonstration purposes
+only. Depending on vehicle options, software version and market region, the
+information displayed on the touchscreen in your vehicle may appear slightly
+different.
+
+## Feature Availability
+
+Some features are available only on some vehicle configurations and/or only in
+specific market regions. Options or features mentioned in the Owner's Manual
+does not guarantee they are available on your specific vehicle. See Feature
+Availability Statement for more information.
+
+## Errors or Inaccuracies
+
+All specifications and descriptions are known to be accurate at time of
+publishing. However, because continuous improvement is a goal at Tesla, we
+reserve the right to make product modifications at any time. To communicate
+any inaccuracies or omissions, or to provide general feedback or suggestions
+regarding the quality of the Owner's Manual, send an email to
+ownersmanualfeedback@tesla.com.
+
+## Location of Components
+
+Owner information may specify the location of a component as being on the left
+or right side of the vehicle. As shown, left (1) and right (2) represent the
+side of the vehicle when sitting inside.
+
+![Top view of the vehicle with a 1 on left side of the vehicle and a 2 on the
+right side of the
+vehicle.](../../images/GUID-79B2FB04-B91E-400A-949F-12C5A08B4EE5-online-en-
+US.png)
+
+## Copyrights and Trademarks
+
+© 2012-2023 Tesla, Inc. All information in this document and all vehicle
+software is subject to copyright and other intellectual property rights of
+Tesla, Inc. and its licensors. This material may not be modified, reproduced
+or copied, in whole or in part, without the prior written permission of Tesla,
+Inc. and its licensors. Additional information is available upon request.
+Tesla uses software created by the Open Source community. Please visit Tesla’s
+Open Source software website at www.tesla.com/opensource. HD Radio is a
+registered trademark of iBiquity Digital Corporation. The following are
+trademarks or registered trademarks of Tesla, Inc. in the United States and
+other countries:
+
+![Various Tesla trademarked words, logos,
+etc.](../../images/GUID-915CC8F8-A105-4D81-8AB8-8FA566809F6C-online-en-US.png)
+
+All other trademarks contained in this document are the property of their
+respective owners and their use herein does not imply sponsorship or
+endorsement of their products or services. The unauthorized use of any
+trademark displayed in this document or on the vehicle is strictly prohibited.
+
+  

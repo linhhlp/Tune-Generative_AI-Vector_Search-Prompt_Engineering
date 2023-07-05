@@ -1,0 +1,512 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Autosteer
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+_Depending on market region, vehicle configuration, options purchased, and
+software version, your vehicle may not be equipped with Autosteer, or the
+feature may not operate exactly as described._
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Autosteer is a BETA feature.
+
+Autosteer builds upon Traffic-Aware Cruise Control (see Traffic-Aware Cruise
+Control), intelligently keeping Model 3 in its driving lane when cruising at a
+set speed. Autosteer also allows you to use the turn signals to move Model 3
+into an adjacent lane (see Auto Lane Change). Autosteer detects lane markings
+and the presence of vehicles and objects to steer Model 3.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+To display more details about the roadway and its surroundings, such as road
+markings, stop lights, objects (such as trash cans and poles), etc., touch
+Controls > Autopilot > Full Self-Driving Visualization Preview (if equipped).
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Ensure all cameras and sensors (if equipped) are clean. Dirty cameras and
+sensors, as well as environmental conditions such as rain and faded lane
+markings, affect performance.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Autosteer is a hands-on feature. You must keep your hands on the steering
+wheel at all times.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Autosteer is intended for use on controlled-access highways with a fully
+attentive driver. When using Autosteer, hold the steering wheel and be mindful
+of road conditions and surrounding traffic. Do not use Autosteer in
+construction zones, or in areas where bicyclists or pedestrians may be
+present. Never depend on Autosteer to determine an appropriate driving path.
+Always be prepared to take immediate action. Failure to follow these
+instructions could cause damage, serious injury or death.
+
+**Parent topic:** Autopilot
+
+## Operating Autosteer
+
+Before you can operate Autosteer, you must enable it by touching Controls >
+Autopilot > Autopilot Features > Autosteer (Beta).
+
+![Icon of a gray steering
+wheel.](../../images/GUID-26B1827C-F8BB-4337-BB1F-32BB4CE58000-online-en-
+US.png)
+
+To indicate that Autosteer is available (but not actively steering Model 3),
+the top corner of the touchscreen displays a gray Autosteer icon next to the
+driving gear.
+
+To initiate Autosteer, move the drive stalk fully down twice in quick
+succession.
+
+![an arrow pointing at the door
+handle](../../images/GUID-D7CB3AC3-BBC4-4F26-8B17-2CABBEA72BCE-online-en-
+US.gif)
+
+![icon of blue steering
+wheel](../../images/GUID-63865536-1601-4363-B11F-5483D13C823E-online-en-
+US.png)
+
+To indicate that Autosteer is now actively steering Model 3, the touchscreen
+displays the Autosteer icon in blue. When Autosteer is able to detect lane
+markings, it also displays the driving lane in blue.
+
+Autosteer briefly displays a message on the touchscreen reminding you to pay
+attention to the road and be ready to take over at any time.
+
+The speed at which you can initiate Autosteer can vary depending on various
+conditions and whether or not a vehicle is detected ahead of you. When no
+vehicle is detected ahead of you, you must be driving at least 18 mph (30
+km/h), unless certain vehicle and environmental conditions are met, in which
+case, you may be able to initiate it at lower speeds. When a vehicle is
+detected ahead of you, you can initiate Autosteer at any speed, even when
+stationary, provided Model 3 is at least 5 feet (150 cm) behind the detected
+vehicle.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+When Autosteer is engaged, Auto High Beam is automatically enabled and the
+maximum cruising speed is 85 mph (140 km/h).
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+If available in your market region,  Model 3 detects lights from an emergency
+vehicle when using Autosteer at night on a high speed road, the driving speed
+is automatically reduced and the touchscreen displays a message informing you
+of the slowdown. You will also hear a chime and see a reminder to keep your
+hands on the steering wheel. When the light detections pass by or cease to
+appear, Autopilot resumes your cruising speed. Alternatively, you may tap the
+accelerator to resume your cruising speed.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Never depend on Autopilot features to determine the presence of emergency
+vehicles. Model 3 may not detect lights from emergency vehicles. Keep your
+eyes on your driving path and always be prepared to take immediate action.
+
+In situations where Autosteer is temporarily unavailable, the Autosteer icon
+disappears. For example, your driving speed is not within the speed required
+for Autosteer to operate. Autosteer may also be unavailable if it is not
+receiving adequate data from the camera(s).
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+In low light conditions (dusk or dark), Autosteer aborts or is unavailable if
+headlights are set to Off. For best results, set headlights to Auto.
+
+If unable to detect lane markings, Autosteer may determine the driving lane
+based on a vehicle you are following.
+
+In most cases, Autosteer attempts to center Model 3 in the driving lane.
+However, there may be situations in which Autosteer may steer Model 3 in a
+driving path that is offset from the center of the lane (for example,
+detection of guard rails).
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Autosteer is not designed to, and will not, steer Model 3 around objects
+partially in a driving lane and in some cases, may not stop for objects that
+are completely blocking the driving lane. Always watch the road in front of
+you and stay prepared to take immediate action. It is the driver's
+responsibility to be in control of Model 3 at all times.
+
+### Restricted Speed
+
+On a controlled-access highway, the cruising speed reflects the speed limit,
+taking into consideration any offset you've specified using Speed Assist.
+However, if you choose to use Autosteer on residential roads, a road without a
+center divider, or a road where access is not limited, Autosteer may limit the
+maximum allowed cruising speed and the touchscreen displays a message
+indicating that speed is restricted. The restricted speed will be the speed
+limit of the road plus 5 mph (10 km/h).
+
+In situations where the speed limit cannot be detected when Autosteer is
+engaged, Autosteer reduces your driving speed and limits the set cruising
+speed to 45 mph (70 km/h). Although you can manually accelerate to exceed the
+limited speed, Model 3 may not brake for detected obstacles. Autosteer slows
+down to the limited speed when you release the accelerator pedal. When you
+leave the road, or disengage Autosteer by using the steering wheel, you can
+increase your set speed again, if desired.
+
+### Hold Steering Wheel
+
+Autosteer determines how best to steer Model 3. When active, Autosteer
+requires you to hold the steering wheel. If it does not detect your hands on
+the steering wheel for a period of time, a flashing blue light appears at the
+top of the car status section of the touchscreen and the following message
+displays:
+
+![Hands on steering
+wheel](../../images/GUID-B2A99031-2D81-425B-90D8-6BB73012C40F-online-en-
+US.png)
+
+Apply slight turning force to steering wheel
+
+Autosteer detects your hands by recognizing slight resistance as the steering
+wheel turns, or from you manually turning the steering wheel very lightly
+(without enough force to take over steering). Autosteer also qualifies your
+hands as being detected if you engage a turn signal or use a button or scroll
+wheel on the steering wheel.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+When your hands are detected, the message disappears and Autosteer resumes
+normal operation.
+
+Autosteer requires that you pay attention to your surroundings and remain
+prepared to take control at any time. If Autosteer still does not detect your
+hands on the steering wheel, the flashing light on the car status section of
+the touchscreen increases in frequency and a chime sounds.
+
+If you repeatedly ignore Autosteer's prompts to apply slight force to the
+steering wheel, Autosteer disables for the rest of the drive and displays the
+following message requesting you to drive manually. If you don't resume manual
+steering, Autosteer sounds a continuous chime, turns on the warning flashers,
+and slows the vehicle to a complete stop.
+
+![Exclamation point within a
+triangle](../../images/GUID-9BD525FE-B3EB-4B51-8299-9605BD5989F9-online-en-
+US.png)
+
+**Autosteer unavailable for the rest of this drive. Hold steering wheel to
+drive manually. **
+
+For the rest of the drive, you must steer manually. Autosteer is available
+again on your next drive (after you stop and shift Model 3 into Park).
+
+### Take Over Immediately
+
+In situations where Autosteer is unable to steer Model 3, Autosteer sounds a
+warning chime and displays the following message on the touchscreen:
+
+![Exclamation point within a
+triangle](../../images/GUID-9BD525FE-B3EB-4B51-8299-9605BD5989F9-online-en-
+US.png)
+
+Take over immediately
+
+When you see this message, TAKE OVER STEERING IMMEDIATELY.
+
+### Canceling Autosteer
+
+Autosteer cancels when:
+
+  * You press the brake pedal.
+  * You start steering manually.
+  * You exceed the maximum speed at which Autosteer operates – 90 mph (150 km/h).
+  * You move the drive stalk upwards.
+  * A door is opened.
+  * An Automatic Emergency Braking event occurs (see Collision Avoidance Assist).
+
+When Autosteer cancels, it sounds a chime and the Autosteer icon either turns
+gray to indicate that Autosteer is no longer active, or disappears to indicate
+that it is not currently available.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+If Autosteer cancels because you started steering manually, Traffic-Aware
+Cruise Control remains active. Disengage Traffic-Aware Cruise Control as you
+normally would, by pressing the brake pedal moving the drive stalk upward.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+If you move the drive stalk upward and hold it up for more than one second,
+Model 3 shifts into Neutral after canceling Autosteer.
+
+To disable Autosteer so it is no longer available, touch Controls > Autopilot
+> Autopilot Features  > Autosteer (Beta).
+
+## Auto Lane Change
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+_Depending on market region, vehicle configuration, options purchased, and
+software version, your vehicle may not be equipped with Auto Lane Change, or
+the feature may not operate exactly as described._
+
+When Autosteer is active, engage a turn signal to move Model 3 into an
+adjacent lane (moving the steering wheel would cancel Autosteer).
+
+![](../../images/GUID-2701D796-9D98-4529-95C8-D89EFB6C93DF-online-en-US.png)
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+It is the driver's responsibility to determine whether a lane change is safe
+and appropriate. Therefore, before initiating a lane change, always check
+blind spots, lane markings, and the surrounding roadway to confirm it is safe
+and appropriate to move into the target lane.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Never depend on Auto Lane Change to determine an appropriate driving path.
+Drive attentively by watching the road and traffic ahead of you, checking the
+surrounding area, and monitoring the touchscreen for warnings. Always be
+prepared to take immediate action.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Do not use Auto Lane Change on roads where traffic conditions are constantly
+changing and where bicycles and pedestrians are present.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+The performance of Auto Lane Change depends on the ability of the camera(s) to
+recognize lane markings.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Do not use Auto Lane Change on winding roads with sharp curves, on icy or
+slippery roads, or when weather conditions (such as heavy rain, snow, fog,
+etc.) may be obstructing the view from the camera(s) or sensors (if equipped).
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Failure to follow all warnings and instructions can result in property damage,
+serious injury or death.
+
+### Operating Auto Lane Change
+
+Auto Lane Change is available whenever Autosteer is active. To change lanes
+using Auto Lane Change:
+
+  1. Perform visual checks to make sure it is safe and appropriate to move into the target lane.
+  2. Engage the appropriate turn signal, keeping your hands on the steering wheel.
+  3. If needed, cancel the turn signal once you are in the target lane.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+The minimum speed at which Auto Lane Change operates may vary depending on
+region, adjacent lane speeds, and other factors. Always be ready to manually
+steer and change lanes as necessary.
+
+Auto Lane Change moves Model 3 into the adjacent lane in the direction
+indicated by the turn signal, provided the following conditions are met:
+
+  * The turn signal is engaged.
+  * Model 3 does not detect a vehicle in its blind spot, or a vehicle or obstacle up to the center of the target lane.
+  * Lane markings indicate that a lane change is permitted.
+  * Midway through the lane change, Model 3 must detect the target lane's outside lane marking. If this lane marking is not detected, the lane change is aborted and Model 3 returns to its original driving lane.
+  * The view of the camera(s) is not obstructed.
+
+When an automatic lane change is in progress, Overtake Acceleration is
+activated, allowing Model 3 to accelerate closer to a vehicle in front (see
+Overtake Acceleration).
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Auto Lane Change  movesModel 3 one lane at a time. Moving into an additional
+lane requires you to engage the turn signal a second time after the first lane
+change is complete.
+
+When using Auto Lane Change, it is important to monitor its performance by
+watching the driving path in front of you and the surrounding area. Stay
+prepared to take over steering at any time. As you are crossing over into the
+adjacent lane, the touchscreen displays the location in the lane that Model 3
+is moving into.
+
+In situations where Auto Lane Change is unable to operate at optimal
+performance, or cannot operate due to inadequate data, the touchscreen
+displays a series of warnings. Therefore, when using Auto Lane Change, always
+pay attention to the touchscreen and be prepared to manually steer Model 3.
+
+## Adjacent Lane Speed
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+_Depending on market region, vehicle configuration, options purchased, and
+software version, your vehicle may not be equipped with Adjacent Lane Speed,
+or the feature may not operate exactly as described._
+
+![](../../images/GUID-0FC291B7-40CA-40F2-8332-31001398C0A2-online-en-US.png)
+
+When moving significantly faster than vehicles in adjacent lanes, Model 3
+automatically reduces the driving speed. This is especially helpful in heavy
+traffic situations or when vehicles are constantly merging into different
+lanes. When Model 3 detects other vehicles driving significantly slower, the
+touchscreen highlights the adjacent lanes with arrows and detected vehicles in
+gray, and Model 3 reduces the driving speed as appropriate. To temporarily
+override this feature, press the accelerator pedal.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Never depend on Autopilot to determine a safe driving speed; you are
+responsible for driving safely and according to traffic laws in your market
+region.
+
+## Stop Light and Stop Sign Warning
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+_Depending on market region, vehicle configuration, options purchased, and
+software version, your vehicle may not be equipped with Stop Light and Stop
+Sign Warning, or the feature may not operate exactly as described._
+
+While Autosteer is in use, Model 3 displays a warning on the touchscreen and
+sounds a chime if it detects that you are likely to run through a red stop
+light or stop sign. If this happens, TAKE IMMEDIATE CORRECTIVE ACTION!
+
+The visual and audible warnings cancel after a few seconds, or when you press
+the brake pedal, whichever comes first.
+
+Stop Light and Stop Sign Warning provides warnings only. It does not slow down
+or stop Model 3 at red traffic lights, stop signs, road markings, etc. If
+equipped with Traffic Light and Stop Sign Control, you can enable this feature
+to automatically stop Model 3 at traffic lights and stop signs (see Traffic
+Light and Stop Sign Control).
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Stop Light and Stop Sign Warning requires on-board maps to know that a
+particular stop light or stop sign exists at a location. In some cases, map
+data is inaccurate or outdated and may not include all stop lights or stop
+signs. Therefore, Stop Light and Stop Sign Warning may not detect all stop
+lights and stop signs.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+The Stop Light and Stop Sign Warning feature does not apply the brakes or
+decelerate Model 3 and may not detect all stop lights and stop signs. Stop
+Light and Stop Sign Warning is designed for guidance purposes only and is not
+a substitute for attentive driving and sound judgment. Keep your eyes on the
+road when driving and never depend on Stop Light and Stop Sign Warning to warn
+you of a stop light or stop sign.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Stop Light and Stop Sign Warning is designed to warn you only when approaching
+a visible red stop sign, solid red or later portion of a yellow traffic light.
+It may not warn you of intersections with flashing lights and it does not warn
+you of yield signs or temporary stop and yield signs (such as those used in
+construction areas). Additionally, Stop Light and Stop Sign Warning does not
+warn you of approaching stop lights or stop signs when you are pressing the
+accelerator pedal or brake pedal (which disables Autosteer).
+
+## Limitations
+
+Autosteer and its associated functions are particularly unlikely to operate as
+intended when:
+
+  * Autosteer is unable to accurately determine lane markings. For example, lane markings are excessively worn, have visible previous markings, have been adjusted due to road construction, are changing quickly (lanes branching off, crossing over, or merging), objects or landscape features are casting strong shadows on the lane markings, or the road surface contains pavement seams or other high-contrast lines.
+  * Visibility is poor (heavy rain, snow, fog, etc.) or weather conditions are interfering with sensor operation. 
+  * A camera(s) or sensor(s) is obstructed, covered, or damaged.
+  * Driving on hills.
+  * Approaching a toll booth.
+  * Driving on a road that has sharp curves or is excessively rough.
+  * Bright light (such as direct sunlight) is interfering with the view of the camera(s).
+  * The sensors (if equipped) are affected by other electrical equipment or devices that generate ultrasonic waves.
+  * A vehicle is detected in your blind spot when you engage the turn signal.
+  * Model 3 is being driven very close to a vehicle in front of it, which is blocking the view of the camera(s).
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Many unforeseen circumstances can impair the operation of Autosteer. Always
+keep this in mind and remember that as a result, Autosteer may not steer Model
+3 appropriately. Always drive attentively and be prepared to take immediate
+action.
+
+  

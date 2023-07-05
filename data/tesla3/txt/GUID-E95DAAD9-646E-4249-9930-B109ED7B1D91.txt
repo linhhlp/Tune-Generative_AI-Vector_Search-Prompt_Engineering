@@ -1,0 +1,390 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Maintenance Service Intervals
+
+**Parent topic:** Maintenance
+
+## Service Intervals
+
+Your vehicle should generally be serviced on an as-needed basis. However,
+Tesla recommends the following maintenance items and intervals, as applicable
+to your vehicle, to ensure continued reliability and efficiency of your Model
+3.
+
+For more do-it-yourself maintenance procedures and information, see
+https://www.tesla.com/support/do-it-yourself-guides.
+
+For more information on vehicle alerts, see Troubleshooting Alerts.
+
+  * Brake fluid health check every 2 years (replace if necessary).
+  * A/C desiccant bag replacement every 4* years.
+  * Cabin air filter replacement every 2 years.
+  * Clean and lubricate brake calipers every year or 12,500 miles (20,000 km) if in an area where roads are salted during winter
+  * Rotate tires every 6,250 miles (10,000 km) or if tread depth difference is 2/32 in (1.5 mm) or greater, whichever comes first
+
+*A/C desiccant bag replacement can be extended to 6 years on vehicles manufactured between approximately 2017-2021.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Any damage caused by opening the Battery coolant reservoir is excluded from
+the warranty.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+The above intervals are based on typical driving behaviors and scenarios.
+However, Model 3 should generally be serviced on an as-needed basis; depending
+on various circumstances such as driving behavior, usage, environmental
+conditions, etc., the above maintenance items may need to be replaced more or
+less frequently than specified. Additionally, the above list should not be
+considered comprehensive and does not include consumable parts such as
+windshield wipers, brake pads, low voltage lead-acid battery (if applicable),
+etc.
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Damages or failures caused by maintenance or repairs performed by non-Tesla
+certified technicians are not covered by the warranty.
+
+## Schedule Service
+
+Scheduling a service visit through the mobile app is easy. After touching
+Schedule Service, select the type of service needed and follow the directions
+in the mobile app. Provide as much detail as possible, such as:
+
+  * Photos, sound recordings, or videos.
+  * Date(s), time(s), and time zone when the issue occurred.
+  * Country of use and location.
+  * Approximate speed the vehicle was traveling (if applicable).
+  * Environmental conditions (rain, snow, cold, etc.).
+  * Road name and type of road (if applicable).
+  * Quality of lane markings (if applicable).
+  * Applicable vehicle settings.
+  * Identifiable symptoms.
+
+Visit https://www.tesla.com/support/service-visits for more information on
+scheduling service.
+
+## Daily Checks
+
+  * Check the Battery’s charge level, displayed on the touchscreen or mobile app.
+  * Check the condition and pressure of each tire (see Tire Care and Maintenance).
+  * Check that all exterior lights, horn, turn signals, and wipers and washers are working.
+  * Check for any unexpected indicator lights or vehicle alerts on the touchscreen.
+  * Check the operation of the brakes, including the parking brake.
+  * Check the operation of the seat belts (see Seat Belts).
+  * Look for abnormal fluid deposits underneath Model 3 that might indicate a leak. It is normal for a small pool of water to form (caused by the air conditioning system’s dehumidifying process).
+  * Look around the exterior of Model 3 and immediately remove any corrosive substances (such as bird droppings, tree resin, tar spots, dead insects, industrial fallout, etc.) to prevent damage to the paint (see Cleaning).
+
+## Monthly Checks
+
+  * Check windshield washer fluid level and top up if necessary (see Topping Up Windshield Washer Fluid).
+  * Check that the air conditioning system is operating correctly (see Operating Climate Controls).
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+In addition to cooling the interior, the air conditioning compressor also
+cools the Battery. Therefore, in hot weather, the air conditioning compressor
+can turn on even if you turned it off. This is normal because the system’s
+priority is to cool the Battery to ensure it stays within an optimum
+temperature range to support longevity and optimum performance. Also, even
+when not in use, you may hear Model 3 emit a whining noise or the sound of
+water circulating. These sounds are normal and occur when the internal cooling
+systems turn on to support various vehicle functions, such as maintaining the
+low voltage battery and balancing the temperature of the high voltage Battery.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Contact Tesla immediately if you notice any significant or sudden drop in
+fluid levels or uneven tire wear.
+
+## Fluid Replacement Intervals
+
+Battery coolant and brake fluid levels should only be checked by Tesla or a
+professional automotive repair shop. Specific service information is available
+in the Service Manual.
+
+  * **Battery coolant:** Your Battery coolant does not need to be replaced for the life of your vehicle under most circumstances. 
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Any damage caused by opening the Battery coolant reservoir is excluded from
+the warranty.
+
+  * **Brake fluid:** Do not top up your brake fluid.
+
+## Software
+
+Updating software is important to ensure proper operation and longevity of
+your vehicle's components. You must install a software update at the earliest
+opportunity. See Software Updates.
+
+Tesla may update or reinstall your vehicle's software as part of the normal
+diagnostic, repair, and maintenance process within Service.
+
+## High Voltage Safety
+
+Your Model 3 has been designed and built with safety as a priority. However,
+be aware of these precautions to protect yourself from the risk of injury
+inherent in all high-voltage systems:
+
+  * Read and follow all instructions provided on the labels that are attached to Model 3. These labels are there for your safety.
+  * The high voltage system has no user-serviceable parts. Do not disassemble, remove or replace high voltage components, cables or connectors. High voltage cables are colored orange for easy identification.
+  * If a collision occurs, do not touch any high voltage wiring, connectors, or components connected to the wiring.
+  * In the unlikely event that a fire occurs, immediately contact your local fire emergency responders.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Always disconnect the charge cable before working underneath Model 3, even if
+charging is not in progress.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Keep your hands and clothing away from cooling fans. Some fans operate even
+when Model 3 is powered off.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+Some fluids (battery acid, Battery coolant, brake fluid, windshield washer
+additives, etc.) used in vehicles are poisonous and should not be inhaled,
+swallowed, or brought into contact with open wounds. For your safety, always
+read and follow instructions printed on fluid containers.
+
+## Replacing the Low Voltage Lead-Acid Battery
+
+_This procedure is intended for vehicles in North America only._
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+To avoid damage that is not covered by the warranty, replace your low voltage
+lead-acid battery with the same type of battery. The low voltage lead-acid
+battery for North American vehicles is **AtlasBX / Hankook 85B24LS 12V 45Ah**.
+You can purchase a new lead-acid low voltage battery that is compatible with
+your vehicle from your local service center
+
+Informational PurposesAn informational icon, calling your attention
+
+Note
+
+Vehicles manufactured between approximately July 2017 and October 2020 do not
+have a heat pump and should use Vehicles Manufactured Before Approximately
+October 2020. Vehicles manufactured afterward have a heat pump and should use
+Vehicles Manufactured After Approximately October 2020.
+
+Perform the following procedure to replace the lead-acid low voltage battery.
+Wear appropriate personal protection equipment (such as safety glasses,
+leather gloves when handling the lead-acid battery etc.).
+
+### Vehicles Manufactured Before Approximately October 2020
+
+**Removal:**
+
+  1. Prepare the vehicle to remove the low voltage lead-acid battery:
+    1. Ensure the vehicle is in Park.
+    2. Lower all windows.
+    3. Open the front trunk.
+    4. Leave a door propped open so you can get back into the vehicle if needed.
+    5. Disconnect the charge cable from the charge port.
+  2. Move the driver and front passenger seat fully forward.
+  3. Under the rear seat, press the left and right tabs to the side and lift the seat cushion up. The seat separates from the base but is still restrained by one wire harness on each side.![Image of rear seats with arrows. #1 shows pushing tabs to the left, #2 shows the seat being lifted up](../../images/GUID-A8919C88-FA80-4390-B740-3B7103A15E30-online-en-US.png)
+  4. Disconnect the wire harnesses and remove the seat cushion. Set the cushion aside.![Image of highlighted wire harnesses under the seat](../../images/GUID-CFD1D18A-203D-484D-8FFF-EE146E716B16-online-en-US.png)
+  5. In the front trunk, remove the vehicle’s underhood apron by inserting a small, non-marring flat tool or your fingers underneath the panel. Pull up to loosen the clips and set the underhood apron aside.![Image of vehicle with front trunk open and rear underhood apron highlighted](../../images/GUID-122E5C2F-80CB-4BB9-9224-85570E72B370-online-en-US.png)
+  6. Remove the cabin intake duct and set it aside.![Cabin intake duct highlighted in front trunk](../../images/GUID-3ABED342-70B7-4B19-8C72-E65CA20510A4-online-en-US.png)
+  7. Power off the vehicle by navigating to Controls > Safety > Power Off on the touchscreen.
+  8. Disconnect the low voltage cable from penthouse: 
+    1. In the rear passenger seat, remove the foam cover and set it aside. The foam covers the low voltage cable. ![Closeup of black foam cover under the rear passenger seat](../../images/GUID-34E145F4-BCB5-4C1D-81A8-BCFBC02FF788-online-en-US.png)
+    2. Release and pull down the gray lever-arm on the side of the low voltage connector.![Arrow showing gray lever-arm being pushed down](../../images/GUID-19505E99-5D5E-4969-B3F1-B0DC245EA81B-online-en-US.png)
+    3. Pull the connector upward to disconnect it from the penthouse.![Arrow showing connector being pulled up](../../images/GUID-9B4FA7FC-544D-49A6-84BF-C45B3757AB42-online-en-US.png)
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+The area under the seat cushion houses the high voltage Battery. **DO NOT
+TOUCH OR PLACE ITEMS ON THE METAL HOUSING!** Doing so can cause serious damage
+or injury.
+
+  9. With a 10mm socket, loosen the nut that secures the negative (-) terminal clamp to the negative (-) post on the low voltage lead-acid battery. Release the terminal clamp from the negative (-) post.![Closeup of low voltage lead-acid battery with the negative \(-\) terminal clamp highlighted](../../images/GUID-81C27334-68D0-4E1B-92F8-078D30548BBD-online-en-US.png)
+  10. With a 10mm socket, release the terminal cover and loosen the nut that secures the positive (+) terminal clamp to the positive (+) post on the low voltage lead-acid battery. Release the terminal clamp from the positive (+) post and cover the terminal clamp with a dry rag. 
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Do not allow the positive (+) terminal clamp to contact nearby components like
+the low voltage battery hold down bracket or A/C cooling lines.
+
+![Closeup of low voltage lead-acid battery with the positive \(+\) terminal
+clamp
+highlighted](../../images/GUID-E2B5C486-8107-4F14-A212-039443F8F589-online-en-
+US.png)
+
+  11. Unplug the vent tube hose from the negative (-) terminal side of the low voltage lead-acid battery.![Closeup of low voltage lead-acid battery with the vent tube hose highlighted](../../images/GUID-1A2F7A45-FC56-4F5A-89AE-F4036551FC01-online-en-US.png)
+  12. With a 10mm socket, loosen the nut and release the battery hold down from the top of the low voltage lead-acid battery by unhooking and sliding it back, taking care to ensure it does not slip into the vehicle.![Arrows show the nut loosening and pulling the hold down up and out](../../images/GUID-640E4A4B-91C0-46DB-B78A-AFD4B137275B-online-en-US.png)
+  13. Using the battery handle, carefully remove the low voltage lead-acid battery, taking care not to touch or damage the surrounding components. 
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+When lifting the low voltage lead-acid battery, stand in front of the vehicle
+and use proper lifting technique. The low voltage battery weighs approximately
+25 lb (12 kg). Failure to do so may cause serious injury.
+
+![Example of low voltage lead-acid
+battery](../../images/GUID-00C1D0C0-A2D2-48E3-A305-31E1E1410B50-online-en-
+US.png)
+
+  14. Inspect the new low voltage lead-acid battery to ensure it is equipped a red plug on the positive (+) terminal side. If the new low voltage battery does not have a red plug, use a small trim tool transfer the red plug from the old battery to the new one.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Dispose of the old low voltage lead-acid battery according to local laws, such
+as dropping it off at a battery recycling facility. Keep the low voltage
+battery upright and place it on a towel or piece of cardboard when
+transporting it.
+
+![Low voltage lead-acid battery with red plug
+highlighted](../../images/GUID-728F615B-CE57-4E2B-A068-6277A99B8C20-online-en-
+US.png)
+
+**Installation:**
+
+  1. Remove the protective caps from the positive (+) and negative (-) posts on new low voltage lead-acid battery.
+  2. Carefully maneuver the new low voltage battery into place, taking care not to touch or damage nearby components.
+  3. Install the low voltage battery hold down and use a 10mm socket to tighten the bolt that secures it to the low voltage lead-acid battery. Torque the bolt to 6 Nm (4.4 ft-lb).![Arrows show the nut tightening and securing the hold down](../../images/GUID-4FEA7CCF-B3BB-4B1A-A25A-9E5ACE832F79-online-en-US.png)
+  4. In the rear passenger seat, connect the penthouse cable to the connector:
+    1. Ensure the gray lever-arm is down, then install the connector.![Arrow showing connector being installed](../../images/GUID-30BBD922-C00F-4EBC-88D8-F2FD0551B8B0-online-en-US.png)
+    2. Secure the connector by gently tugging the gray lever-arm upward until it clicks into place. ![Arrow showing gray lever-arm being pulled up](../../images/GUID-9B43AB60-6A1F-4899-9D5F-5616F72BC419-online-en-US.png)
+    3. Replace the foam cover on top of the penthouse cable.![Closeup of black foam piece on rear passenger seat](../../images/GUID-34E145F4-BCB5-4C1D-81A8-BCFBC02FF788-online-en-US.png)
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+The area under the seat cushion houses the high voltage Battery. **DO NOT
+TOUCH OR PLACE ITEMS ON THE METAL HOUSING!** Doing so can cause serious damage
+or injury.
+
+  5. Connect the positive (+) terminal by positioning the terminal clamp over the terminal post. Using a 10mm socket, torque the nut to 6 Nm (4.4 ft-lb). Install the positive (+) terminal cover.![Closeup of low voltage lead-acid battery with the positive \(+\) terminal clamp highlighted](../../images/GUID-E2B5C486-8107-4F14-A212-039443F8F589-online-en-US.png)
+  6. Connect the negative (-) terminal by positioning the terminal clamp over the connector. Using a 10mm socket, torque the nut to 6 Nm (4.4 ft-lb).![Closeup of low voltage lead-acid battery with the negative \(-\) terminal clamp highlighted](../../images/GUID-81C27334-68D0-4E1B-92F8-078D30548BBD-online-en-US.png)
+  7. Connect the vent tube hose into the negative (-) terminal side of the low voltage lead-acid battery.![Closeup of low voltage lead-acid battery with the vent tube hose highlighted](../../images/GUID-BD00AA4D-8C4C-4EA1-B481-321356681AB6-online-en-US.png)
+  8. Replace the cabin intake duct.![Cabin intake duct highlighted in front trunk](../../images/GUID-3ABED342-70B7-4B19-8C72-E65CA20510A4-online-en-US.png)
+  9. Open one of the vehicle’s doors to make sure power has been correctly restored and the touchscreen turns on (this may take several minutes).
+  10. In the rear seat, connect the seat wire harnesses (one on each side) and replace the seat cushion.![Image of highlighted wire harnesses under the seat](../../images/GUID-CFD1D18A-203D-484D-8FFF-EE146E716B16-online-en-US.png)
+  11. Press the seat cushion back into the base until it clicks into place.![Image of rear seats being reinstalled](../../images/GUID-09FBC2A9-549A-4700-95E8-CECD5DB9076B-online-en-US.png)
+  12. Replace the underhood apron by aligning the clips into their openings in the front trunk. Press down to lock them in place. The clips make an audible clicking sound when secured.![Image of vehicle with front trunk open and rear underhood apron highlighted](../../images/GUID-122E5C2F-80CB-4BB9-9224-85570E72B370-online-en-US.png)
+  13. Close the front trunk. If an alert to replace to low voltage lead-acid battery was previously shown on the touchscreen, ensure the alert no longer appears.
+
+### Vehicles Manufactured After Approximately October 2020
+
+**Removal:**
+
+  1. Prepare the vehicle to remove the low voltage lead-acid battery:
+    1. Ensure the vehicle is in Park.
+    2. Lower all windows.
+    3. Open the front trunk.
+    4. Leave a door propped open so you can get back into the vehicle if needed.
+    5. Disconnect the charge cable from the charge port.
+  2. Remove the vehicle’s underhood apron by inserting a small, non-marring flat tool or your fingers underneath the panel. Pull up to loosen the clips and set the underhood apron aside.![Image of vehicle with front trunk open and rear underhood apron highlighted](../../images/GUID-122E5C2F-80CB-4BB9-9224-85570E72B370-online-en-US.png)
+  3. In the front trunk, remove the cabin intake duct and set it aside.![Cabin intake duct highlighted in front trunk](../../images/GUID-3ABED342-70B7-4B19-8C72-E65CA20510A4-online-en-US.png)
+  4. Power off the vehicle by navigating to Controls > Safety > Power Off on the touchscreen.
+  5. In the front trunk, disconnect the first responder loop by sliding the red locking tab toward you, pressing the black tab, and releasing it. Set the first responder loop aside.![Arrow showing first responder loop being disconnected](../../images/GUID-006FCBFC-5B54-44C5-AB5F-BDAAC66CAA91-online-en-US.png)
+  6. With a 10mm socket, loosen the nut that secures the negative (-) terminal clamp to the negative (-) post on the low voltage lead-acid battery. Release the terminal clamp from the negative (-) post.![Closeup of low voltage lead-acid battery with the negative \(-\) terminal clamp highlighted](../../images/GUID-81C27334-68D0-4E1B-92F8-078D30548BBD-online-en-US.png)
+  7. With a 10mm socket, release the terminal cover and loosen the nut that secures the positive (+) terminal clamp to the positive (+) post on the low voltage lead-acid battery. Release the terminal clamp from the positive (+) post and cover the terminal clamp with a dry rag.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Do not allow the positive (+) terminal clamp to contact nearby components like
+the low voltage lead-acid battery hold down bracket or A/C cooling lines.
+
+![Closeup of low voltage lead-acid battery with the positive \(+\) terminal
+clamp
+highlighted](../../images/GUID-E2B5C486-8107-4F14-A212-039443F8F589-online-en-
+US.png)
+
+  8. Unplug the vent tube hose from the negative (-) terminal side of the low voltage battery.![Closeup of low voltage lead-acid battery with the vent tube hose highlighted](../../images/GUID-1A2F7A45-FC56-4F5A-89AE-F4036551FC01-online-en-US.png)
+  9. With a 10mm socket, loosen the nut and release the battery hold down from the top of the low voltage lead-acid battery by unhooking and slipping it back. If needed, tilt the battery hold down backward so it does not slip into the vehicle.![Arrows show the nut loosening and pulling the hold down up and out](../../images/GUID-640E4A4B-91C0-46DB-B78A-AFD4B137275B-online-en-US.png)
+  10. Carefully remove the low voltage lead-acid battery, taking care not to damage the surrounding components.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+Warning
+
+When lifting the lead-acid battery, stand in front of the vehicle and use
+proper lifting technique. The lead-acid battery weighs approximately 25 lb (12
+kg). Failure to do so may cause serious injury.
+
+![Example of low voltage lead-acid
+battery](../../images/GUID-00C1D0C0-A2D2-48E3-A305-31E1E1410B50-online-en-
+US.png)
+
+  11. Inspect the new low voltage lead-acid battery to make sure it is equipped with a red plug on the positive (+) terminal side. If the new lead-acid battery does not have a red plug, transfer the red plug from the old battery to the new one.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+Dispose of the old low voltage lead-acid battery according to local laws, such
+as dropping it off at a battery recycling facility. Keep the battery upright
+and place it on a towel or piece of cardboard when transporting it.
+
+![Closeup of low voltage lead-acid battery with the red plug
+highlighted](../../images/GUID-728F615B-CE57-4E2B-A068-6277A99B8C20-online-en-
+US.png)
+
+**Installation:**
+
+  1. Remove the protective caps from the positive (+) and negative (-) posts on the new low voltage lead-acid battery.
+  2. Carefully place the new lead-acid battery in the vehicle, taking care not to damage nearby components. 
+  3. Install the low voltage lead-acid battery hold down and use a 10mm socket to tighten the nut that secures it to the battery. Torque the nut to 6 Nm (4.4 ft-lb).![Arrows show the nut tightening and securing the hold down](../../images/GUID-4FEA7CCF-B3BB-4B1A-A25A-9E5ACE832F79-online-en-US.png)
+  4. Reconnect the first responder loop.![Arrow shows connecting first responder loop](../../images/GUID-E2D634A2-3326-447A-BB2F-20AFB84C85DE-online-en-US.png)
+  5. Reconnect the positive (+) terminal by positioning the terminal clamp over the terminal post. Using a 10mm socket, torque the nut to 6 Nm (4.4 ft-lb). Reinstall the positive (+) terminal cover.![Closeup of low voltage lead-acid battery with the positive \(+\) terminal clamp highlighted](../../images/GUID-E2B5C486-8107-4F14-A212-039443F8F589-online-en-US.png)
+  6. Reconnect the negative (-) terminal by positioning the terminal clamp over the connector. Using a 10mm socket, torque the nut to 6 Nm (4.4 ft-lb).![Closeup of low voltage lead-acid battery with the negative \(-\) terminal clamp highlighted](../../images/GUID-81C27334-68D0-4E1B-92F8-078D30548BBD-online-en-US.png)
+  7. Connect the vent tube hose into the negative (-) terminal side of the low voltage lead-acid battery.![Closeup of low voltage lead-acid battery with the vent tube hose highlighted](../../images/GUID-BD00AA4D-8C4C-4EA1-B481-321356681AB6-online-en-US.png)
+  8. Open one of the vehicle’s doors to make sure power has been correctly restored and the touchscreen turns on (this may take several minutes).
+  9. Reinstall the cabin intake duct.![Cabin intake duct highlighted in front trunk](../../images/GUID-3ABED342-70B7-4B19-8C72-E65CA20510A4-online-en-US.png)
+  10. Replace the underhood apron by aligning the clips into their openings in the front trunk. Press down to lock them in place. The clips make an audible clicking sound when secured.![Image of vehicle with front trunk open and rear underhood apron highlighted](../../images/GUID-122E5C2F-80CB-4BB9-9224-85570E72B370-online-en-US.png)
+  11. Close the front trunk. If an alert to replace to low voltage lead-acid battery was previously shown on the touchscreen, ensure the alert no longer appears.
+
+  

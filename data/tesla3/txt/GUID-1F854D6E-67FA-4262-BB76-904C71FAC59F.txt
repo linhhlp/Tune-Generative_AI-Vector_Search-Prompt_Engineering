@@ -1,0 +1,223 @@
+﻿
+
+#
+
+Model 3 Owner's Manual
+
+# Certification Conformity
+
+**Parent topic:** Consumer Information
+
+## FCC and ISED Certification
+
+Component | Manufacturer | Model | Operating Frequency (MHz) | FCC ID | IC ID  
+---|---|---|---|---|---  
+  
+B-Pillar Endpoint
+
+| Tesla |
+
+1089773E
+
+|
+
+13.56
+
+2400-2483.5
+
+|
+
+2AEIM-1089773E
+
+|
+
+20098-1089773E  
+  
+Center Console | Tesla | 1089774 |
+
+13.56
+
+2400-2483.5
+
+|
+
+2AEIM-1089774
+
+| 20098-1089774  
+  
+Rear Endpoint
+
+| Tesla |
+
+1089775
+
+| 2400-2483.5 |
+
+2AEIM-1089775
+
+|
+
+20098-1089775  
+  
+Key fob | Tesla | 1133148 | 2400-2483.5 | 2AEIM-1133148 | 20098-1133148  
+TPMS |
+
+Tesla
+
+|
+
+1472547G
+
+|
+
+2400-2483.5
+
+|
+
+2AEIM-1472547G
+
+|
+
+20098-1472547G  
+  
+Radar (if equipped) | Continental | ARS 4-B | 76000-77000 | OAYARS4B |
+4135A-ARS4B  
+Homelink (if equipped) | Gentex | ADHL5C | 286-440MHz | NZLADHL5C |
+4112A-ADHL5C  
+Car PC
+
+Manufactured approx. 2017-2019
+
+| Tesla |
+
+1098058
+
+|  |
+
+YZP-RBHP-B216C
+
+RI7LE940B6NA
+
+|
+
+RBHP-B216C
+
+5131A-LE940B6NA  
+  
+Car PC
+
+Manufactured approx. 2019-2022
+
+| Tesla |
+
+1506277
+
+|  |
+
+YZP-RBHP-B216C
+
+RI7LE940B6NA
+
+|
+
+RBHP-B216C
+
+5131A-LE940B6NA  
+  
+Car PC Manufactured approx. January–July 2022 | Tesla | 1960100 |  |
+XMR2020AG525RGL YZP-ATC5CPC001 | 10224A-2020AG525R 7414C-ATC5CPC001  
+Car PC
+
+Manufactured approx. August 2022+
+
+| Tesla | 1960100 |  |  XMR2020AG525RGL XMR202201AF51Y | 10224A-2020AG525R
+10224A-202201AF51Y  
+Wireless Charger | Tesla |
+
+WC3
+
+|
+
+127.72KHz
+
+|
+
+2AEIM-WC3
+
+|
+
+20098-WC3  
+  
+The devices listed above comply with Part 15 of the FCC rules and Industry
+Canada's license-exempt RSS Standard(s) and EU Directive 2014/53/EU.
+
+Operation is subject to the following two conditions:
+
+  1. This device may not cause harmful interference; and
+  2. This device must accept any interference received, including interference that may cause undesired operation.
+
+Changes or modifications not expressly approved by Tesla could void your
+authority to operate the equipment.
+
+## Radio Frequency Information
+
+This equipment has been tested and found to comply with the limits for a Class
+B digital device, pursuant to Part 15 of the FCC Rules. These limits are
+designed to provide reasonable protection against harmful interference in a
+residential installation. This equipment generates, uses and can radiate radio
+frequency energy and, if not installed and used in accordance with the
+instructions, may cause harmful interference to radio communications. However,
+there is no guarantee that interference will not occur in a particular
+installation. If this equipment does cause harmful interference to radio or
+television reception, which can be determined by turning the equipment off and
+on, try to correct the interference by one or more of the following measures:
+
+  * Reorient or relocate the receiving antenna.
+  * Increase the separation between the equipment and receiver.
+  * Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
+  * Consult the dealer or an experienced radio/TV technician to help.
+
+Warning IconA warning icon, calling your attention to a possibly risky
+situation
+
+CAUTION
+
+This equipment and its antennas must not be co-located or operated with
+another antenna or transmitter.
+
+## Canada
+
+CAN ICES-3 (B)/NMB-3(B)
+
+Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux
+appareils radioexempts de licence. L'exploitation est autorisée aux deux
+conditions suivantes : (1) l'appareilne doit pas produire de brouillage, et
+(2) l'utilisateur de l'appareil doit accepter tout brouillage radioélectrique
+subi, même si le brouillage est susceptible d'en compromettre
+lefonctionnement.
+
+Cet équipement est conforme aux limites d’exposition aux rayonnements ISED
+établies pour unenvironnement non contrôlé.
+
+### Déclaration d'exposition aux radiations
+
+Le produit est conforme à l'exposition RF ISED pour le transfert de puissance
+sans fil de consommateurs de faible puissance. La limite d'exposition RF fixée
+pour un environnement non contrôlé est sans danger pour le fonctionnement
+prévu tel que décrit dans ce manuel. L'exposition RF supplémentaire que la
+conformité a été démontrée à 20cm et plus de séparation du corps de
+l'utilisateur ou de mettre l'appareil à la puissance de sortie inférieure si
+une telle fonction est disponible.
+
+## Mexico
+
+IFT-008-SCFI-2015 / NOM-208-SCFI-2016
+
+TPMS, model: 1472547G, IFT#: RCPTE1421-4384
+
+La operación de este equipo está sujeta a las siguientes dos condiciones:
+
+  1. Es posible que este equipo o dispositivo no cause interferencia perjudicial.
+  2. Este equipo debe aceptar cualquier interferencia, incluyendo la que pueda causar su operación no deseada. 
+
+  
